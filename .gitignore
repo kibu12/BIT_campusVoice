@@ -1,0 +1,91 @@
+# ==========================================
+# BIT CAMPUSVOICE — PRODUCTION GITIGNORE
+# ==========================================
+
+# 1. Environment & Secret Keys
+.env
+.env.*
+*.env
+backend/.env
+backend/.env.*
+frontend/.env
+frontend/.env.*
+!.env.example
+!backend/.env.example
+!frontend/.env.example
+!.env.production.example
+!production.env.template
+
+# 2. Node & Frontend Dependencies & Builds
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+dist-ssr/
+frontend/dist-ssr/
+*.local
+.vite/
+frontend/.vite/
+
+# 3. Python Virtual Environments & Bytecode
+venv/
+backend/venv/
+.venv/
+env/
+ENV/
+__pycache__/
+backend/**/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+
+# 4. Local SQLite Databases & Logs
+*.db
+*.sqlite
+*.sqlite3
+*.log
+backend/*.db
+backend/*.sqlite3
+backend/data/*.db
+data/*.db
+
+# 5. Protected & Confidential Institutional Documents
+backend/data/protected/
+data/protected/
+backend/data/vectorstore/
+data/vectorstore/
+*.pkl
+*.faiss
+*.sha256
+
+# 6. OS & IDE Configuration Files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+
+# 7. Temporary verification and scratch files
+rag_verification_results.txt
+backend/rag_verification_results.txt
+Map_fils/

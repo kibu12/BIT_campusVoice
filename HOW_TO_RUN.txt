@@ -1,0 +1,51 @@
+============================================================
+  BIT CAMPUS VOICE - Multilingual AI Campus Assistant
+  Bannari Amman Institute of Technology, Sathyamangalam
+============================================================
+
+HOW TO RUN (Windows Local Development)
+=====================================
+
+STEP 1: Prerequisites
+  - Python 3.10 or 3.11  ->  https://www.python.org/downloads/
+    * During installation: CHECK "Add Python to PATH"
+  - Node.js LTS (v18+)   ->  https://nodejs.org/
+
+STEP 2: Launch the Application
+  - Double-click "START.bat"
+  - On first run, it will automatically:
+    * Create backend/.env and frontend/.env from templates if missing
+    * Create a Python virtual environment in backend/venv/
+    * Install backend Python dependencies
+    * Install frontend Node.js packages
+    * Start the FastAPI Backend on http://localhost:8000
+    * Start the Vite React Frontend on http://localhost:5173
+  - Your browser will open automatically at http://localhost:5173
+
+STEP 3: Authentication Flows
+  1. Student / Staff Login (Institutional):
+     - Click "Sign in with BIT Google Account"
+     - Authenticates via Google Workspace Single Sign-On (OpenID Connect)
+     - Requires an active @bitsathy.ac.in email address
+  2. Guest Mode:
+     - Click "Continue as Campus Guest"
+     - Instant guest session with access to campus navigation, FAQs, and admissions
+  3. Administrator Access:
+     - Switch to "Administrator Login"
+     - Credentials are configured securely in backend/.env:
+       * ADMIN_USERNAME (e.g. admin)
+       * ADMIN_PASSWORD_HASH (Argon2id hash generated via python)
+
+TO STOP THE APPLICATION:
+  - Close the two terminal windows running Backend and Frontend
+
+TROUBLESHOOTING:
+  - If the browser does not open automatically, visit: http://localhost:5173
+  - API documentation is available at: http://localhost:8000/docs
+  - If backend fails, ensure port 8000 is not occupied by another program
+  - Run security tests anytime via:
+    cd backend && python tests/security/run_all_security_tests.py
+
+============================================================
+  Bannari Amman Institute of Technology | 2026
+============================================================

@@ -1,0 +1,5292 @@
+[
+  {
+    "id": "fac-1",
+    "name": "Mr Chandrasakeran M",
+    "designation": "PIC Lab Incharge - MANUFACTURING & FABRICATION CELL",
+    "department": "Special Labs & Centers of Excellence",
+    "email": "chandrasekaran@bitsathy.ac.in",
+    "mobile": "9585496033",
+    "intercom": "",
+    "location": "Special Labs Block"
+  },
+  {
+    "id": "fac-2",
+    "name": "Dr Chinnadurrai CL",
+    "designation": "PIC Lab Incharge - HACKATHON",
+    "department": "Special Labs & Centers of Excellence",
+    "email": "chinnadurraicl@bitsathy.ac.in",
+    "mobile": "9600770944",
+    "intercom": "",
+    "location": "Special Labs Block"
+  },
+  {
+    "id": "fac-3",
+    "name": "Dr Haritha J",
+    "designation": "PIC Lab Incharge - SENSORS AND TAMIL COMPUTING",
+    "department": "Special Labs & Centers of Excellence",
+    "email": "haritha@bitsathy.ac.in",
+    "mobile": "9489221678",
+    "intercom": "",
+    "location": "Special Labs Block"
+  },
+  {
+    "id": "fac-4",
+    "name": "Dr Daniel Raj A",
+    "designation": "PIC Lab Incharge - EMBEDDED TECHNOLOGY",
+    "department": "Special Labs & Centers of Excellence",
+    "email": "danielraja@bitsathy.ac.in",
+    "mobile": "9095061141",
+    "intercom": "",
+    "location": "Special Labs Block"
+  },
+  {
+    "id": "fac-5",
+    "name": "Mr Alex Stanley Raja T",
+    "designation": "PIC Lab Incharge - ELECTRICAL DRIVES",
+    "department": "Special Labs & Centers of Excellence",
+    "email": "alexstanleyraja@bitsathy.ac.in",
+    "mobile": "9443322150",
+    "intercom": "",
+    "location": "Special Labs Block"
+  },
+  {
+    "id": "fac-6",
+    "name": "Dr Karthiga M",
+    "designation": "PIC Lab Incharge - DATA SCIENCE",
+    "department": "Special Labs & Centers of Excellence",
+    "email": "karthigam@bitsathy.ac.in",
+    "mobile": "9789483696",
+    "intercom": "",
+    "location": "Special Labs Block"
+  },
+  {
+    "id": "fac-7",
+    "name": "Mr Maheshkumar K",
+    "designation": "PIC Lab Incharge - CLOUD & CYBER SECURITY",
+    "department": "Special Labs & Centers of Excellence",
+    "email": "maheshkumar@bitsathy.ac.in",
+    "mobile": "9789739764",
+    "intercom": "",
+    "location": "Special Labs Block"
+  },
+  {
+    "id": "fac-8",
+    "name": "Ms Priya L",
+    "designation": "PIC Lab Incharge - BLOCKCHAIN TECHNOLOGY",
+    "department": "Special Labs & Centers of Excellence",
+    "email": "priyal@bitsathy.ac.in",
+    "mobile": "9486120099",
+    "intercom": "",
+    "location": "Special Labs Block"
+  },
+  {
+    "id": "fac-9",
+    "name": "Mr Rajaseetharama S",
+    "designation": "PIC Lab Incharge - BIOPROSPECTING CELL",
+    "department": "Special Labs & Centers of Excellence",
+    "email": "rajaseetharama@bitsathy.ac.in",
+    "mobile": "9994208375",
+    "intercom": "",
+    "location": "Special Labs Block"
+  },
+  {
+    "id": "fac-10",
+    "name": "Ms Mekala N",
+    "designation": "PIC Lab Incharge - FIBERTO FASHION",
+    "department": "Special Labs & Centers of Excellence",
+    "email": "mekalan@bitsathy.ac.in",
+    "mobile": "9025970385",
+    "intercom": "",
+    "location": "Special Labs Block"
+  },
+  {
+    "id": "fac-11",
+    "name": "Dr Manojkumar P",
+    "designation": "PIC Lab Incharge",
+    "department": "Special Labs & Centers of Excellence",
+    "email": "manojkumarp@bitsathy.ac.in",
+    "mobile": "9965466888",
+    "intercom": "",
+    "location": "Special Labs Block"
+  },
+  {
+    "id": "fac-12",
+    "name": "Mr Sathyaprabhu A",
+    "designation": "PIC Lab Incharge",
+    "department": "Special Labs & Centers of Excellence",
+    "email": "in7111@bitsathy.ac.in",
+    "mobile": "8056550373",
+    "intercom": "",
+    "location": "Special Labs Block"
+  },
+  {
+    "id": "fac-13",
+    "name": "Mrs Pradeesksha V",
+    "designation": "PIC Lab Incharge",
+    "department": "Special Labs & Centers of Excellence",
+    "email": "pradeekshav@bitsathy.ac.in",
+    "mobile": "9789029137",
+    "intercom": "",
+    "location": "Special Labs Block"
+  },
+  {
+    "id": "fac-14",
+    "name": "Dr Palanisamy C",
+    "designation": "Principal",
+    "department": "Administration & M-Team",
+    "email": "",
+    "mobile": "9965120967",
+    "intercom": "6050",
+    "location": "Administration & M-Team Block"
+  },
+  {
+    "id": "fac-15",
+    "name": "Dr Sivakumar K",
+    "designation": "Senior Prof.",
+    "department": "Administration & M-Team",
+    "email": "",
+    "mobile": "9486649777",
+    "intercom": "6130",
+    "location": "Administration & M-Team Block"
+  },
+  {
+    "id": "fac-16",
+    "name": "Dr Bharanikumar R",
+    "designation": "Professor In Charge",
+    "department": "IQAC & Administration",
+    "email": "",
+    "mobile": "9842285751",
+    "intercom": "",
+    "location": "IQAC & Administration Block"
+  },
+  {
+    "id": "fac-17",
+    "name": "Dr Sivaraj G",
+    "designation": "Asso.Prof.",
+    "department": "Aeronautical Engineering",
+    "email": "sivarajg@bitsathy.ac.in",
+    "mobile": "9965699808",
+    "intercom": "",
+    "location": "Aeronautical Engineering Block"
+  },
+  {
+    "id": "fac-18",
+    "name": "Mr Vadivelu P",
+    "designation": "Asst.Prof.Level III",
+    "department": "Aeronautical Engineering",
+    "email": "",
+    "mobile": "9659273022",
+    "intercom": "",
+    "location": "Aeronautical Engineering Block"
+  },
+  {
+    "id": "fac-19",
+    "name": "Mrs Rohini D",
+    "designation": "Asst.Prof.Level II",
+    "department": "Aeronautical Engineering",
+    "email": "rohini@bitsathy.ac.in",
+    "mobile": "9092695482",
+    "intercom": "",
+    "location": "Aeronautical Engineering Block"
+  },
+  {
+    "id": "fac-20",
+    "name": "Dr Chelladurai V",
+    "designation": "Asso.Prof.",
+    "department": "Agriculture Engineering",
+    "email": "chelladurai@bitsathy.ac.in",
+    "mobile": "9944400589",
+    "intercom": "6482",
+    "location": "Agriculture Engineering Block"
+  },
+  {
+    "id": "fac-21",
+    "name": "Dr Vionth Kumar J",
+    "designation": "Asst.Prof.Level III",
+    "department": "Agriculture Engineering",
+    "email": "",
+    "mobile": "9629955765",
+    "intercom": "",
+    "location": "Agriculture Engineering Block"
+  },
+  {
+    "id": "fac-22",
+    "name": "Dr Praveen Kumar D",
+    "designation": "Asst.Prof.Level II",
+    "department": "Agriculture Engineering",
+    "email": "praveenkumard@bitsathy.ac.in",
+    "mobile": "9042422999",
+    "intercom": "",
+    "location": "Agriculture Engineering Block"
+  },
+  {
+    "id": "fac-23",
+    "name": "Mr Muthukumaravel K",
+    "designation": "Asst.Prof.Level I",
+    "department": "Agriculture Engineering",
+    "email": "muthukumaravelk@bitsathy.ac.in",
+    "mobile": "9443414794",
+    "intercom": "",
+    "location": "Agriculture Engineering Block"
+  },
+  {
+    "id": "fac-24",
+    "name": "Ms Ananthi D",
+    "designation": "Asst.Prof.Level I",
+    "department": "Agriculture Engineering",
+    "email": "ananthid@bitsathy.ac.in",
+    "mobile": "8940830481",
+    "intercom": "",
+    "location": "Agriculture Engineering Block"
+  },
+  {
+    "id": "fac-25",
+    "name": "Dr Ragul S",
+    "designation": "Asst.Prof.Level I",
+    "department": "Agriculture Engineering",
+    "email": "",
+    "mobile": "9489678326",
+    "intercom": "",
+    "location": "Agriculture Engineering Block"
+  },
+  {
+    "id": "fac-26",
+    "name": "Ms Sneha A R",
+    "designation": "Asst.Prof.Level I",
+    "department": "Agriculture Engineering",
+    "email": "",
+    "mobile": "9345239301",
+    "intercom": "",
+    "location": "Agriculture Engineering Block"
+  },
+  {
+    "id": "fac-27",
+    "name": "Mr Dhayaneethi S",
+    "designation": "Asst.Prof.Level III",
+    "department": "Automobile Engineering",
+    "email": "",
+    "mobile": "9585971906",
+    "intercom": "",
+    "location": "Automobile Engineering Block"
+  },
+  {
+    "id": "fac-28",
+    "name": "Mr Tamilselvan A",
+    "designation": "Asst.Prof.Level III",
+    "department": "Automobile Engineering",
+    "email": "",
+    "mobile": "9688322267",
+    "intercom": "",
+    "location": "Automobile Engineering Block"
+  },
+  {
+    "id": "fac-29",
+    "name": "Dr Gomathi R Prof &",
+    "designation": "Head",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "",
+    "mobile": "9894250428",
+    "intercom": "6201",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-30",
+    "name": "Mr Balasamy K",
+    "designation": "Asst.Prof.Level III",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "balasamyk@bitsathy.ac.in",
+    "mobile": "9994926446",
+    "intercom": "",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-31",
+    "name": "Mr Ranjith G",
+    "designation": "Asst.Prof.Level III",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "ranjith@bitsathy.ac.in",
+    "mobile": "9600975790",
+    "intercom": "",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-32",
+    "name": "Mr Prabanand S C",
+    "designation": "Asst.Prof.Level III",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "prabanandsc@bitsathy.ac.in",
+    "mobile": "9791456452",
+    "intercom": "",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-33",
+    "name": "Mrs Nithyapriya S",
+    "designation": "Asst.Prof.Level III",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "nithyapriyas@bitsathy.ac.in",
+    "mobile": "9715649902",
+    "intercom": "",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-34",
+    "name": "Ms Esakki Madura E",
+    "designation": "Asst.Prof.Level III",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "esakkimadurae@bitsathy.ac.in",
+    "mobile": "8220753727",
+    "intercom": "",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-35",
+    "name": "Mr Chozharajan P",
+    "designation": "Asst.Prof.Level III",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "chozharajanp@bitsathy.ac.in",
+    "mobile": "9659636378",
+    "intercom": "",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-36",
+    "name": "Mr Somasundaram K",
+    "designation": "Asst.Prof.Level III",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "somasundaramk@bitsathy.ac.in",
+    "mobile": "9043079043",
+    "intercom": "",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-37",
+    "name": "Mrs Saveetha R",
+    "designation": "Asst.Prof.Level III",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "saveethar@bitsathy.ac.in",
+    "mobile": "6381993871",
+    "intercom": "",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-38",
+    "name": "Mr Navaneeth Kumar K",
+    "designation": "Asst.Prof.Level III",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "",
+    "mobile": "7418738936",
+    "intercom": "",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-39",
+    "name": "Mr Satheeshkuamr S",
+    "designation": "Asst.Prof.Level II",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "",
+    "mobile": "9003806384",
+    "intercom": "",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-40",
+    "name": "Mrs Nisha Devi K",
+    "designation": "Asst.Prof.Level II",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "nishadevik@bitsathy.ac.in",
+    "mobile": "8428717602",
+    "intercom": "",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-41",
+    "name": "Mr Raj Kumar V S",
+    "designation": "Asst.Prof.Level II",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "",
+    "mobile": "8012793693",
+    "intercom": "",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-42",
+    "name": "Mrs Divyabarathi P",
+    "designation": "Asst.Prof.Level II",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "divyabarathip@bitsathy.ac.in",
+    "mobile": "9894922646",
+    "intercom": "",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-43",
+    "name": "Mrs Vaanathi S",
+    "designation": "Asst.Prof.Level II",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "vaanathi@bitsathy.ac.in",
+    "mobile": "8668060922",
+    "intercom": "",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-44",
+    "name": "Mr Satheesh N P",
+    "designation": "Asst.Prof.Level I",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "satheeshnp@bitsathy.ac.in",
+    "mobile": "9994306930",
+    "intercom": "",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-45",
+    "name": "Mrs Kiruthiga R",
+    "designation": "Asst.Prof.Level I",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "kiruthigar@bitsathy.ac.in",
+    "mobile": "8300276265",
+    "intercom": "",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-46",
+    "name": "Mrs Ashfron Hermina J M",
+    "designation": "Asst.Prof.Level I",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "",
+    "mobile": "8489122510",
+    "intercom": "",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-47",
+    "name": "Mrs Jeevitha S V",
+    "designation": "Asst.Prof.Level I",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "jeevithasv@bitsathy.ac.in",
+    "mobile": "6383049191",
+    "intercom": "",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-48",
+    "name": "Mr Premkumar C",
+    "designation": "Asst.Prof.Level I",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "premkumar@bitsathy.ac.in",
+    "mobile": "7010951832",
+    "intercom": "",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-49",
+    "name": "Ms Reshmi T S",
+    "designation": "Asst.Prof.Level I",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "",
+    "mobile": "7592061305",
+    "intercom": "",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-50",
+    "name": "Mrs Kalpana R",
+    "designation": "Asst.Prof.Level I",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "kalpana@bitsathy.ac.in",
+    "mobile": "9659409255",
+    "intercom": "",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-51",
+    "name": "Ms Suriya V",
+    "designation": "Asst.Prof.Level I",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "suriya@bitsathy.ac.in",
+    "mobile": "9688834598",
+    "intercom": "",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-52",
+    "name": "Mrs Hema Priya D",
+    "designation": "Asst.Prof.Level I",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "hemapriyad@bitsathy.ac.in",
+    "mobile": "9894571583",
+    "intercom": "",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-53",
+    "name": "Ms Priyadharshni S",
+    "designation": "Asst.Prof.Level I",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "priyadharshni@bitsathy.ac.in",
+    "mobile": "6369370916",
+    "intercom": "",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-54",
+    "name": "Mrs Manju M",
+    "designation": "Asst.Prof.Level I",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "manju@bitsathy.ac.in",
+    "mobile": "9842466943",
+    "intercom": "",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-55",
+    "name": "Mrs Divya S",
+    "designation": "Asst.Prof.Level I",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "",
+    "mobile": "9047528168",
+    "intercom": "",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-56",
+    "name": "Mr Sasson Taffwin Moses S",
+    "designation": "Asst.Prof.Level I",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "",
+    "mobile": "9087200288",
+    "intercom": "",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-57",
+    "name": "Ms Manochitra A S",
+    "designation": "Asst.Prof.Level I",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "",
+    "mobile": "9443040421",
+    "intercom": "",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-58",
+    "name": "Mrs Indhumathi K",
+    "designation": "Asst.Prof.Level I",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "",
+    "mobile": "9489504697",
+    "intercom": "",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-59",
+    "name": "Mrs Ramalakshmi S",
+    "designation": "Asst.Prof.Level I",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "",
+    "mobile": "8870367871",
+    "intercom": "",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-60",
+    "name": "Ms Shabdhasree C",
+    "designation": "Asst.Prof.Level I",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "",
+    "mobile": "9344784214",
+    "intercom": "",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-61",
+    "name": "Mr Vishvak S",
+    "designation": "Asst.Prof.Level I",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "",
+    "mobile": "8012729869",
+    "intercom": "",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-62",
+    "name": "Ms Guna Soundiri O C",
+    "designation": "Asst.Prof.Level I",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "",
+    "mobile": "7695982030",
+    "intercom": "",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-63",
+    "name": "Ms Srisoundaryaa S P",
+    "designation": "Asst.Prof.Level I",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "",
+    "mobile": "6380894745",
+    "intercom": "",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-64",
+    "name": "Mrs Priya P",
+    "designation": "Asst.Prof.Level I",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "",
+    "mobile": "8838663246",
+    "intercom": "",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-65",
+    "name": "Mrs Nithya K",
+    "designation": "Asst.Prof.Level I",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "",
+    "mobile": "9524123114",
+    "intercom": "",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-66",
+    "name": "Ms Trishala A G",
+    "designation": "Asst.Prof.Level I",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "",
+    "mobile": "6380909671",
+    "intercom": "",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-67",
+    "name": "Dr Bharathi A",
+    "designation": "Prof. & Head",
+    "department": "Artificial Intelligence and Machine Learning",
+    "email": "bharathia@bitsathy.ac.in",
+    "mobile": "9865530099",
+    "intercom": "",
+    "location": "Artificial Intelligence and Machine Learning Block"
+  },
+  {
+    "id": "fac-68",
+    "name": "Dr Gopalakrishnan B",
+    "designation": "Prof.",
+    "department": "Artificial Intelligence and Machine Learning",
+    "email": "gopalakrishnanb@bitsathy.ac.in",
+    "mobile": "9443914964",
+    "intercom": "",
+    "location": "Artificial Intelligence and Machine Learning Block"
+  },
+  {
+    "id": "fac-69",
+    "name": "Dr Rajasekar S S",
+    "designation": "Asso. Prof.",
+    "department": "Artificial Intelligence and Machine Learning",
+    "email": "rajasekarss@bitsathy.ac.in",
+    "mobile": "9486666025",
+    "intercom": "",
+    "location": "Artificial Intelligence and Machine Learning Block"
+  },
+  {
+    "id": "fac-70",
+    "name": "Dr Padmashree A",
+    "designation": "Asso. Prof.",
+    "department": "Artificial Intelligence and Machine Learning",
+    "email": "padmashreea@bitsathy.ac.in",
+    "mobile": "9994813431",
+    "intercom": "",
+    "location": "Artificial Intelligence and Machine Learning Block"
+  },
+  {
+    "id": "fac-71",
+    "name": "Dr Karthikeyan G",
+    "designation": "Asst.Prof.Level III",
+    "department": "Artificial Intelligence and Machine Learning",
+    "email": "",
+    "mobile": "9344372393",
+    "intercom": "",
+    "location": "Artificial Intelligence and Machine Learning Block"
+  },
+  {
+    "id": "fac-72",
+    "name": "Mrs Eugene Berna I",
+    "designation": "Asst.Prof.Level III",
+    "department": "Artificial Intelligence and Machine Learning",
+    "email": "eugenebernai@bitsathy.ac.in",
+    "mobile": "9677735998",
+    "intercom": "",
+    "location": "Artificial Intelligence and Machine Learning Block"
+  },
+  {
+    "id": "fac-73",
+    "name": "Mr Balamurugan E",
+    "designation": "Asst.Prof.Level II",
+    "department": "Artificial Intelligence and Machine Learning",
+    "email": "balamurugane@bitsathy.ac.in",
+    "mobile": "9360793842",
+    "intercom": "",
+    "location": "Artificial Intelligence and Machine Learning Block"
+  },
+  {
+    "id": "fac-74",
+    "name": "Mrs Hari Priya R",
+    "designation": "Asst.Prof.Level II",
+    "department": "Artificial Intelligence and Machine Learning",
+    "email": "haripriyar@bitsathy.ac.in",
+    "mobile": "8754359022",
+    "intercom": "",
+    "location": "Artificial Intelligence and Machine Learning Block"
+  },
+  {
+    "id": "fac-75",
+    "name": "Mr Nithin P",
+    "designation": "Asst.Prof.Level II",
+    "department": "Artificial Intelligence and Machine Learning",
+    "email": "nithinp@bitsathy.ac.in",
+    "mobile": "9345240451",
+    "intercom": "",
+    "location": "Artificial Intelligence and Machine Learning Block"
+  },
+  {
+    "id": "fac-76",
+    "name": "Mr SatheshKumar K",
+    "designation": "Asst.Prof.Level II",
+    "department": "Artificial Intelligence and Machine Learning",
+    "email": "satheshkumar@bitsathy.ac.in",
+    "mobile": "9751457317",
+    "intercom": "",
+    "location": "Artificial Intelligence and Machine Learning Block"
+  },
+  {
+    "id": "fac-77",
+    "name": "Ms Karthika S",
+    "designation": "Asst.Prof.Level I",
+    "department": "Artificial Intelligence and Machine Learning",
+    "email": "karthikams@bitsathy.ac.in",
+    "mobile": "8870248269",
+    "intercom": "",
+    "location": "Artificial Intelligence and Machine Learning Block"
+  },
+  {
+    "id": "fac-78",
+    "name": "Ms Ezhil R",
+    "designation": "Asst.Prof.Level I",
+    "department": "Artificial Intelligence and Machine Learning",
+    "email": "ezhilr@bitsathy.ac.in",
+    "mobile": "9597918579",
+    "intercom": "",
+    "location": "Artificial Intelligence and Machine Learning Block"
+  },
+  {
+    "id": "fac-79",
+    "name": "Mrs Pavithra G",
+    "designation": "Asst.Prof.Level I",
+    "department": "Artificial Intelligence and Machine Learning",
+    "email": "pavithra@bitsathy.ac.in",
+    "mobile": "9942618017",
+    "intercom": "",
+    "location": "Artificial Intelligence and Machine Learning Block"
+  },
+  {
+    "id": "fac-80",
+    "name": "Ms Kanimozhi A",
+    "designation": "Asst.Prof.Level I",
+    "department": "Artificial Intelligence and Machine Learning",
+    "email": "kanimozhi@bitsathy.ac.in",
+    "mobile": "8489753514",
+    "intercom": "",
+    "location": "Artificial Intelligence and Machine Learning Block"
+  },
+  {
+    "id": "fac-81",
+    "name": "Ms Nishanthini S",
+    "designation": "Asst.Prof.Level I",
+    "department": "Artificial Intelligence and Machine Learning",
+    "email": "nishanthinis@bitsathy.ac.in",
+    "mobile": "9655155653",
+    "intercom": "",
+    "location": "Artificial Intelligence and Machine Learning Block"
+  },
+  {
+    "id": "fac-82",
+    "name": "Mrs Gayathridevi M",
+    "designation": "Asst.Prof.Level I",
+    "department": "Artificial Intelligence and Machine Learning",
+    "email": "gayathridevi@bitsathy.ac.in",
+    "mobile": "8072967507",
+    "intercom": "",
+    "location": "Artificial Intelligence and Machine Learning Block"
+  },
+  {
+    "id": "fac-83",
+    "name": "Ms Sasithra S",
+    "designation": "Asst.Prof.Level I",
+    "department": "Artificial Intelligence and Machine Learning",
+    "email": "sasithra@bitsathy.ac.in",
+    "mobile": "9043601065",
+    "intercom": "",
+    "location": "Artificial Intelligence and Machine Learning Block"
+  },
+  {
+    "id": "fac-84",
+    "name": "Mrs Lokeswari P",
+    "designation": "Asst.Prof.Level I",
+    "department": "Artificial Intelligence and Machine Learning",
+    "email": "lokeswari@bitsathy.ac.in",
+    "mobile": "9150516418",
+    "intercom": "",
+    "location": "Artificial Intelligence and Machine Learning Block"
+  },
+  {
+    "id": "fac-85",
+    "name": "Mrs Saranya M K",
+    "designation": "Asst.Prof.Level I",
+    "department": "Artificial Intelligence and Machine Learning",
+    "email": "saranyaks@bitsathy.ac.in",
+    "mobile": "9840366182",
+    "intercom": "",
+    "location": "Artificial Intelligence and Machine Learning Block"
+  },
+  {
+    "id": "fac-86",
+    "name": "Ms Priyadharshini M",
+    "designation": "Asst.Prof.Level I",
+    "department": "Artificial Intelligence and Machine Learning",
+    "email": "",
+    "mobile": "9042307463",
+    "intercom": "",
+    "location": "Artificial Intelligence and Machine Learning Block"
+  },
+  {
+    "id": "fac-87",
+    "name": "Mrs Aathifa Nusrath S",
+    "designation": "Asst.Prof.Level I",
+    "department": "Artificial Intelligence and Machine Learning",
+    "email": "",
+    "mobile": "7867085708",
+    "intercom": "",
+    "location": "Artificial Intelligence and Machine Learning Block"
+  },
+  {
+    "id": "fac-88",
+    "name": "Mrs Haripriya S",
+    "designation": "Asst.Prof.Level I",
+    "department": "Artificial Intelligence and Machine Learning",
+    "email": "",
+    "mobile": "8015376968",
+    "intercom": "",
+    "location": "Artificial Intelligence and Machine Learning Block"
+  },
+  {
+    "id": "fac-89",
+    "name": "Dr Deepa D",
+    "designation": "Prof. & Head",
+    "department": "Biomedical Engineering",
+    "email": "ddeepa@bitsathy.ac.in",
+    "mobile": "9942912613",
+    "intercom": "6591",
+    "location": "Biomedical Engineering Block"
+  },
+  {
+    "id": "fac-90",
+    "name": "Ms Caroline Vinnetia S",
+    "designation": "Asst.Prof.Level II",
+    "department": "Biomedical Engineering",
+    "email": "carolinevinnetias@bitsathy.ac.in",
+    "mobile": "7373033648",
+    "intercom": "",
+    "location": "Biomedical Engineering Block"
+  },
+  {
+    "id": "fac-91",
+    "name": "Ms Sreeniveatha P",
+    "designation": "Asst.Prof.Level I",
+    "department": "Biomedical Engineering",
+    "email": "",
+    "mobile": "8072191202",
+    "intercom": "",
+    "location": "Biomedical Engineering Block"
+  },
+  {
+    "id": "fac-92",
+    "name": "Ms Pratheebha G",
+    "designation": "Asst.Prof.Level I",
+    "department": "Biomedical Engineering",
+    "email": "",
+    "mobile": "9629114719",
+    "intercom": "",
+    "location": "Biomedical Engineering Block"
+  },
+  {
+    "id": "fac-93",
+    "name": "Dr Balakrishnaraja R",
+    "designation": "Prof. & Head",
+    "department": "Biotechnology",
+    "email": "",
+    "mobile": "9488570421",
+    "intercom": "",
+    "location": "Biotechnology Block"
+  },
+  {
+    "id": "fac-94",
+    "name": "Dr Kannan K P",
+    "designation": "Prof.",
+    "department": "Biotechnology",
+    "email": "kannankp@bitsathy.ac.in",
+    "mobile": "7810074980",
+    "intercom": "",
+    "location": "Biotechnology Block"
+  },
+  {
+    "id": "fac-95",
+    "name": "Dr Tamilselvi S",
+    "designation": "Prof.",
+    "department": "Biotechnology",
+    "email": "tamilselvis@bitsathy.ac.in",
+    "mobile": "9942588072",
+    "intercom": "",
+    "location": "Biotechnology Block"
+  },
+  {
+    "id": "fac-96",
+    "name": "Dr Pavithra M K S",
+    "designation": "Asso.Prof.",
+    "department": "Biotechnology",
+    "email": "pavithramks@bitsathy.ac.in",
+    "mobile": "9488476278",
+    "intercom": "",
+    "location": "Biotechnology Block"
+  },
+  {
+    "id": "fac-97",
+    "name": "Dr Ashwin Raj S",
+    "designation": "Asst.Prof.Level III",
+    "department": "Biotechnology",
+    "email": "ashwinraj@bitsathy.ac.in",
+    "mobile": "9843956641",
+    "intercom": "",
+    "location": "Biotechnology Block"
+  },
+  {
+    "id": "fac-98",
+    "name": "Mr Jeyavel Karthick P",
+    "designation": "Asst.Prof.Level II",
+    "department": "Biotechnology",
+    "email": "jeyavelkarthick@bitsathy.ac.in",
+    "mobile": "7010989840",
+    "intercom": "",
+    "location": "Biotechnology Block"
+  },
+  {
+    "id": "fac-99",
+    "name": "Mrs Sakthishobana K",
+    "designation": "Asst.Prof.Level II",
+    "department": "Biotechnology",
+    "email": "sakthishobanak@bitsathy.ac.in",
+    "mobile": "7418416913",
+    "intercom": "",
+    "location": "Biotechnology Block"
+  },
+  {
+    "id": "fac-100",
+    "name": "Mr Balaji S",
+    "designation": "Asst.Prof.Level II",
+    "department": "Biotechnology",
+    "email": "balajisadhasivam@bitsathy.ac.in",
+    "mobile": "9944266097",
+    "intercom": "",
+    "location": "Biotechnology Block"
+  },
+  {
+    "id": "fac-101",
+    "name": "Dr Arunasree TNA",
+    "designation": "Asst.Prof.Level II",
+    "department": "Biotechnology",
+    "email": "arunasreetna@bitsathy.ac.in",
+    "mobile": "8870981032",
+    "intercom": "",
+    "location": "Biotechnology Block"
+  },
+  {
+    "id": "fac-102",
+    "name": "Dr Saranya S",
+    "designation": "Asst.Prof.Level II",
+    "department": "Biotechnology",
+    "email": "",
+    "mobile": "9942225339",
+    "intercom": "",
+    "location": "Biotechnology Block"
+  },
+  {
+    "id": "fac-103",
+    "name": "Ms Swathi G",
+    "designation": "Asst.Prof.Level I",
+    "department": "Biotechnology",
+    "email": "swathi@bitsathy.ac.in",
+    "mobile": "9942461163",
+    "intercom": "",
+    "location": "Biotechnology Block"
+  },
+  {
+    "id": "fac-104",
+    "name": "Mrs Mahima P",
+    "designation": "Asst.Prof.Level I",
+    "department": "Biotechnology",
+    "email": "mahimap@bitsathy.ac.in",
+    "mobile": "9080679208",
+    "intercom": "",
+    "location": "Biotechnology Block"
+  },
+  {
+    "id": "fac-105",
+    "name": "Ms Nandhini N",
+    "designation": "Asst.Prof.Level I",
+    "department": "Biotechnology",
+    "email": "",
+    "mobile": "9944299460",
+    "intercom": "",
+    "location": "Biotechnology Block"
+  },
+  {
+    "id": "fac-106",
+    "name": "Mrs Vinodhini R T",
+    "designation": "Asst.Prof.Level I",
+    "department": "Biotechnology",
+    "email": "",
+    "mobile": "8344103004",
+    "intercom": "",
+    "location": "Biotechnology Block"
+  },
+  {
+    "id": "fac-107",
+    "name": "Mrs Shankari V",
+    "designation": "Asst.Prof.Level I",
+    "department": "Biotechnology",
+    "email": "",
+    "mobile": "7019283484",
+    "intercom": "",
+    "location": "Biotechnology Block"
+  },
+  {
+    "id": "fac-108",
+    "name": "Ms Pavithra Suresh",
+    "designation": "Asst.Prof.Level I",
+    "department": "Biotechnology",
+    "email": "pavithramks@bitsathy.ac.in",
+    "mobile": "9655896578",
+    "intercom": "",
+    "location": "Biotechnology Block"
+  },
+  {
+    "id": "fac-109",
+    "name": "Ms Deepika M",
+    "designation": "Asst.Prof.Level I",
+    "department": "Biotechnology",
+    "email": "",
+    "mobile": "9360327270",
+    "intercom": "",
+    "location": "Biotechnology Block"
+  },
+  {
+    "id": "fac-110",
+    "name": "Mr Karthick A",
+    "designation": "Asst.Prof.Level I",
+    "department": "Biotechnology",
+    "email": "",
+    "mobile": "8883161961",
+    "intercom": "",
+    "location": "Biotechnology Block"
+  },
+  {
+    "id": "fac-111",
+    "name": "Ms Smrithi R",
+    "designation": "Asst.Prof.Level I",
+    "department": "Biotechnology",
+    "email": "",
+    "mobile": "8838143451",
+    "intercom": "",
+    "location": "Biotechnology Block"
+  },
+  {
+    "id": "fac-112",
+    "name": "Mr Kathirvelan V",
+    "designation": "Asst.Prof.Level I",
+    "department": "Biotechnology",
+    "email": "",
+    "mobile": "9345767874",
+    "intercom": "",
+    "location": "Biotechnology Block"
+  },
+  {
+    "id": "fac-113",
+    "name": "Mr Karthih M G",
+    "designation": "Asst.Prof.Level I",
+    "department": "Biotechnology",
+    "email": "",
+    "mobile": "9443958736",
+    "intercom": "",
+    "location": "Biotechnology Block"
+  },
+  {
+    "id": "fac-114",
+    "name": "Mrs Chitra Devi T",
+    "designation": "Asst.Prof.Level I",
+    "department": "Biotechnology",
+    "email": "chitradevi@bitsathy.ac.in",
+    "mobile": "9677990070",
+    "intercom": "",
+    "location": "Biotechnology Block"
+  },
+  {
+    "id": "fac-115",
+    "name": "Mrs Monisha B",
+    "designation": "Asst.Prof.Level I",
+    "department": "Biotechnology",
+    "email": "",
+    "mobile": "9600288370",
+    "intercom": "",
+    "location": "Biotechnology Block"
+  },
+  {
+    "id": "fac-116",
+    "name": "Dr Mohanraj A",
+    "designation": "Asst.Prof.Level III",
+    "department": "Civil Engineering",
+    "email": "mohanraja@bitsathy.ac.in",
+    "mobile": "9500577575",
+    "intercom": "",
+    "location": "Civil Engineering Block"
+  },
+  {
+    "id": "fac-117",
+    "name": "Mr Gnanasundar V M",
+    "designation": "Asst.Prof.Level III",
+    "department": "Civil Engineering",
+    "email": "",
+    "mobile": "8807474554",
+    "intercom": "",
+    "location": "Civil Engineering Block"
+  },
+  {
+    "id": "fac-118",
+    "name": "Dr Jeyanth B",
+    "designation": "Asst.Prof.Level III",
+    "department": "Civil Engineering",
+    "email": "jeyanth@bitsathy.ac.in",
+    "mobile": "7502363602",
+    "intercom": "",
+    "location": "Civil Engineering Block"
+  },
+  {
+    "id": "fac-119",
+    "name": "Mrs Geethamani R",
+    "designation": "Asst.Prof.Level III",
+    "department": "Civil Engineering",
+    "email": "geethamanir@bitsathy.ac.in",
+    "mobile": "8754862106",
+    "intercom": "",
+    "location": "Civil Engineering Block"
+  },
+  {
+    "id": "fac-120",
+    "name": "Mr Rajendran M",
+    "designation": "Asst.Prof.Level III",
+    "department": "Civil Engineering",
+    "email": "rajendranm@bitsathy.ac.in",
+    "mobile": "9843836626",
+    "intercom": "",
+    "location": "Civil Engineering Block"
+  },
+  {
+    "id": "fac-121",
+    "name": "Ms Ashwathi R",
+    "designation": "Asst.Prof.Level II",
+    "department": "Civil Engineering",
+    "email": "ashwathi@bitsathy.ac.in",
+    "mobile": "7904056447",
+    "intercom": "",
+    "location": "Civil Engineering Block"
+  },
+  {
+    "id": "fac-122",
+    "name": "Ms Yuvalatha S",
+    "designation": "Asst.Prof.Level II",
+    "department": "Computer Science and Business Systems",
+    "email": "",
+    "mobile": "9715649901",
+    "intercom": "",
+    "location": "Computer Science and Business Systems Block"
+  },
+  {
+    "id": "fac-123",
+    "name": "Mrs Madhumitha A",
+    "designation": "Asst.Prof.Level I",
+    "department": "Computer Science and Business Systems",
+    "email": "",
+    "mobile": "8870820792",
+    "intercom": "",
+    "location": "Computer Science and Business Systems Block"
+  },
+  {
+    "id": "fac-124",
+    "name": "Mrs Saranya N",
+    "designation": "Asst.Prof.Level I",
+    "department": "Computer Science and Business Systems",
+    "email": "saranyan@bitsathy.ac.in",
+    "mobile": "7708825195",
+    "intercom": "",
+    "location": "Computer Science and Business Systems Block"
+  },
+  {
+    "id": "fac-125",
+    "name": "Ms Naveenya B P",
+    "designation": "Asst.Prof.Level I",
+    "department": "Computer Science and Business Systems",
+    "email": "naveenya@bitsathy.ac.in",
+    "mobile": "9842912526",
+    "intercom": "",
+    "location": "Computer Science and Business Systems Block"
+  },
+  {
+    "id": "fac-126",
+    "name": "Mrs Vaishnavi N",
+    "designation": "Assistant Professor",
+    "department": "Computer Science and Business Systems",
+    "email": "",
+    "mobile": "9944728327",
+    "intercom": "",
+    "location": "Computer Science and Business Systems Block"
+  },
+  {
+    "id": "fac-127",
+    "name": "Mr Prabakar S J",
+    "designation": "Assistant Professor",
+    "department": "Computer Science and Business Systems",
+    "email": "",
+    "mobile": "8838245590",
+    "intercom": "",
+    "location": "Computer Science and Business Systems Block"
+  },
+  {
+    "id": "fac-128",
+    "name": "Dr Sasikala D",
+    "designation": "Prof. & Head",
+    "department": "Computer Science and Engineering",
+    "email": "sasikalad@bitsathy.ac.in",
+    "mobile": "9443647956",
+    "intercom": "6191",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-129",
+    "name": "Dr Premalatha K",
+    "designation": "Prof.",
+    "department": "Computer Science and Engineering",
+    "email": "",
+    "mobile": "9443487632",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-130",
+    "name": "Dr Sathish Kumar P",
+    "designation": "Prof.",
+    "department": "Computer Science and Engineering",
+    "email": "sathishkumarp@bitsathy.ac.in",
+    "mobile": "9965591562",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-131",
+    "name": "Dr Rajeshkumar G",
+    "designation": "Prof.",
+    "department": "Computer Science and Engineering",
+    "email": "rajeshkumarg@bitsathy.ac.in",
+    "mobile": "9486294728",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-132",
+    "name": "Dr Sangeetha S N",
+    "designation": "Prof.",
+    "department": "Computer Science and Engineering",
+    "email": "sangeethaasn@bitsathy.ac.in",
+    "mobile": "9698816288",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-133",
+    "name": "Dr Saranya K",
+    "designation": "Asso.Prof.",
+    "department": "Computer Science and Engineering",
+    "email": "saranyaks@bitsathy.ac.in",
+    "mobile": "8056788590",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-134",
+    "name": "Dr Deepa Priya B S",
+    "designation": "Asso.Prof.",
+    "department": "Computer Science and Engineering",
+    "email": "deepapriya@bitsathy.ac.in",
+    "mobile": "9486663388",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-135",
+    "name": "Dr Ramya R",
+    "designation": "Asso.Prof.",
+    "department": "Computer Science and Engineering",
+    "email": "ramyarv@bitsathy.ac.in",
+    "mobile": "9894618798",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-136",
+    "name": "Dr Parthasarathi P",
+    "designation": "Asso.Prof.",
+    "department": "Computer Science and Engineering",
+    "email": "parthasarathip@bitsathy.ac.in",
+    "mobile": "9994138541",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-137",
+    "name": "Dr Dhivya P",
+    "designation": "Asso.Prof.",
+    "department": "Computer Science and Engineering",
+    "email": "dhivyap@bitsathy.ac.in",
+    "mobile": "9942385558",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-138",
+    "name": "Dr Rajesh Kanna P",
+    "designation": "Asso.Prof.",
+    "department": "Computer Science and Engineering",
+    "email": "rajeshkannap@bitsathy.ac.in",
+    "mobile": "9659454703",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-139",
+    "name": "Dr Dinesh P S",
+    "designation": "Asso.Prof.",
+    "department": "Computer Science and Engineering",
+    "email": "dineshps@bitsathy.ac.in",
+    "mobile": "9942984621",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-140",
+    "name": "Dr Praveen V",
+    "designation": "Asso.Prof.",
+    "department": "Computer Science and Engineering",
+    "email": "praveen@bitsathy.ac.in",
+    "mobile": "8946035896",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-141",
+    "name": "Dr Swathypriyadharsini P",
+    "designation": "Asso.Prof.",
+    "department": "Computer Science and Engineering",
+    "email": "",
+    "mobile": "9047172554",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-142",
+    "name": "Mr Sathishkannan R",
+    "designation": "Asst.Prof.Level III",
+    "department": "Computer Science and Engineering",
+    "email": "sathishkannanr@bitsathy.ac.in",
+    "mobile": "9047973964",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-143",
+    "name": "Mr Ramasami S",
+    "designation": "Asst.Prof.Level III",
+    "department": "Computer Science and Engineering",
+    "email": "ramasamis@bitsathy.ac.in",
+    "mobile": "9894733230",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-144",
+    "name": "Mrs Prabha Devi D",
+    "designation": "Asst.Prof.Level III",
+    "department": "Computer Science and Engineering",
+    "email": "prabhadevi@bitsathy.ac.in",
+    "mobile": "9600915198",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-145",
+    "name": "Mrs Soundariya R S",
+    "designation": "Asst.Prof.Level III",
+    "department": "Computer Science and Engineering",
+    "email": "soundariya@bitsathy.ac.in",
+    "mobile": "7708878941",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-146",
+    "name": "Mrs Alamelu M",
+    "designation": "Asst.Prof.Level III",
+    "department": "Computer Science and Engineering",
+    "email": "alamelu@bitsathy.ac.in",
+    "mobile": "9003341151",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-147",
+    "name": "Mrs Kavitha R",
+    "designation": "Asst.Prof.Level III",
+    "department": "Computer Science and Engineering",
+    "email": "kavithar@bitsathy.ac.in",
+    "mobile": "7708541126",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-148",
+    "name": "Mr Suseendran S",
+    "designation": "Asst.Prof.Level III",
+    "department": "Computer Science and Engineering",
+    "email": "suseendrans@bitsathy.ac.in",
+    "mobile": "9787914434",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-149",
+    "name": "Mrs Ammu V",
+    "designation": "Asst.Prof.Level III",
+    "department": "Computer Science and Engineering",
+    "email": "ammu@bitsathy.ac.in",
+    "mobile": "9443117507",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-150",
+    "name": "Mr Chandru K S",
+    "designation": "Asst.Prof.Level III",
+    "department": "Computer Science and Engineering",
+    "email": "chandruks@bitsathy.ac.in",
+    "mobile": "9994377301",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-151",
+    "name": "Mr Magesh Kumar B",
+    "designation": "Asst.Prof.Level II",
+    "department": "Computer Science and Engineering",
+    "email": "mageshkumar@bitsathy.ac.in",
+    "mobile": "9944055976",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-152",
+    "name": "Ms Kiruthika V R",
+    "designation": "Asst.Prof.Level II",
+    "department": "Computer Science and Engineering",
+    "email": "kiruthikavr@bitsathy.ac.in",
+    "mobile": "8015567172",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-153",
+    "name": "Mrs Nithya R",
+    "designation": "Asst.Prof.Level II",
+    "department": "Computer Science and Engineering",
+    "email": "nithyapriyas@bitsathy.ac.in",
+    "mobile": "9080816482",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-154",
+    "name": "Ms Sangavi N",
+    "designation": "Asst.Prof.Level II",
+    "department": "Computer Science and Engineering",
+    "email": "sangavin@bitsathy.ac.in",
+    "mobile": "9585897726",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-155",
+    "name": "Mr Mohan Kumar V",
+    "designation": "Asst.Prof.Level II",
+    "department": "Computer Science and Engineering",
+    "email": "mohankumar@bitsathy.ac.in",
+    "mobile": "9597391293",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-156",
+    "name": "Mrs Sudha R",
+    "designation": "Asst.Prof.Level II",
+    "department": "Computer Science and Engineering",
+    "email": "sudha@bitsathy.ac.in",
+    "mobile": "9715515698",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-157",
+    "name": "Mr Anandan P",
+    "designation": "Asst.Prof.Level II",
+    "department": "Computer Science and Engineering",
+    "email": "anandan@bitsathy.ac.in",
+    "mobile": "8883823334",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-158",
+    "name": "Mrs Chitradevi T N",
+    "designation": "Asst.Prof.Level II",
+    "department": "Computer Science and Engineering",
+    "email": "chitradevi@bitsathy.ac.in",
+    "mobile": "9942744088",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-159",
+    "name": "Mrs Nithyasri A",
+    "designation": "Asst.Prof.Level II",
+    "department": "Computer Science and Engineering",
+    "email": "",
+    "mobile": "9443217484",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-160",
+    "name": "Mr Steephen Amalraj J",
+    "designation": "Asst.Prof.Level I",
+    "department": "Computer Science and Engineering",
+    "email": "",
+    "mobile": "6381501343",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-161",
+    "name": "Mr Sathyamoorthy J",
+    "designation": "Asst.Prof.Level I",
+    "department": "Computer Science and Engineering",
+    "email": "sathyamoorthyj@bitsathy.ac.in",
+    "mobile": "9789665587",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-162",
+    "name": "Mrs Mohanambal K",
+    "designation": "Asst.Prof.Level I",
+    "department": "Computer Science and Engineering",
+    "email": "mohanambal@bitsathy.ac.in",
+    "mobile": "9994498898",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-163",
+    "name": "Mrs Gayathri S",
+    "designation": "Asst.Prof.Level I",
+    "department": "Computer Science and Engineering",
+    "email": "gayathris@bitsathy.ac.in",
+    "mobile": "9965064477",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-164",
+    "name": "Mrs Gunavardini V",
+    "designation": "Asst.Prof.Level I",
+    "department": "Computer Science and Engineering",
+    "email": "gunavardini@bitsathy.ac.in",
+    "mobile": "9025072698",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-165",
+    "name": "Mrs Priyanga M A",
+    "designation": "Asst.Prof.Level I",
+    "department": "Computer Science and Engineering",
+    "email": "priyanga@bitsathy.ac.in",
+    "mobile": "9597112724",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-166",
+    "name": "Ms Sathiya B",
+    "designation": "Asst.Prof.Level I",
+    "department": "Computer Science and Engineering",
+    "email": "sathiya@bitsathy.ac.in",
+    "mobile": "8870973687",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-167",
+    "name": "Mrs Rathna S",
+    "designation": "Asst.Prof.Level I",
+    "department": "Computer Science and Engineering",
+    "email": "rathna@bitsathy.ac.in",
+    "mobile": "9003843694",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-168",
+    "name": "Ms Pargavi S",
+    "designation": "Asst.Prof.Level I",
+    "department": "Computer Science and Engineering",
+    "email": "",
+    "mobile": "6381853047",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-169",
+    "name": "Ms Mohanapriya K",
+    "designation": "Asst.Prof.Level I",
+    "department": "Computer Science and Engineering",
+    "email": "mohanapriyak@bitsathy.ac.in",
+    "mobile": "9345412014",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-170",
+    "name": "Mrs Mythili G M",
+    "designation": "Asst.Prof.Level I",
+    "department": "Computer Science and Engineering",
+    "email": "",
+    "mobile": "7418499297",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-171",
+    "name": "Ms Gayathiri Devi S",
+    "designation": "Asst.Prof.Level I",
+    "department": "Computer Science and Engineering",
+    "email": "",
+    "mobile": "8825586556",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-172",
+    "name": "Mrs Kayalvizhi B",
+    "designation": "Asst.Prof.Level I",
+    "department": "Computer Science and Engineering",
+    "email": "",
+    "mobile": "9976367968",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-173",
+    "name": "Ms Thangatamilselvi S",
+    "designation": "Asst.Prof.Level I",
+    "department": "Computer Science and Engineering",
+    "email": "",
+    "mobile": "7598772422",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-174",
+    "name": "Ms Mahesh S",
+    "designation": "Asst.Prof.Level I",
+    "department": "Computer Science and Engineering",
+    "email": "",
+    "mobile": "9360331495",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-175",
+    "name": "Mr Jackson J",
+    "designation": "Asst.Prof.Level I",
+    "department": "Computer Science and Engineering",
+    "email": "",
+    "mobile": "8220839171",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-176",
+    "name": "Mr Rangaraj K",
+    "designation": "Asst.Prof.Level I",
+    "department": "Computer Science and Engineering",
+    "email": "",
+    "mobile": "9750288338",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-177",
+    "name": "Mr Aswin Jaya Surya J",
+    "designation": "Asst.Prof.Level I",
+    "department": "Computer Science and Engineering",
+    "email": "",
+    "mobile": "9500420768",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-178",
+    "name": "Mr Gokul M S",
+    "designation": "Asst.Prof.Level I",
+    "department": "Computer Science and Engineering",
+    "email": "",
+    "mobile": "9344198033",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-179",
+    "name": "Mrs Ramya M",
+    "designation": "Asst.Prof.Level I",
+    "department": "Computer Science and Engineering",
+    "email": "",
+    "mobile": "9003747105",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-180",
+    "name": "Mr Velukumarasamy A",
+    "designation": "Asst.Prof.Level I",
+    "department": "Computer Science and Engineering",
+    "email": "",
+    "mobile": "9345338967",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-181",
+    "name": "Mrs Mary Shalini A",
+    "designation": "Asst.Prof.Level I",
+    "department": "Computer Science and Engineering",
+    "email": "",
+    "mobile": "8248326833",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-182",
+    "name": "Mrs Vidhyasree S",
+    "designation": "Asst.Prof.Level I",
+    "department": "Computer Science and Engineering",
+    "email": "",
+    "mobile": "9442962805",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-183",
+    "name": "Mr Sudharsan S",
+    "designation": "Asst.Prof.Level I",
+    "department": "Computer Science and Engineering",
+    "email": "",
+    "mobile": "6383469814",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-184",
+    "name": "Ms Saveetha B",
+    "designation": "Asst.Prof.Level I",
+    "department": "Computer Science and Engineering",
+    "email": "",
+    "mobile": "6374885652",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-185",
+    "name": "Ms Soundhiri S",
+    "designation": "Asst.Prof.Level I",
+    "department": "Computer Science and Engineering",
+    "email": "",
+    "mobile": "9600872918",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-186",
+    "name": "Mrs Saileela U",
+    "designation": "Asst.Prof.Level I",
+    "department": "Computer Science and Engineering",
+    "email": "",
+    "mobile": "9600583912",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-187",
+    "name": "Dr Thanga Parvathi B",
+    "designation": "Prof.",
+    "department": "Computer Technology",
+    "email": "",
+    "mobile": "9443870561",
+    "intercom": "",
+    "location": "Computer Technology Block"
+  },
+  {
+    "id": "fac-188",
+    "name": "Dr Murugesan P",
+    "designation": "Asst.Prof.Level III",
+    "department": "Computer Technology",
+    "email": "murugesanp@bitsathy.ac.in",
+    "mobile": "9894791601",
+    "intercom": "",
+    "location": "Computer Technology Block"
+  },
+  {
+    "id": "fac-189",
+    "name": "Ms Sweety Prasanna kiruba G",
+    "designation": "Asst.Prof.Level I",
+    "department": "Computer Technology",
+    "email": "",
+    "mobile": "9025646412",
+    "intercom": "",
+    "location": "Computer Technology Block"
+  },
+  {
+    "id": "fac-190",
+    "name": "Dr Venkatesan R",
+    "designation": "Asso.Prof.",
+    "department": "Computer Science and Design",
+    "email": "venkatesanr@bitsathy.ac.in",
+    "mobile": "9994862432",
+    "intercom": "",
+    "location": "Computer Science and Design Block"
+  },
+  {
+    "id": "fac-191",
+    "name": "Mr Subhashree P",
+    "designation": "Asst.Prof.Level II",
+    "department": "Computer Science and Design",
+    "email": "",
+    "mobile": "9994503581",
+    "intercom": "",
+    "location": "Computer Science and Design Block"
+  },
+  {
+    "id": "fac-192",
+    "name": "Mrs Preethimathi L",
+    "designation": "Asst.Prof.Level I",
+    "department": "Computer Science and Design",
+    "email": "",
+    "mobile": "9008598784",
+    "intercom": "",
+    "location": "Computer Science and Design Block"
+  },
+  {
+    "id": "fac-193",
+    "name": "Ms Kiruthika S",
+    "designation": "Asst.Prof.Level I",
+    "department": "Computer Science and Design",
+    "email": "",
+    "mobile": "9677813768",
+    "intercom": "",
+    "location": "Computer Science and Design Block"
+  },
+  {
+    "id": "fac-194",
+    "name": "Ms Madhumathi S",
+    "designation": "Asst.Prof.Level I",
+    "department": "Computer Science and Design",
+    "email": "",
+    "mobile": "9360154876",
+    "intercom": "",
+    "location": "Computer Science and Design Block"
+  },
+  {
+    "id": "fac-195",
+    "name": "Dr Prakash S P",
+    "designation": "Asso. Prof.",
+    "department": "Electronics and Communication Engineering",
+    "email": "",
+    "mobile": "9994926682",
+    "intercom": "6177",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-196",
+    "name": "Dr Poongodi C",
+    "designation": "Prof.",
+    "department": "Electronics and Communication Engineering",
+    "email": "poongodic@bitsathy.ac.in",
+    "mobile": "9442494115",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-197",
+    "name": "Dr Harikumar R",
+    "designation": "Prof.",
+    "department": "Electronics and Communication Engineering",
+    "email": "",
+    "mobile": "9942932239",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-198",
+    "name": "Dr Perarasi T",
+    "designation": "Prof.",
+    "department": "Electronics and Communication Engineering",
+    "email": "perarasi@bitsathy.ac.in",
+    "mobile": "8883850826",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-199",
+    "name": "Dr Sampoornam K P",
+    "designation": "Prof.",
+    "department": "Electronics and Communication Engineering",
+    "email": "",
+    "mobile": "9629377780",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-200",
+    "name": "Dr Sanjoy Deb",
+    "designation": "Prof.",
+    "department": "Electronics and Communication Engineering",
+    "email": "",
+    "mobile": "8489336839",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-201",
+    "name": "Dr Pushpavalli M",
+    "designation": "Asso. Prof.",
+    "department": "Electronics and Communication Engineering",
+    "email": "pushpavallim@bitsathy.ac.in",
+    "mobile": "9943314368",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-202",
+    "name": "Dr Sannasi Chakravarthy S R",
+    "designation": "Asso. Prof.",
+    "department": "Electronics and Communication Engineering",
+    "email": "",
+    "mobile": "9444826252",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-203",
+    "name": "Dr Venkateshkumar U",
+    "designation": "Asso. Prof.",
+    "department": "Electronics and Communication Engineering",
+    "email": "venkateshkumaru@bitsathy.ac.in",
+    "mobile": "9788923291",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-204",
+    "name": "Dr Sathiyamurthi P",
+    "designation": "Asso. Prof.",
+    "department": "Electronics and Communication Engineering",
+    "email": "sathiyamurthi@bitsathy.ac.in",
+    "mobile": "9486111191",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-205",
+    "name": "Dr Ramya P",
+    "designation": "Asso. Prof.",
+    "department": "Electronics and Communication Engineering",
+    "email": "ramyap@bitsathy.ac.in",
+    "mobile": "9842462212",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-206",
+    "name": "Dr Elango S",
+    "designation": "Asso. Prof.",
+    "department": "Electronics and Communication Engineering",
+    "email": "elangos@bitsathy.ac.in",
+    "mobile": "9486417478",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-207",
+    "name": "Dr Sajan P Philip",
+    "designation": "Asso. Prof.",
+    "department": "Electronics and Communication Engineering",
+    "email": "sajanpphilip@bitsathy.ac.in",
+    "mobile": "9025812818",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-208",
+    "name": "Dr Arulmurugan L",
+    "designation": "Asso. Prof.",
+    "department": "Electronics and Communication Engineering",
+    "email": "arulmurugan@bitsathy.ac.in",
+    "mobile": "9095657578",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-209",
+    "name": "Dr Murugan K",
+    "designation": "Asso. Prof.",
+    "department": "Electronics and Communication Engineering",
+    "email": "murugank@bitsathy.ac.in",
+    "mobile": "9894444094",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-210",
+    "name": "Dr Leeban moses M",
+    "designation": "Asso. Prof.",
+    "department": "Electronics and Communication Engineering",
+    "email": "leebanmoses@bitsathy.ac.in",
+    "mobile": "9789576702",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-211",
+    "name": "Mr Nirmal Kumar R",
+    "designation": "Asso. Prof.",
+    "department": "Electronics and Communication Engineering",
+    "email": "nirmalkumarr@bitsathy.ac.in",
+    "mobile": "9965617722",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-212",
+    "name": "Dr Ramkumar R",
+    "designation": "Asso. Prof.",
+    "department": "Electronics and Communication Engineering",
+    "email": "ramkumarr@bitsathy.ac.in",
+    "mobile": "9677227363",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-213",
+    "name": "Dr Yuvaraj S",
+    "designation": "Asso. Prof.",
+    "department": "Electronics and Communication Engineering",
+    "email": "",
+    "mobile": "8675958225",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-214",
+    "name": "Dr Dhanasekar S",
+    "designation": "Asso. Prof.",
+    "department": "Electronics and Communication Engineering",
+    "email": "",
+    "mobile": "8760464534",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-215",
+    "name": "Mr Tamilselvan S",
+    "designation": "Asst.Prof.Level III",
+    "department": "Electronics and Communication Engineering",
+    "email": "tamilselvans@bitsathy.ac.in",
+    "mobile": "8012443399",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-216",
+    "name": "Mrs Dhanalakshmi S",
+    "designation": "Asst.Prof.Level III",
+    "department": "Electronics and Communication Engineering",
+    "email": "dhanalakshmis@bitsathy.ac.in",
+    "mobile": "9025609900",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-217",
+    "name": "Mr Karthikeyan S",
+    "designation": "Asst.Prof.Level III",
+    "department": "Electronics and Communication Engineering",
+    "email": "karthikeyan@bitsathy.ac.in",
+    "mobile": "8667610575",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-218",
+    "name": "Mrs Saranya N",
+    "designation": "Asst.Prof.Level III",
+    "department": "Electronics and Communication Engineering",
+    "email": "saranyan@bitsathy.ac.in",
+    "mobile": "8883659259",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-219",
+    "name": "Mr Rajasekar S",
+    "designation": "Asst.Prof.Level III",
+    "department": "Electronics and Communication Engineering",
+    "email": "rajasekarss@bitsathy.ac.in",
+    "mobile": "8220593597",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-220",
+    "name": "Mr Baranidharan V",
+    "designation": "Asst.Prof.Level III",
+    "department": "Electronics and Communication Engineering",
+    "email": "baranidharan@bitsathy.ac.in",
+    "mobile": "9487414010",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-221",
+    "name": "Dr Sankarananth S",
+    "designation": "Asst.Prof.Level III",
+    "department": "Electronics and Communication Engineering",
+    "email": "sankarananth@bitsathy.ac.in",
+    "mobile": "9600234936",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-222",
+    "name": "Mr Stephen Sagayaraj A",
+    "designation": "Asst.Prof.Level III",
+    "department": "Electronics and Communication Engineering",
+    "email": "stephensagayaraja@bitsathy.ac.in",
+    "mobile": "9095606612",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-223",
+    "name": "Mr Vellingiri A",
+    "designation": "Asst.Prof.Level III",
+    "department": "Electronics and Communication Engineering",
+    "email": "vellingiria@bitsathy.ac.in",
+    "mobile": "9952730161",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-224",
+    "name": "Dr Tamilarasi R",
+    "designation": "Asst.Prof.Level III",
+    "department": "Electronics and Communication Engineering",
+    "email": "",
+    "mobile": "8680912048",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-225",
+    "name": "Mrs Mythili S",
+    "designation": "Asst.Prof.Level II",
+    "department": "Electronics and Communication Engineering",
+    "email": "mythilis@bitsathy.ac.in",
+    "mobile": "9095702682",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-226",
+    "name": "Mrs Gayathri R",
+    "designation": "Asst.Prof.Level II",
+    "department": "Electronics and Communication Engineering",
+    "email": "gayathrir@bitsathy.ac.in",
+    "mobile": "9952291360",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-227",
+    "name": "Mr Krishnaraj R",
+    "designation": "Asst.Prof.Level II",
+    "department": "Electronics and Communication Engineering",
+    "email": "krishnarajr@bitsathy.ac.in",
+    "mobile": "8015192775",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-228",
+    "name": "Ms Sharmila A",
+    "designation": "Asst.Prof.Level II",
+    "department": "Electronics and Communication Engineering",
+    "email": "sharmilaa@bitsathy.ac.in",
+    "mobile": "9942029141",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-229",
+    "name": "Mrs Abinaya M",
+    "designation": "Asst.Prof.Level II",
+    "department": "Electronics and Communication Engineering",
+    "email": "abinayam@bitsathy.ac.in",
+    "mobile": "8838212504",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-230",
+    "name": "Mrs Soundarya B",
+    "designation": "Asst.Prof.Level II",
+    "department": "Electronics and Communication Engineering",
+    "email": "soundarya@bitsathy.ac.in",
+    "mobile": "7502465203",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-231",
+    "name": "Mrs Karthiga M",
+    "designation": "Asst.Prof.Level II",
+    "department": "Electronics and Communication Engineering",
+    "email": "karthigam@bitsathy.ac.in",
+    "mobile": "9994042518",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-232",
+    "name": "Mr Harish Kumaar P",
+    "designation": "Asst.Prof.Level II",
+    "department": "Electronics and Communication Engineering",
+    "email": "harishkumaarp@bitsathy.ac.in",
+    "mobile": "8950436960",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-233",
+    "name": "Mr Muralidharan K",
+    "designation": "Asst.Prof.Level II",
+    "department": "Electronics and Communication Engineering",
+    "email": "",
+    "mobile": "9791545497",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-234",
+    "name": "Mrs Hemalatha M",
+    "designation": "Asst.Prof.Level II",
+    "department": "Electronics and Communication Engineering",
+    "email": "",
+    "mobile": "9894611106",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-235",
+    "name": "Mrs Mariaamutha R",
+    "designation": "Asst.Prof.Level I",
+    "department": "Electronics and Communication Engineering",
+    "email": "mariaamuthar@bitsathy.ac.in",
+    "mobile": "7339053318",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-236",
+    "name": "Mrs Nivetha G",
+    "designation": "Asst.Prof.Level I",
+    "department": "Electronics and Communication Engineering",
+    "email": "nivethag@bitsathy.ac.in",
+    "mobile": "9384582948",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-237",
+    "name": "Mr Ramesh R",
+    "designation": "Asst.Prof.Level I",
+    "department": "Electronics and Communication Engineering",
+    "email": "rameshr@bitsathy.ac.in",
+    "mobile": "9787878161",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-238",
+    "name": "Mrs Sandhiyadevi P",
+    "designation": "Asst.Prof.Level I",
+    "department": "Electronics and Communication Engineering",
+    "email": "sandhiyadevip@bitsathy.ac.in",
+    "mobile": "8973602561",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-239",
+    "name": "Mr Syed Althaf S",
+    "designation": "Asst.Prof.Level I",
+    "department": "Electronics and Communication Engineering",
+    "email": "syedalthaf@bitsathy.ac.in",
+    "mobile": "6369375421",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-240",
+    "name": "Mrs Ragavi M",
+    "designation": "Asst.Prof.Level I",
+    "department": "Electronics and Communication Engineering",
+    "email": "",
+    "mobile": "9976989237",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-241",
+    "name": "Mrs Nalifabegam J",
+    "designation": "Asst.Prof.Level I",
+    "department": "Electronics and Communication Engineering",
+    "email": "",
+    "mobile": "9566436076",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-242",
+    "name": "Dr Lino L",
+    "designation": "Asst.Prof.Level I",
+    "department": "Electronics and Communication Engineering",
+    "email": "",
+    "mobile": "9566897103",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-243",
+    "name": "Mr Pradeep raja R",
+    "designation": "Asst.Prof.Level I",
+    "department": "Electronics and Communication Engineering",
+    "email": "",
+    "mobile": "9655132260",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-244",
+    "name": "Mr Karthik S",
+    "designation": "Asst.Prof.Level I",
+    "department": "Electronics and Communication Engineering",
+    "email": "karthikeyan@bitsathy.ac.in",
+    "mobile": "9698832346",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-245",
+    "name": "Dr Maheswari K T",
+    "designation": "Asso.Prof.",
+    "department": "Electrical and Electronics Engineering",
+    "email": "",
+    "mobile": "9788459307",
+    "intercom": "6151",
+    "location": "Electrical and Electronics Engineering Block"
+  },
+  {
+    "id": "fac-246",
+    "name": "Dr Sivaraman P",
+    "designation": "Prof.",
+    "department": "Electrical and Electronics Engineering",
+    "email": "",
+    "mobile": "9842818251",
+    "intercom": "",
+    "location": "Electrical and Electronics Engineering Block"
+  },
+  {
+    "id": "fac-247",
+    "name": "Dr Srinivasan M",
+    "designation": "Asso.Prof.",
+    "department": "Electrical and Electronics Engineering",
+    "email": "srinivasanm@bitsathy.ac.in",
+    "mobile": "9443841901",
+    "intercom": "",
+    "location": "Electrical and Electronics Engineering Block"
+  },
+  {
+    "id": "fac-248",
+    "name": "Dr Veerakumar S",
+    "designation": "Asso.Prof.",
+    "department": "Electrical and Electronics Engineering",
+    "email": "",
+    "mobile": "9865255732",
+    "intercom": "",
+    "location": "Electrical and Electronics Engineering Block"
+  },
+  {
+    "id": "fac-249",
+    "name": "Dr Sathishkumar S",
+    "designation": "Asso.Prof.",
+    "department": "Electrical and Electronics Engineering",
+    "email": "sathishkumars@bitsathy.ac.in",
+    "mobile": "9942130500",
+    "intercom": "",
+    "location": "Electrical and Electronics Engineering Block"
+  },
+  {
+    "id": "fac-250",
+    "name": "Dr Karthick S",
+    "designation": "Asso.Prof.",
+    "department": "Electrical and Electronics Engineering",
+    "email": "",
+    "mobile": "9842915791",
+    "intercom": "",
+    "location": "Electrical and Electronics Engineering Block"
+  },
+  {
+    "id": "fac-251",
+    "name": "Dr Arulkumar K",
+    "designation": "Asso.Prof.",
+    "department": "Electrical and Electronics Engineering",
+    "email": "",
+    "mobile": "9994822651",
+    "intercom": "",
+    "location": "Electrical and Electronics Engineering Block"
+  },
+  {
+    "id": "fac-252",
+    "name": "Dr Rajalashmi K",
+    "designation": "Asst.Prof.Level III",
+    "department": "Electrical and Electronics Engineering",
+    "email": "",
+    "mobile": "9842568112",
+    "intercom": "",
+    "location": "Electrical and Electronics Engineering Block"
+  },
+  {
+    "id": "fac-253",
+    "name": "Dr Nandhakumar A",
+    "designation": "Asst.Prof.Level III",
+    "department": "Electrical and Electronics Engineering",
+    "email": "",
+    "mobile": "9791452064",
+    "intercom": "",
+    "location": "Electrical and Electronics Engineering Block"
+  },
+  {
+    "id": "fac-254",
+    "name": "Dr Sritha P",
+    "designation": "Asst.Prof.Level III",
+    "department": "Electrical and Electronics Engineering",
+    "email": "",
+    "mobile": "9944294545",
+    "intercom": "",
+    "location": "Electrical and Electronics Engineering Block"
+  },
+  {
+    "id": "fac-255",
+    "name": "Dr Mohanapriya V",
+    "designation": "Asst.Prof.Level III",
+    "department": "Electrical and Electronics Engineering",
+    "email": "",
+    "mobile": "8870732680",
+    "intercom": "",
+    "location": "Electrical and Electronics Engineering Block"
+  },
+  {
+    "id": "fac-256",
+    "name": "Mr Sundar S",
+    "designation": "Asst.Prof.Level III",
+    "department": "Electrical and Electronics Engineering",
+    "email": "sundaramurthys@bitsathy.ac.in",
+    "mobile": "9952457772",
+    "intercom": "",
+    "location": "Electrical and Electronics Engineering Block"
+  },
+  {
+    "id": "fac-257",
+    "name": "Dr Senthil Kumar J",
+    "designation": "Asst.Prof.Level III",
+    "department": "Electrical and Electronics Engineering",
+    "email": "senthilkumarj@bitsathy.ac.in",
+    "mobile": "9952699681",
+    "intercom": "",
+    "location": "Electrical and Electronics Engineering Block"
+  },
+  {
+    "id": "fac-258",
+    "name": "Dr Goldvin Sugirtha Dhas.D",
+    "designation": "Asst.Prof.Level III",
+    "department": "Electrical and Electronics Engineering",
+    "email": "goldvinsugirthadhasb@bitsathy.ac.in",
+    "mobile": "9791737660",
+    "intercom": "",
+    "location": "Electrical and Electronics Engineering Block"
+  },
+  {
+    "id": "fac-259",
+    "name": "Mr Arun Chendhuran R",
+    "designation": "Asst.Prof.Level III",
+    "department": "Electrical and Electronics Engineering",
+    "email": "arunkumarr@bitsathy.ac.in",
+    "mobile": "9789096585",
+    "intercom": "",
+    "location": "Electrical and Electronics Engineering Block"
+  },
+  {
+    "id": "fac-260",
+    "name": "Mrs Nithya G",
+    "designation": "Asst.Prof.Level III",
+    "department": "Electrical and Electronics Engineering",
+    "email": "nithyag@bitsathy.ac.in",
+    "mobile": "9865033082",
+    "intercom": "",
+    "location": "Electrical and Electronics Engineering Block"
+  },
+  {
+    "id": "fac-261",
+    "name": "Mr Rishikesh N",
+    "designation": "Asst.Prof.Level III",
+    "department": "Electrical and Electronics Engineering",
+    "email": "rishikesh@bitsathy.ac.in",
+    "mobile": "9884431408",
+    "intercom": "",
+    "location": "Electrical and Electronics Engineering Block"
+  },
+  {
+    "id": "fac-262",
+    "name": "Dr Suresh N S",
+    "designation": "Asst.Prof.Level III",
+    "department": "Electrical and Electronics Engineering",
+    "email": "",
+    "mobile": "9677962589",
+    "intercom": "",
+    "location": "Electrical and Electronics Engineering Block"
+  },
+  {
+    "id": "fac-263",
+    "name": "Mrs Gopika N P",
+    "designation": "Asst.Prof.Level II",
+    "department": "Electrical and Electronics Engineering",
+    "email": "gopika@bitsathy.ac.in",
+    "mobile": "7695856741",
+    "intercom": "",
+    "location": "Electrical and Electronics Engineering Block"
+  },
+  {
+    "id": "fac-264",
+    "name": "Mrs Mudhumitha J",
+    "designation": "Asst.Prof.Level I",
+    "department": "Electrical and Electronics Engineering",
+    "email": "",
+    "mobile": "7373889496",
+    "intercom": "",
+    "location": "Electrical and Electronics Engineering Block"
+  },
+  {
+    "id": "fac-265",
+    "name": "Mrs Kiruthika M",
+    "designation": "Asst.Prof.Level I",
+    "department": "Electrical and Electronics Engineering",
+    "email": "",
+    "mobile": "8838347938",
+    "intercom": "",
+    "location": "Electrical and Electronics Engineering Block"
+  },
+  {
+    "id": "fac-266",
+    "name": "Dr Vairavel K S",
+    "designation": "Asso. Prof.",
+    "department": "Electrical and Instrumentation Engineering",
+    "email": "vairavelks@bitsathy.ac.in",
+    "mobile": "9842038240",
+    "intercom": "6222",
+    "location": "Electrical and Instrumentation Engineering Block"
+  },
+  {
+    "id": "fac-267",
+    "name": "Dr Balamurugan V T",
+    "designation": "Prof.",
+    "department": "Electrical and Instrumentation Engineering",
+    "email": "balamurugan@bitsathy.ac.in",
+    "mobile": "9500676270",
+    "intercom": "",
+    "location": "Electrical and Instrumentation Engineering Block"
+  },
+  {
+    "id": "fac-268",
+    "name": "Dr Kalaiyarasi M",
+    "designation": "Asso. Prof.",
+    "department": "Electrical and Instrumentation Engineering",
+    "email": "kalaiyarasim@bitsathy.ac.in",
+    "mobile": "9842981160",
+    "intercom": "",
+    "location": "Electrical and Instrumentation Engineering Block"
+  },
+  {
+    "id": "fac-269",
+    "name": "Dr Sudhahar S",
+    "designation": "Asso. Prof.",
+    "department": "Electrical and Instrumentation Engineering",
+    "email": "sudhahars@bitsathy.ac.in",
+    "mobile": "9841199614",
+    "intercom": "",
+    "location": "Electrical and Instrumentation Engineering Block"
+  },
+  {
+    "id": "fac-270",
+    "name": "Dr Arun jayakar S",
+    "designation": "Asso. Prof.",
+    "department": "Electrical and Instrumentation Engineering",
+    "email": "arunasreetna@bitsathy.ac.in",
+    "mobile": "9842934121",
+    "intercom": "",
+    "location": "Electrical and Instrumentation Engineering Block"
+  },
+  {
+    "id": "fac-271",
+    "name": "Mr Dhanasekar R",
+    "designation": "Asst.Prof.Level III",
+    "department": "Electrical and Instrumentation Engineering",
+    "email": "dhanasekar@bitsathy.ac.in",
+    "mobile": "8508457659",
+    "intercom": "",
+    "location": "Electrical and Instrumentation Engineering Block"
+  },
+  {
+    "id": "fac-272",
+    "name": "Ms Nandhini K M",
+    "designation": "Asst.Prof.Level III",
+    "department": "Electrical and Instrumentation Engineering",
+    "email": "",
+    "mobile": "9788005115",
+    "intercom": "",
+    "location": "Electrical and Instrumentation Engineering Block"
+  },
+  {
+    "id": "fac-273",
+    "name": "Mr Sakthiya Ram S",
+    "designation": "Asst.Prof.Level III",
+    "department": "Electrical and Instrumentation Engineering",
+    "email": "sakthiyaram@bitsathy.ac.in",
+    "mobile": "9443074586",
+    "intercom": "",
+    "location": "Electrical and Instrumentation Engineering Block"
+  },
+  {
+    "id": "fac-274",
+    "name": "Mr Pravin Savaridass M",
+    "designation": "Asst.Prof.Level III",
+    "department": "Electrical and Instrumentation Engineering",
+    "email": "pravinsavaridass@bitsathy.ac.in",
+    "mobile": "9500449029",
+    "intercom": "",
+    "location": "Electrical and Instrumentation Engineering Block"
+  },
+  {
+    "id": "fac-275",
+    "name": "Mr Prathap M R",
+    "designation": "Asst.Prof.Level II",
+    "department": "Electrical and Instrumentation Engineering",
+    "email": "prathap@bitsathy.ac.in",
+    "mobile": "8344480485",
+    "intercom": "",
+    "location": "Electrical and Instrumentation Engineering Block"
+  },
+  {
+    "id": "fac-276",
+    "name": "Mr Kumaresan K",
+    "designation": "Asst.Prof.Level I",
+    "department": "Electrical and Instrumentation Engineering",
+    "email": "kumaresank@bitsathy.ac.in",
+    "mobile": "6374412828",
+    "intercom": "",
+    "location": "Electrical and Instrumentation Engineering Block"
+  },
+  {
+    "id": "fac-277",
+    "name": "Mrs Saranya D V",
+    "designation": "Asst.Prof.Level III",
+    "department": "Fashion Technology",
+    "email": "",
+    "mobile": "9842750207",
+    "intercom": "6240",
+    "location": "Fashion Technology Block"
+  },
+  {
+    "id": "fac-278",
+    "name": "Mr Mohan Bharathi C",
+    "designation": "Asst.Prof.Level III",
+    "department": "Fashion Technology",
+    "email": "mohanbharathic@bitsathy.ac.in",
+    "mobile": "9894644798",
+    "intercom": "",
+    "location": "Fashion Technology Block"
+  },
+  {
+    "id": "fac-279",
+    "name": "Mr Gowrishankar L",
+    "designation": "Asst.Prof.Level III",
+    "department": "Food Technology",
+    "email": "gowrishankar@bitsathy.ac.in",
+    "mobile": "9487419225",
+    "intercom": "",
+    "location": "Food Technology Block"
+  },
+  {
+    "id": "fac-280",
+    "name": "Ms Pidathala Sahithya",
+    "designation": "Asst.Prof.Level I",
+    "department": "Food Technology",
+    "email": "",
+    "mobile": "9542034922",
+    "intercom": "",
+    "location": "Food Technology Block"
+  },
+  {
+    "id": "fac-281",
+    "name": "Ms Sivarahini K",
+    "designation": "Asst.Prof.Level I",
+    "department": "Food Technology",
+    "email": "",
+    "mobile": "9360077634",
+    "intercom": "",
+    "location": "Food Technology Block"
+  },
+  {
+    "id": "fac-282",
+    "name": "Dr Eswaramoorthy V",
+    "designation": "Prof. & Head",
+    "department": "Information Science and Engineering",
+    "email": "eswaramoorthyv@bitsathy.ac.in",
+    "mobile": "9865240619",
+    "intercom": "6710",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-283",
+    "name": "Dr Anandakumar K",
+    "designation": "Asst.Prof.Level III",
+    "department": "Information Science and Engineering",
+    "email": "anandakumark@bitsathy.ac.in",
+    "mobile": "9865531177",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-284",
+    "name": "Mr Pandiyan M",
+    "designation": "Asst.Prof.Level III",
+    "department": "Information Science and Engineering",
+    "email": "pandiyanm@bitsathy.ac.in",
+    "mobile": "9597819678",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-285",
+    "name": "Mrs Poornima A",
+    "designation": "Asst.Prof.Level I",
+    "department": "Information Science and Engineering",
+    "email": "",
+    "mobile": "9952641869",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-286",
+    "name": "Dr Naveena S",
+    "designation": "Asso.Prof.",
+    "department": "Information Science and Engineering",
+    "email": "naveena@bitsathy.ac.in",
+    "mobile": "9585032446",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-287",
+    "name": "Dr Sadhasivam N",
+    "designation": "Prof.",
+    "department": "Information Science and Engineering",
+    "email": "sadhasivamn@bitsathy.ac.in",
+    "mobile": "7639109780",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-288",
+    "name": "Dr Paarivallal Ra",
+    "designation": "Asso.Prof.",
+    "department": "Information Science and Engineering",
+    "email": "parivallalr@bitsathy.ac.in",
+    "mobile": "9443862727",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-289",
+    "name": "Dr Sathis Kumar K",
+    "designation": "Asso.Prof.",
+    "department": "Information Science and Engineering",
+    "email": "sathishkumarp@bitsathy.ac.in",
+    "mobile": "9025136663",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-290",
+    "name": "Dr Priya J",
+    "designation": "Asso.Prof.",
+    "department": "Information Science and Engineering",
+    "email": "priyajn@bitsathy.ac.in",
+    "mobile": "9942631130",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-291",
+    "name": "Dr Chandraprabha K",
+    "designation": "Asso.Prof.",
+    "department": "Information Science and Engineering",
+    "email": "chandraprabhak@bitsathy.ac.in",
+    "mobile": "9715889896",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-292",
+    "name": "Dr Sri Vinitha V",
+    "designation": "Asst.Prof.Level II",
+    "department": "Information Science and Engineering",
+    "email": "",
+    "mobile": "8838425461",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-293",
+    "name": "Dr Nataraj N",
+    "designation": "Asso.Prof.",
+    "department": "Information Science and Engineering",
+    "email": "nataraj@bitsathy.ac.in",
+    "mobile": "9715114848",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-294",
+    "name": "Mr Vinoth M",
+    "designation": "Asst.Prof.Level III",
+    "department": "Information Science and Engineering",
+    "email": "vinothm@bitsathy.ac.in",
+    "mobile": "9940952943",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-295",
+    "name": "Mr Selvakumar M",
+    "designation": "Asst.Prof.Level III",
+    "department": "Information Science and Engineering",
+    "email": "selvakumarm@bitsathy.ac.in",
+    "mobile": "7598549064",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-296",
+    "name": "Dr Tamilthendral M",
+    "designation": "Asst.Prof.Level III",
+    "department": "Information Science and Engineering",
+    "email": "tamilthendral@bitsathy.ac.in",
+    "mobile": "9500555025",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-297",
+    "name": "Ms Sabarmathi K R",
+    "designation": "Asst.Prof.Level III",
+    "department": "Information Science and Engineering",
+    "email": "sabarmathi@bitsathy.ac.in",
+    "mobile": "9443890793",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-298",
+    "name": "Mrs Sobiyaa P",
+    "designation": "Asst.Prof.Level III",
+    "department": "Information Science and Engineering",
+    "email": "sobiyaa@bitsathy.ac.in",
+    "mobile": "9865481250",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-299",
+    "name": "Mr Gopal R",
+    "designation": "Asst.Prof.Level III",
+    "department": "Information Science and Engineering",
+    "email": "gopalakrishnanb@bitsathy.ac.in",
+    "mobile": "9976057547",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-300",
+    "name": "Mr Prabhu P S",
+    "designation": "Asst.Prof.Level II",
+    "department": "Information Science and Engineering",
+    "email": "prabhups@bitsathy.ac.in",
+    "mobile": "9788620044",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-301",
+    "name": "Dr Nivetha S",
+    "designation": "Asst.Prof.Level II",
+    "department": "Information Science and Engineering",
+    "email": "",
+    "mobile": "9791948487",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-302",
+    "name": "Mrs Keerthana K",
+    "designation": "Asst.Prof.Level II",
+    "department": "Information Science and Engineering",
+    "email": "",
+    "mobile": "8610052115",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-303",
+    "name": "Mr Mohemmed Yousuf R",
+    "designation": "Asst.Prof.Level II",
+    "department": "Information Science and Engineering",
+    "email": "",
+    "mobile": "9738700094",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-304",
+    "name": "Mr Senthilnathan S",
+    "designation": "Asst.Prof.Level II",
+    "department": "Information Science and Engineering",
+    "email": "",
+    "mobile": "9942644088",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-305",
+    "name": "Mrs Janani T",
+    "designation": "Asst.Prof.Level II",
+    "department": "Information Science and Engineering",
+    "email": "",
+    "mobile": "9952454280",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-306",
+    "name": "Ms Nikitha M",
+    "designation": "Asst.Prof.Level II",
+    "department": "Information Science and Engineering",
+    "email": "nikitham@bitsathy.ac.in",
+    "mobile": "6382497049",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-307",
+    "name": "Mr Gunalan K",
+    "designation": "Asst.Prof.Level II",
+    "department": "Information Science and Engineering",
+    "email": "gunalank@bitsathy.ac.in",
+    "mobile": "7200375913",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-308",
+    "name": "Mr Sathyaraj S",
+    "designation": "Asst.Prof.Level II",
+    "department": "Information Science and Engineering",
+    "email": "",
+    "mobile": "9688744744",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-309",
+    "name": "Mrs Santhiya B",
+    "designation": "Asst.Prof.Level I",
+    "department": "Information Science and Engineering",
+    "email": "santhiyab@bitsathy.ac.in",
+    "mobile": "9842385592",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-310",
+    "name": "Ms Muthumeena S",
+    "designation": "Asst.Prof.Level I",
+    "department": "Information Science and Engineering",
+    "email": "",
+    "mobile": "9361061936",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-311",
+    "name": "Mrs Kavitha V",
+    "designation": "Asst.Prof.Level I",
+    "department": "Information Science and Engineering",
+    "email": "kavitha@bitsathy.ac.in",
+    "mobile": "9443484944",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-312",
+    "name": "Mrs Priya A",
+    "designation": "Asst.Prof.Level I",
+    "department": "Information Science and Engineering",
+    "email": "priyanga@bitsathy.ac.in",
+    "mobile": "9003420689",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-313",
+    "name": "Mrs Shangara Narayanee N P",
+    "designation": "Asst.Prof.Level I",
+    "department": "Information Science and Engineering",
+    "email": "",
+    "mobile": "9994176070",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-314",
+    "name": "Ms Indhu Bhashini V",
+    "designation": "Asst.Prof.Level I",
+    "department": "Information Science and Engineering",
+    "email": "",
+    "mobile": "8925737075",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-315",
+    "name": "Mrs Deepa Sumathi M",
+    "designation": "Asst.Prof.Level I",
+    "department": "Information Science and Engineering",
+    "email": "deepankumar@bitsathy.ac.in",
+    "mobile": "7868833899",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-316",
+    "name": "Mrs Elavarasi T",
+    "designation": "Asst.Prof.Level I",
+    "department": "Information Science and Engineering",
+    "email": "",
+    "mobile": "9952563886",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-317",
+    "name": "Ms Manisha S",
+    "designation": "Asst.Prof.Level I",
+    "department": "Information Science and Engineering",
+    "email": "",
+    "mobile": "8637470994",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-318",
+    "name": "Ms Lakshmi Shrri A",
+    "designation": "Asst.Prof.Level I",
+    "department": "Information Science and Engineering",
+    "email": "",
+    "mobile": "9345742413",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-319",
+    "name": "Ms Dharsana V",
+    "designation": "Asst.Prof.Level I",
+    "department": "Information Science and Engineering",
+    "email": "",
+    "mobile": "9344575630",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-320",
+    "name": "Mrs Amutha S",
+    "designation": "Asst.Prof.Level I",
+    "department": "Information Science and Engineering",
+    "email": "",
+    "mobile": "7402148956",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-321",
+    "name": "Ms Kiruthika G",
+    "designation": "Asst.Prof.Level I",
+    "department": "Information Science and Engineering",
+    "email": "",
+    "mobile": "9500916515",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-322",
+    "name": "Mr Kaviyan P",
+    "designation": "Asst.Prof.Level I",
+    "department": "Information Science and Engineering",
+    "email": "",
+    "mobile": "8637644480",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-323",
+    "name": "Mrs Vidhya Shri H",
+    "designation": "Asst.Prof.Level I",
+    "department": "Information Science and Engineering",
+    "email": "",
+    "mobile": "8940910208",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-324",
+    "name": "Ms Rochanaa E",
+    "designation": "Asst.Prof.Level I",
+    "department": "Information Science and Engineering",
+    "email": "",
+    "mobile": "6374138917",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-325",
+    "name": "Dr Ravi Kumar M",
+    "designation": "Prof. & Head",
+    "department": "Mechanical Engineering",
+    "email": "",
+    "mobile": "9786079032",
+    "intercom": "",
+    "location": "Mechanical Engineering Block"
+  },
+  {
+    "id": "fac-326",
+    "name": "Dr Senthilkumar G",
+    "designation": "Prof.",
+    "department": "Mechanical Engineering",
+    "email": "",
+    "mobile": "9443579010",
+    "intercom": "",
+    "location": "Mechanical Engineering Block"
+  },
+  {
+    "id": "fac-327",
+    "name": "Dr Amarkarthik A",
+    "designation": "Prof.",
+    "department": "Mechanical Engineering",
+    "email": "",
+    "mobile": "9894455801",
+    "intercom": "",
+    "location": "Mechanical Engineering Block"
+  },
+  {
+    "id": "fac-328",
+    "name": "Dr Sasikumar C",
+    "designation": "Prof.",
+    "department": "Mechanical Engineering",
+    "email": "",
+    "mobile": "9443579022",
+    "intercom": "",
+    "location": "Mechanical Engineering Block"
+  },
+  {
+    "id": "fac-329",
+    "name": "Dr Ramesh Kumar T",
+    "designation": "Prof.",
+    "department": "Mechanical Engineering",
+    "email": "",
+    "mobile": "9486084456",
+    "intercom": "",
+    "location": "Mechanical Engineering Block"
+  },
+  {
+    "id": "fac-330",
+    "name": "Dr Kumaresan G",
+    "designation": "Prof.",
+    "department": "Mechanical Engineering",
+    "email": "",
+    "mobile": "9524119045",
+    "intercom": "",
+    "location": "Mechanical Engineering Block"
+  },
+  {
+    "id": "fac-331",
+    "name": "Dr Anandha Moorthy A",
+    "designation": "Asso. Prof.",
+    "department": "Mechanical Engineering",
+    "email": "",
+    "mobile": "9488470455",
+    "intercom": "",
+    "location": "Mechanical Engineering Block"
+  },
+  {
+    "id": "fac-332",
+    "name": "Dr Mathankumar P",
+    "designation": "Asso. Prof.",
+    "department": "Mechanical Engineering",
+    "email": "mathankumarp@bitsathy.ac.in",
+    "mobile": "8344833839",
+    "intercom": "",
+    "location": "Mechanical Engineering Block"
+  },
+  {
+    "id": "fac-333",
+    "name": "Dr Sureshkumar M",
+    "designation": "Asso. Prof.",
+    "department": "Mechanical Engineering",
+    "email": "sureshkumarm@bitsathy.ac.in",
+    "mobile": "9976959139",
+    "intercom": "",
+    "location": "Mechanical Engineering Block"
+  },
+  {
+    "id": "fac-334",
+    "name": "Dr Sundar raju G",
+    "designation": "Asso. Prof.",
+    "department": "Mechanical Engineering",
+    "email": "",
+    "mobile": "9994305939",
+    "intercom": "",
+    "location": "Mechanical Engineering Block"
+  },
+  {
+    "id": "fac-335",
+    "name": "Dr Dinesh D",
+    "designation": "Asst.Prof.Level III",
+    "department": "Mechanical Engineering",
+    "email": "dineshd@bitsathy.ac.in",
+    "mobile": "9787771288",
+    "intercom": "",
+    "location": "Mechanical Engineering Block"
+  },
+  {
+    "id": "fac-336",
+    "name": "Dr Velmurugan S",
+    "designation": "Asst.Prof.Level III",
+    "department": "Mechanical Engineering",
+    "email": "",
+    "mobile": "9843467651",
+    "intercom": "",
+    "location": "Mechanical Engineering Block"
+  },
+  {
+    "id": "fac-337",
+    "name": "Mr Sathishkumar C",
+    "designation": "Asst.Prof.Level III",
+    "department": "Mechanical Engineering",
+    "email": "",
+    "mobile": "9788360263",
+    "intercom": "",
+    "location": "Mechanical Engineering Block"
+  },
+  {
+    "id": "fac-338",
+    "name": "Mr Ramakrishnan A",
+    "designation": "Asst.Prof.Level III",
+    "department": "Mechanical Engineering",
+    "email": "ramakrishnana@bitsathy.ac.in",
+    "mobile": "7708404820",
+    "intercom": "",
+    "location": "Mechanical Engineering Block"
+  },
+  {
+    "id": "fac-339",
+    "name": "Dr Sakthivel Murugan E",
+    "designation": "Asst.Prof.Level III",
+    "department": "Mechanical Engineering",
+    "email": "",
+    "mobile": "9688263170",
+    "intercom": "",
+    "location": "Mechanical Engineering Block"
+  },
+  {
+    "id": "fac-340",
+    "name": "Dr Tajdeen A",
+    "designation": "Asst.Prof.Level III",
+    "department": "Mechanical Engineering",
+    "email": "tajdeena@bitsathy.ac.in",
+    "mobile": "9944767276",
+    "intercom": "",
+    "location": "Mechanical Engineering Block"
+  },
+  {
+    "id": "fac-341",
+    "name": "Dr Pradeep A D",
+    "designation": "Asst.Prof.Level III",
+    "department": "Mechanical Engineering",
+    "email": "pradeep@bitsathy.ac.in",
+    "mobile": "9486190009",
+    "intercom": "",
+    "location": "Mechanical Engineering Block"
+  },
+  {
+    "id": "fac-342",
+    "name": "Dr Prakash K B",
+    "designation": "Asst.Prof.Level III",
+    "department": "Mechanical Engineering",
+    "email": "prakashkb@bitsathy.ac.in",
+    "mobile": "9944581413",
+    "intercom": "",
+    "location": "Mechanical Engineering Block"
+  },
+  {
+    "id": "fac-343",
+    "name": "Dr Subramaniyan C",
+    "designation": "Asst.Prof.Level III",
+    "department": "Mechanical Engineering",
+    "email": "",
+    "mobile": "9486360218",
+    "intercom": "",
+    "location": "Mechanical Engineering Block"
+  },
+  {
+    "id": "fac-344",
+    "name": "Dr Madheswaran S",
+    "designation": "Asst.Prof.Level III",
+    "department": "Mechanical Engineering",
+    "email": "",
+    "mobile": "9543062041",
+    "intercom": "",
+    "location": "Mechanical Engineering Block"
+  },
+  {
+    "id": "fac-345",
+    "name": "Dr Boopathi raja K P",
+    "designation": "Asst.Prof.Level III",
+    "department": "Mechanical Engineering",
+    "email": "boopathiraja@bitsathy.ac.in",
+    "mobile": "9942148953",
+    "intercom": "",
+    "location": "Mechanical Engineering Block"
+  },
+  {
+    "id": "fac-346",
+    "name": "Mr Kamal Basha K",
+    "designation": "Asst.Prof.Level II",
+    "department": "Mechanical Engineering",
+    "email": "kamalbasha@bitsathy.ac.in",
+    "mobile": "9843079117",
+    "intercom": "",
+    "location": "Mechanical Engineering Block"
+  },
+  {
+    "id": "fac-347",
+    "name": "Mr Joseph Silvester K",
+    "designation": "Asst.Prof.Level II",
+    "department": "Mechanical Engineering",
+    "email": "",
+    "mobile": "9567456772",
+    "intercom": "",
+    "location": "Mechanical Engineering Block"
+  },
+  {
+    "id": "fac-348",
+    "name": "Dr Pavanaditya Badida",
+    "designation": "Asst.Prof.Level I",
+    "department": "Mechanical Engineering",
+    "email": "",
+    "mobile": "9600157389",
+    "intercom": "",
+    "location": "Mechanical Engineering Block"
+  },
+  {
+    "id": "fac-349",
+    "name": "Dr Bharathiraja M",
+    "designation": "Prof. & Head",
+    "department": "Mechatronics",
+    "email": "",
+    "mobile": "9965175377",
+    "intercom": "6630",
+    "location": "Mechatronics Block"
+  },
+  {
+    "id": "fac-350",
+    "name": "Dr Jegadheeswaran S",
+    "designation": "Prof.",
+    "department": "Mechatronics",
+    "email": "",
+    "mobile": "8508857666",
+    "intercom": "",
+    "location": "Mechatronics Block"
+  },
+  {
+    "id": "fac-351",
+    "name": "Dr Senthil Kumar P",
+    "designation": "Asso.Prof.",
+    "department": "Mechatronics",
+    "email": "senthilkumarp@bitsathy.ac.in",
+    "mobile": "7373562428",
+    "intercom": "",
+    "location": "Mechatronics Block"
+  },
+  {
+    "id": "fac-352",
+    "name": "Dr Rajiev R",
+    "designation": "Asso.Prof.",
+    "department": "Mechatronics",
+    "email": "",
+    "mobile": "6374262040",
+    "intercom": "",
+    "location": "Mechatronics Block"
+  },
+  {
+    "id": "fac-353",
+    "name": "Dr Nagarajan P",
+    "designation": "Asso.Prof.",
+    "department": "Mechatronics",
+    "email": "",
+    "mobile": "7502858545",
+    "intercom": "",
+    "location": "Mechatronics Block"
+  },
+  {
+    "id": "fac-354",
+    "name": "Mr Sivabalakrishnan R",
+    "designation": "Asst.Prof.Level III",
+    "department": "Mechatronics",
+    "email": "sivabalakrishnan@bitsathy.ac.in",
+    "mobile": "9842581719",
+    "intercom": "",
+    "location": "Mechatronics Block"
+  },
+  {
+    "id": "fac-355",
+    "name": "Mr Dhinesh S K",
+    "designation": "Asst.Prof.Level III",
+    "department": "Mechatronics",
+    "email": "dhineshsk@bitsathy.ac.in",
+    "mobile": "9715367724",
+    "intercom": "",
+    "location": "Mechatronics Block"
+  },
+  {
+    "id": "fac-356",
+    "name": "Mr Raghavendra Prabhu S",
+    "designation": "Asst.Prof.Level III",
+    "department": "Mechatronics",
+    "email": "",
+    "mobile": "9791494750",
+    "intercom": "",
+    "location": "Mechatronics Block"
+  },
+  {
+    "id": "fac-357",
+    "name": "Dr Nijandhan K",
+    "designation": "Asst.Prof.Level III",
+    "department": "Mechatronics",
+    "email": "nijandhan@bitsathy.ac.in",
+    "mobile": "9171115683",
+    "intercom": "",
+    "location": "Mechatronics Block"
+  },
+  {
+    "id": "fac-358",
+    "name": "Dr Oorappan G M",
+    "designation": "Asst.Prof.Level III",
+    "department": "Mechatronics",
+    "email": "oorappan@bitsathy.ac.in",
+    "mobile": "9884471349",
+    "intercom": "",
+    "location": "Mechatronics Block"
+  },
+  {
+    "id": "fac-359",
+    "name": "Dr Pradeesh E L",
+    "designation": "Asst.Prof.Level III",
+    "department": "Mechatronics",
+    "email": "pradeeshel@bitsathy.ac.in",
+    "mobile": "9944820144",
+    "intercom": "",
+    "location": "Mechatronics Block"
+  },
+  {
+    "id": "fac-360",
+    "name": "Mr Vignesh S",
+    "designation": "Asst.Prof.Level III",
+    "department": "Mechatronics",
+    "email": "vignesh@bitsathy.ac.in",
+    "mobile": "9486929583",
+    "intercom": "",
+    "location": "Mechatronics Block"
+  },
+  {
+    "id": "fac-361",
+    "name": "Mr Siddharthan B",
+    "designation": "Asst.Prof.Level III",
+    "department": "Mechatronics",
+    "email": "",
+    "mobile": "9952869705",
+    "intercom": "",
+    "location": "Mechatronics Block"
+  },
+  {
+    "id": "fac-362",
+    "name": "Mr Vadivel Vivek V",
+    "designation": "Asst.Prof.Level III",
+    "department": "Mechatronics",
+    "email": "vadivelvivek@bitsathy.ac.in",
+    "mobile": "9952562584",
+    "intercom": "",
+    "location": "Mechatronics Block"
+  },
+  {
+    "id": "fac-363",
+    "name": "Mr Raghunath M",
+    "designation": "Asst.Prof.Level II",
+    "department": "Mechatronics",
+    "email": "raghunath@bitsathy.ac.in",
+    "mobile": "9566357006",
+    "intercom": "",
+    "location": "Mechatronics Block"
+  },
+  {
+    "id": "fac-364",
+    "name": "Dr Janarthanan M",
+    "designation": "Asst.Prof.Level III",
+    "department": "Textile Technology",
+    "email": "janarthanan@bitsathy.ac.in",
+    "mobile": "9865873420",
+    "intercom": "6237",
+    "location": "Textile Technology Block"
+  },
+  {
+    "id": "fac-365",
+    "name": "Mrs Mounika S",
+    "designation": "Asst.Prof.Level I",
+    "department": "Textile Technology",
+    "email": "mounikas@bitsathy.ac.in",
+    "mobile": "9566526301",
+    "intercom": "",
+    "location": "Textile Technology Block"
+  },
+  {
+    "id": "fac-366",
+    "name": "Mrs Gayathri R",
+    "designation": "Asst.Prof.Level I",
+    "department": "Textile Technology",
+    "email": "gayathrir@bitsathy.ac.in",
+    "mobile": "7305603556",
+    "intercom": "",
+    "location": "Textile Technology Block"
+  },
+  {
+    "id": "fac-367",
+    "name": "Prof Maheshkumar S",
+    "designation": "Assoc.Prof.",
+    "department": "General Engineering",
+    "email": "",
+    "mobile": "9994102374",
+    "intercom": "6355",
+    "location": "General Engineering Block"
+  },
+  {
+    "id": "fac-368",
+    "name": "Ms Jayasudha",
+    "designation": "Asst.Prof.",
+    "department": "General Engineering",
+    "email": "",
+    "mobile": "9788621822",
+    "intercom": "6207",
+    "location": "General Engineering Block"
+  },
+  {
+    "id": "fac-369",
+    "name": "Dr Murugappan S",
+    "designation": "Prof.",
+    "department": "School of Management Studies",
+    "email": "",
+    "mobile": "9443719535",
+    "intercom": "6290",
+    "location": "School of Management Studies Block"
+  },
+  {
+    "id": "fac-370",
+    "name": "Dr Adhinarayanan B",
+    "designation": "Asso.Prof.",
+    "department": "School of Management Studies",
+    "email": "",
+    "mobile": "9486457822",
+    "intercom": "",
+    "location": "School of Management Studies Block"
+  },
+  {
+    "id": "fac-371",
+    "name": "Dr Satheesh Kumar T",
+    "designation": "Asso.Prof.",
+    "department": "School of Management Studies",
+    "email": "",
+    "mobile": "9566167851",
+    "intercom": "",
+    "location": "School of Management Studies Block"
+  },
+  {
+    "id": "fac-372",
+    "name": "Dr Saraswathi C",
+    "designation": "Asst.Prof.Level III",
+    "department": "School of Management Studies",
+    "email": "",
+    "mobile": "9952586956",
+    "intercom": "",
+    "location": "School of Management Studies Block"
+  },
+  {
+    "id": "fac-373",
+    "name": "Mr Sibi John A",
+    "designation": "Asst.Prof.Level III",
+    "department": "School of Management Studies",
+    "email": "sibijohn@bitsathy.ac.in",
+    "mobile": "9787955598",
+    "intercom": "",
+    "location": "School of Management Studies Block"
+  },
+  {
+    "id": "fac-374",
+    "name": "Mr Senthil Kumar N",
+    "designation": "Asst.Prof.Level III",
+    "department": "School of Management Studies",
+    "email": "",
+    "mobile": "9894773337",
+    "intercom": "",
+    "location": "School of Management Studies Block"
+  },
+  {
+    "id": "fac-375",
+    "name": "Mrs Nandhini B",
+    "designation": "Asst.Prof.Level II",
+    "department": "School of Management Studies",
+    "email": "",
+    "mobile": "9865186677",
+    "intercom": "",
+    "location": "School of Management Studies Block"
+  },
+  {
+    "id": "fac-376",
+    "name": "Mr Mageswaran J",
+    "designation": "Asst.Prof.Level II",
+    "department": "School of Management Studies",
+    "email": "",
+    "mobile": "9894441236",
+    "intercom": "",
+    "location": "School of Management Studies Block"
+  },
+  {
+    "id": "fac-377",
+    "name": "Mr Dhanabalu S N",
+    "designation": "Asst.Prof.Level II",
+    "department": "School of Management Studies",
+    "email": "",
+    "mobile": "9994062262",
+    "intercom": "",
+    "location": "School of Management Studies Block"
+  },
+  {
+    "id": "fac-378",
+    "name": "Mrs Saranya S",
+    "designation": "Asst.Prof.Level II",
+    "department": "School of Management Studies",
+    "email": "",
+    "mobile": "9655282470",
+    "intercom": "",
+    "location": "School of Management Studies Block"
+  },
+  {
+    "id": "fac-379",
+    "name": "Mrs Aishwariya M R",
+    "designation": "Asst.Prof.Level I",
+    "department": "School of Management Studies",
+    "email": "",
+    "mobile": "9894557950",
+    "intercom": "",
+    "location": "School of Management Studies Block"
+  },
+  {
+    "id": "fac-380",
+    "name": "Mr Suganesh S",
+    "designation": "Asst.Prof.Level I",
+    "department": "School of Management Studies",
+    "email": "",
+    "mobile": "9942984891",
+    "intercom": "",
+    "location": "School of Management Studies Block"
+  },
+  {
+    "id": "fac-381",
+    "name": "Dr Ajai A",
+    "designation": "Asst.Prof.Level I",
+    "department": "Humanities",
+    "email": "",
+    "mobile": "9003067333",
+    "intercom": "6314",
+    "location": "Humanities Block"
+  },
+  {
+    "id": "fac-382",
+    "name": "Dr Sagunthala devi P",
+    "designation": "Asst.Prof.Level I",
+    "department": "Humanities",
+    "email": "",
+    "mobile": "9952605798",
+    "intercom": "",
+    "location": "Humanities Block"
+  },
+  {
+    "id": "fac-383",
+    "name": "Dr Kamali D",
+    "designation": "Asst.Prof.Level I",
+    "department": "Humanities",
+    "email": "",
+    "mobile": "9344636576",
+    "intercom": "",
+    "location": "Humanities Block"
+  },
+  {
+    "id": "fac-384",
+    "name": "Dr Gayathri G M",
+    "designation": "Asst.Prof.Level I",
+    "department": "Humanities",
+    "email": "gayathridevi@bitsathy.ac.in",
+    "mobile": "8754495673",
+    "intercom": "",
+    "location": "Humanities Block"
+  },
+  {
+    "id": "fac-385",
+    "name": "Dr Aslin Jerusha D",
+    "designation": "Asst.Prof.Level I",
+    "department": "Humanities",
+    "email": "",
+    "mobile": "8754833598",
+    "intercom": "",
+    "location": "Humanities Block"
+  },
+  {
+    "id": "fac-386",
+    "name": "Dr Ezhil G",
+    "designation": "Asst.Prof.Level I",
+    "department": "Humanities",
+    "email": "",
+    "mobile": "9488623695",
+    "intercom": "",
+    "location": "Humanities Block"
+  },
+  {
+    "id": "fac-387",
+    "name": "Dr Nithya S",
+    "designation": "Asst.Prof.Level I",
+    "department": "Humanities",
+    "email": "nithyapriyas@bitsathy.ac.in",
+    "mobile": "8056427306",
+    "intercom": "",
+    "location": "Humanities Block"
+  },
+  {
+    "id": "fac-388",
+    "name": "Mr Shyamsundar S",
+    "designation": "Asst.Prof.Level I",
+    "department": "Humanities",
+    "email": "",
+    "mobile": "6369163695",
+    "intercom": "",
+    "location": "Humanities Block"
+  },
+  {
+    "id": "fac-389",
+    "name": "Dr Jaya K",
+    "designation": "Asst.Prof.Level I",
+    "department": "Humanities",
+    "email": "",
+    "mobile": "8122037466",
+    "intercom": "",
+    "location": "Humanities Block"
+  },
+  {
+    "id": "fac-390",
+    "name": "Dr Samsonraj C",
+    "designation": "Asst.Prof.Level I",
+    "department": "Humanities",
+    "email": "",
+    "mobile": "9965722012",
+    "intercom": "",
+    "location": "Humanities Block"
+  },
+  {
+    "id": "fac-391",
+    "name": "Ms Sripriyanka S",
+    "designation": "Asst.Prof.Level I",
+    "department": "Humanities",
+    "email": "",
+    "mobile": "8940761240",
+    "intercom": "",
+    "location": "Humanities Block"
+  },
+  {
+    "id": "fac-392",
+    "name": "Mr Ranganathan A",
+    "designation": "Language Trainer (Hindi)",
+    "department": "Humanities",
+    "email": "",
+    "mobile": "9486320131",
+    "intercom": "",
+    "location": "Humanities Block"
+  },
+  {
+    "id": "fac-393",
+    "name": "Dr Parimala M",
+    "designation": "Asso.Prof.",
+    "department": "Mathematics",
+    "email": "",
+    "mobile": "9944104612",
+    "intercom": "6260",
+    "location": "Mathematics Block"
+  },
+  {
+    "id": "fac-394",
+    "name": "Dr Indirani C",
+    "designation": "Asst.Prof.Level III",
+    "department": "Mathematics",
+    "email": "",
+    "mobile": "9788362031",
+    "intercom": "",
+    "location": "Mathematics Block"
+  },
+  {
+    "id": "fac-395",
+    "name": "Dr Vinothini V R",
+    "designation": "Asst.Prof.Level III",
+    "department": "Mathematics",
+    "email": "",
+    "mobile": "9486253146",
+    "intercom": "",
+    "location": "Mathematics Block"
+  },
+  {
+    "id": "fac-396",
+    "name": "Dr Saravanamoorthi P",
+    "designation": "Asst.Prof.Level III",
+    "department": "Mathematics",
+    "email": "",
+    "mobile": "9894864438",
+    "intercom": "",
+    "location": "Mathematics Block"
+  },
+  {
+    "id": "fac-397",
+    "name": "Dr Prabhavathi K",
+    "designation": "Asst.Prof.Level III",
+    "department": "Mathematics",
+    "email": "",
+    "mobile": "9944328199",
+    "intercom": "",
+    "location": "Mathematics Block"
+  },
+  {
+    "id": "fac-398",
+    "name": "Dr Umamageswari D",
+    "designation": "Asst.Prof.Level III",
+    "department": "Mathematics",
+    "email": "",
+    "mobile": "9487266500",
+    "intercom": "",
+    "location": "Mathematics Block"
+  },
+  {
+    "id": "fac-399",
+    "name": "Dr Prakash K",
+    "designation": "Asst.Prof.Level III",
+    "department": "Mathematics",
+    "email": "prakashkb@bitsathy.ac.in",
+    "mobile": "9994502270",
+    "intercom": "",
+    "location": "Mathematics Block"
+  },
+  {
+    "id": "fac-400",
+    "name": "Mrs Preetha R",
+    "designation": "Asst.Prof.Level III",
+    "department": "Mathematics",
+    "email": "",
+    "mobile": "9944127210",
+    "intercom": "",
+    "location": "Mathematics Block"
+  },
+  {
+    "id": "fac-401",
+    "name": "Dr Saranya D",
+    "designation": "Asst.Prof.Level III",
+    "department": "Mathematics",
+    "email": "",
+    "mobile": "9600926954",
+    "intercom": "",
+    "location": "Mathematics Block"
+  },
+  {
+    "id": "fac-402",
+    "name": "Dr Selvi S",
+    "designation": "Asst.Prof.Level III",
+    "department": "Mathematics",
+    "email": "",
+    "mobile": "8508057561",
+    "intercom": "",
+    "location": "Mathematics Block"
+  },
+  {
+    "id": "fac-403",
+    "name": "Mrs Karthika M",
+    "designation": "Asst.Prof.Level III",
+    "department": "Mathematics",
+    "email": "karthikams@bitsathy.ac.in",
+    "mobile": "8012779933",
+    "intercom": "",
+    "location": "Mathematics Block"
+  },
+  {
+    "id": "fac-404",
+    "name": "Mr Karuppusamy M",
+    "designation": "Asst.Prof.Level III",
+    "department": "Mathematics",
+    "email": "",
+    "mobile": "9994427026",
+    "intercom": "",
+    "location": "Mathematics Block"
+  },
+  {
+    "id": "fac-405",
+    "name": "Dr Revathi V M",
+    "designation": "Asst.Prof.Level III",
+    "department": "Mathematics",
+    "email": "",
+    "mobile": "9976481258",
+    "intercom": "",
+    "location": "Mathematics Block"
+  },
+  {
+    "id": "fac-406",
+    "name": "Dr Gayathiri B",
+    "designation": "Asst.Prof.Level III",
+    "department": "Mathematics",
+    "email": "",
+    "mobile": "9095909290",
+    "intercom": "",
+    "location": "Mathematics Block"
+  },
+  {
+    "id": "fac-407",
+    "name": "Mr Kalaiselvan S",
+    "designation": "Asst.Prof.Level III",
+    "department": "Mathematics",
+    "email": "",
+    "mobile": "9790135043",
+    "intercom": "",
+    "location": "Mathematics Block"
+  },
+  {
+    "id": "fac-408",
+    "name": "Dr Prabakaran P",
+    "designation": "Asst.Prof.Level III",
+    "department": "Mathematics",
+    "email": "",
+    "mobile": "9597070322",
+    "intercom": "",
+    "location": "Mathematics Block"
+  },
+  {
+    "id": "fac-409",
+    "name": "Dr Vijaya Kumar M",
+    "designation": "Asst.Prof.Level III",
+    "department": "Mathematics",
+    "email": "",
+    "mobile": "9578464778",
+    "intercom": "",
+    "location": "Mathematics Block"
+  },
+  {
+    "id": "fac-410",
+    "name": "Dr Malathi M",
+    "designation": "Asst.Prof.Level II",
+    "department": "Mathematics",
+    "email": "",
+    "mobile": "7708574652",
+    "intercom": "",
+    "location": "Mathematics Block"
+  },
+  {
+    "id": "fac-411",
+    "name": "Dr Gomathi M",
+    "designation": "Asst.Prof.Level II",
+    "department": "Mathematics",
+    "email": "",
+    "mobile": "8667622813",
+    "intercom": "",
+    "location": "Mathematics Block"
+  },
+  {
+    "id": "fac-412",
+    "name": "Mr Suresh R",
+    "designation": "Asst.Prof.Level II",
+    "department": "Mathematics",
+    "email": "sureshkumarm@bitsathy.ac.in",
+    "mobile": "9994848163",
+    "intercom": "",
+    "location": "Mathematics Block"
+  },
+  {
+    "id": "fac-413",
+    "name": "Dr Akalyadevi K",
+    "designation": "Asst.Prof.Level II",
+    "department": "Mathematics",
+    "email": "",
+    "mobile": "9842551666",
+    "intercom": "",
+    "location": "Mathematics Block"
+  },
+  {
+    "id": "fac-414",
+    "name": "Dr Hemalatha B",
+    "designation": "Asst.Prof.Level I",
+    "department": "Mathematics",
+    "email": "",
+    "mobile": "9786901291",
+    "intercom": "",
+    "location": "Mathematics Block"
+  },
+  {
+    "id": "fac-415",
+    "name": "Dr Koushika Dhevi S",
+    "designation": "Asst.Prof.Level I",
+    "department": "Mathematics",
+    "email": "",
+    "mobile": "8870412585",
+    "intercom": "",
+    "location": "Mathematics Block"
+  },
+  {
+    "id": "fac-416",
+    "name": "Dr Nandhini C",
+    "designation": "Asst.Prof.Level I",
+    "department": "Mathematics",
+    "email": "",
+    "mobile": "8248645794",
+    "intercom": "",
+    "location": "Mathematics Block"
+  },
+  {
+    "id": "fac-417",
+    "name": "Dr Sadasivam K",
+    "designation": "Prof. & Head",
+    "department": "Physics",
+    "email": "",
+    "mobile": "9443721521",
+    "intercom": "6303",
+    "location": "Physics Block"
+  },
+  {
+    "id": "fac-418",
+    "name": "Dr Vijayakumar V N",
+    "designation": "Prof.",
+    "department": "Physics",
+    "email": "",
+    "mobile": "9488021151",
+    "intercom": "",
+    "location": "Physics Block"
+  },
+  {
+    "id": "fac-419",
+    "name": "Dr Pongali Sathya Prabu N",
+    "designation": "Asso. Prof.",
+    "department": "Physics",
+    "email": "",
+    "mobile": "9488108082",
+    "intercom": "",
+    "location": "Physics Block"
+  },
+  {
+    "id": "fac-420",
+    "name": "Dr Parasuraman P",
+    "designation": "Asst.Prof.Level III",
+    "department": "Physics",
+    "email": "",
+    "mobile": "9751663697",
+    "intercom": "",
+    "location": "Physics Block"
+  },
+  {
+    "id": "fac-421",
+    "name": "Dr Ashokan S",
+    "designation": "Asst.Prof.Level III",
+    "department": "Physics",
+    "email": "",
+    "mobile": "9965764819",
+    "intercom": "",
+    "location": "Physics Block"
+  },
+  {
+    "id": "fac-422",
+    "name": "Dr Selvakumar K",
+    "designation": "Asst.Prof.Level III",
+    "department": "Physics",
+    "email": "",
+    "mobile": "9500293313",
+    "intercom": "",
+    "location": "Physics Block"
+  },
+  {
+    "id": "fac-423",
+    "name": "Dr Thirumoorthy M",
+    "designation": "Asst.Prof.Level III",
+    "department": "Physics",
+    "email": "",
+    "mobile": "8838302967",
+    "intercom": "",
+    "location": "Physics Block"
+  },
+  {
+    "id": "fac-424",
+    "name": "Dr Vanitha K",
+    "designation": "Asst.Prof.Level III",
+    "department": "Physics",
+    "email": "",
+    "mobile": "8892662146",
+    "intercom": "",
+    "location": "Physics Block"
+  },
+  {
+    "id": "fac-425",
+    "name": "Dr Rohini P",
+    "designation": "Asst.Prof.Level III",
+    "department": "Physics",
+    "email": "",
+    "mobile": "9488035580",
+    "intercom": "",
+    "location": "Physics Block"
+  },
+  {
+    "id": "fac-426",
+    "name": "Dr Sangeetha K",
+    "designation": "Asst.Prof.Level III",
+    "department": "Physics",
+    "email": "",
+    "mobile": "9865547010",
+    "intercom": "",
+    "location": "Physics Block"
+  },
+  {
+    "id": "fac-427",
+    "name": "Dr Anandha Babu G",
+    "designation": "Asst.Prof.Level II",
+    "department": "Physics",
+    "email": "",
+    "mobile": "9597446233",
+    "intercom": "",
+    "location": "Physics Block"
+  },
+  {
+    "id": "fac-428",
+    "name": "Dr Siva G",
+    "designation": "Asst.Prof.Level II",
+    "department": "Physics",
+    "email": "sivarajg@bitsathy.ac.in",
+    "mobile": "8883737949",
+    "intercom": "",
+    "location": "Physics Block"
+  },
+  {
+    "id": "fac-429",
+    "name": "Dr Sundaram S",
+    "designation": "Asst.Prof.Level II",
+    "department": "Physics",
+    "email": "sundaramurthys@bitsathy.ac.in",
+    "mobile": "9952340080",
+    "intercom": "",
+    "location": "Physics Block"
+  },
+  {
+    "id": "fac-430",
+    "name": "Dr Balaji M",
+    "designation": "Asst.Prof.Level II",
+    "department": "Physics",
+    "email": "",
+    "mobile": "9003555938",
+    "intercom": "",
+    "location": "Physics Block"
+  },
+  {
+    "id": "fac-431",
+    "name": "Dr Gopi G",
+    "designation": "Asst.Prof.Level I",
+    "department": "Physics",
+    "email": "",
+    "mobile": "9952987601",
+    "intercom": "",
+    "location": "Physics Block"
+  },
+  {
+    "id": "fac-432",
+    "name": "Dr Baskaran P",
+    "designation": "Asst.Prof.Level I",
+    "department": "Physics",
+    "email": "",
+    "mobile": "8807667632",
+    "intercom": "",
+    "location": "Physics Block"
+  },
+  {
+    "id": "fac-433",
+    "name": "Dr Priyadharsini A",
+    "designation": "Asst.Prof.Level I",
+    "department": "Physics",
+    "email": "",
+    "mobile": "9443371893",
+    "intercom": "",
+    "location": "Physics Block"
+  },
+  {
+    "id": "fac-434",
+    "name": "Dr Nithya V D",
+    "designation": "Asst.Prof.Level I",
+    "department": "Physics",
+    "email": "",
+    "mobile": "9790472281",
+    "intercom": "",
+    "location": "Physics Block"
+  },
+  {
+    "id": "fac-435",
+    "name": "Dr Malarvizhi M",
+    "designation": "Asst.Prof.Level I",
+    "department": "Physics",
+    "email": "",
+    "mobile": "9095792265",
+    "intercom": "",
+    "location": "Physics Block"
+  },
+  {
+    "id": "fac-436",
+    "name": "Dr Pavithrakumar M",
+    "designation": "Asst.Prof.Level I",
+    "department": "Physics",
+    "email": "",
+    "mobile": "8110999210",
+    "intercom": "",
+    "location": "Physics Block"
+  },
+  {
+    "id": "fac-437",
+    "name": "Dr Praveena R",
+    "designation": "Asso.Prof.",
+    "department": "Chemistry",
+    "email": "",
+    "mobile": "9486213498",
+    "intercom": "6307",
+    "location": "Chemistry Block"
+  },
+  {
+    "id": "fac-438",
+    "name": "Dr Vijayanand P S",
+    "designation": "Prof.",
+    "department": "Chemistry",
+    "email": "",
+    "mobile": "9942637573",
+    "intercom": "",
+    "location": "Chemistry Block"
+  },
+  {
+    "id": "fac-439",
+    "name": "Dr Subhapriya P",
+    "designation": "Asso.Prof.",
+    "department": "Chemistry",
+    "email": "",
+    "mobile": "9941013099",
+    "intercom": "",
+    "location": "Chemistry Block"
+  },
+  {
+    "id": "fac-440",
+    "name": "Dr Sathish V",
+    "designation": "Asst.Prof.Level III",
+    "department": "Chemistry",
+    "email": "",
+    "mobile": "9585792074",
+    "intercom": "",
+    "location": "Chemistry Block"
+  },
+  {
+    "id": "fac-441",
+    "name": "Dr Muthukumar P",
+    "designation": "Asst.Prof.Level III",
+    "department": "Chemistry",
+    "email": "",
+    "mobile": "9585120710",
+    "intercom": "",
+    "location": "Chemistry Block"
+  },
+  {
+    "id": "fac-442",
+    "name": "Dr Murali Krishnan M",
+    "designation": "Asst.Prof.Level III",
+    "department": "Chemistry",
+    "email": "",
+    "mobile": "9003419594",
+    "intercom": "",
+    "location": "Chemistry Block"
+  },
+  {
+    "id": "fac-443",
+    "name": "Dr Rameshkumar A",
+    "designation": "Asst.Prof.Level III",
+    "department": "Chemistry",
+    "email": "",
+    "mobile": "7358969128",
+    "intercom": "",
+    "location": "Chemistry Block"
+  },
+  {
+    "id": "fac-444",
+    "name": "Dr Jesin Beneto A",
+    "designation": "Asst.Prof.Level II",
+    "department": "Chemistry",
+    "email": "",
+    "mobile": "9585563159",
+    "intercom": "",
+    "location": "Chemistry Block"
+  },
+  {
+    "id": "fac-445",
+    "name": "Dr Deepha V",
+    "designation": "Asst.Prof.Level I",
+    "department": "Chemistry",
+    "email": "",
+    "mobile": "9786539275",
+    "intercom": "",
+    "location": "Chemistry Block"
+  },
+  {
+    "id": "fac-446",
+    "name": "Dr Karrupusamy S",
+    "designation": "Asst.Prof.Level I",
+    "department": "Chemistry",
+    "email": "",
+    "mobile": "9791235607",
+    "intercom": "",
+    "location": "Chemistry Block"
+  },
+  {
+    "id": "fac-447",
+    "name": "Dr Kasthuri S",
+    "designation": "Asst.Prof.Level I",
+    "department": "Chemistry",
+    "email": "",
+    "mobile": "7755937758",
+    "intercom": "",
+    "location": "Chemistry Block"
+  },
+  {
+    "id": "fac-448",
+    "name": "Dr Pawel P",
+    "designation": "Asst.Prof.Level I",
+    "department": "Chemistry",
+    "email": "",
+    "mobile": "9894075071",
+    "intercom": "",
+    "location": "Chemistry Block"
+  },
+  {
+    "id": "fac-449",
+    "name": "Dr Dhilip P",
+    "designation": "Asst.Prof.Level I",
+    "department": "Chemistry",
+    "email": "",
+    "mobile": "9597633471",
+    "intercom": "",
+    "location": "Chemistry Block"
+  },
+  {
+    "id": "fac-450",
+    "name": "Mr Thamilarasan P Asst. Physical",
+    "designation": "Director",
+    "department": "Physical Education",
+    "email": "",
+    "mobile": "9788861497",
+    "intercom": "",
+    "location": "Physical Education Block"
+  },
+  {
+    "id": "fac-451",
+    "name": "Mrs Hari Priya T Asst. Physical",
+    "designation": "Director",
+    "department": "Physical Education",
+    "email": "haripriyar@bitsathy.ac.in",
+    "mobile": "7448583367",
+    "intercom": "",
+    "location": "Physical Education Block"
+  },
+  {
+    "id": "fac-452",
+    "name": "Dr Chandramohan R",
+    "designation": "Director",
+    "department": "Physical Education",
+    "email": "",
+    "mobile": "9677851471",
+    "intercom": "6122",
+    "location": "Physical Education Block"
+  },
+  {
+    "id": "fac-453",
+    "name": "Dr GOMATHI R",
+    "designation": "Faculty Member",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "gomathir@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-454",
+    "name": "Dr KANTHIMATHI N",
+    "designation": "Faculty Member",
+    "department": "Electronics and Communication Engineering",
+    "email": "kanthimathi@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-455",
+    "name": "Dr KIRUPA SANKAR M",
+    "designation": "Faculty Member",
+    "department": "Biotechnology",
+    "email": "kirupasankarm@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Biotechnology Block"
+  },
+  {
+    "id": "fac-456",
+    "name": "Dr KUMARESAN T",
+    "designation": "Faculty Member",
+    "department": "Computer Science and Engineering",
+    "email": "kumaresant@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-457",
+    "name": "Dr PURUSOTHAMAN P",
+    "designation": "Faculty Member",
+    "department": "Information Technology",
+    "email": "purusothaman@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Information Technology Block"
+  },
+  {
+    "id": "fac-458",
+    "name": "Dr RAJASEKAR L",
+    "designation": "Faculty Member",
+    "department": "Electrical and Instrumentation Engineering",
+    "email": "rajasekarl@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Electrical and Instrumentation Engineering Block"
+  },
+  {
+    "id": "fac-459",
+    "name": "Dr THIRUMURUGAN V",
+    "designation": "Faculty Member",
+    "department": "Food Technology",
+    "email": "thirumurugan@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Food Technology Block"
+  },
+  {
+    "id": "fac-460",
+    "name": "Mr DIVAKAR R",
+    "designation": "Faculty Member",
+    "department": "Computer Technology",
+    "email": "divakarr@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Computer Technology Block"
+  },
+  {
+    "id": "fac-461",
+    "name": "Mr KARTHICK K N",
+    "designation": "Faculty Member",
+    "department": "Mechanical Engineering",
+    "email": "karthickkn@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Mechanical Engineering Block"
+  },
+  {
+    "id": "fac-462",
+    "name": "Mr MOHAMED IRSATH M",
+    "designation": "Faculty Member",
+    "department": "Mechanical Engineering",
+    "email": "mohamedirsathm@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Mechanical Engineering Block"
+  },
+  {
+    "id": "fac-463",
+    "name": "Mr RAJ KUMAR V S",
+    "designation": "Faculty Member",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "rajkumarvs@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-464",
+    "name": "Mr SATHISH S",
+    "designation": "Faculty Member",
+    "department": "Computer Science and Business Systems",
+    "email": "sathishs@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Computer Science and Business Systems Block"
+  },
+  {
+    "id": "fac-465",
+    "name": "Mr VAIDHYANATHAN B",
+    "designation": "Faculty Member",
+    "department": "Biotechnology",
+    "email": "vaidhyanathan@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Biotechnology Block"
+  },
+  {
+    "id": "fac-466",
+    "name": "Mrs GANAGAVALLI K",
+    "designation": "Faculty Member",
+    "department": "Computer Science and Engineering",
+    "email": "ganagavalli@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-467",
+    "name": "Mrs JAYANTHI V",
+    "designation": "Faculty Member",
+    "department": "Civil Engineering",
+    "email": "jayanthiv@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Civil Engineering Block"
+  },
+  {
+    "id": "fac-468",
+    "name": "Mrs MADHUMITHA J",
+    "designation": "Faculty Member",
+    "department": "Electrical and Electronics Engineering",
+    "email": "madhumithaj@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Electrical and Electronics Engineering Block"
+  },
+  {
+    "id": "fac-469",
+    "name": "Mrs RANJITHAM M",
+    "designation": "Faculty Member",
+    "department": "Civil Engineering",
+    "email": "ranjitham@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Civil Engineering Block"
+  },
+  {
+    "id": "fac-470",
+    "name": "Mrs SUSEELA D",
+    "designation": "Faculty Member",
+    "department": "Artificial Intelligence and Machine Learning",
+    "email": "suseelad@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Artificial Intelligence and Machine Learning Block"
+  },
+  {
+    "id": "fac-471",
+    "name": "Ms KASINIYA K",
+    "designation": "Faculty Member",
+    "department": "Computer Science and Design",
+    "email": "kasiniya@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Computer Science and Design Block"
+  },
+  {
+    "id": "fac-472",
+    "name": "Ms KAVIYAADHARSHANI D",
+    "designation": "Faculty Member",
+    "department": "Artificial Intelligence and Machine Learning",
+    "email": "kaviyaadharshani@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Artificial Intelligence and Machine Learning Block"
+  },
+  {
+    "id": "fac-473",
+    "name": "Ms NANDHINI S S",
+    "designation": "Faculty Member",
+    "department": "Information Science and Engineering",
+    "email": "nandhiniss@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-474",
+    "name": "Ms NITHYA M",
+    "designation": "Faculty Member",
+    "department": "Computer Technology",
+    "email": "nithyam@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Computer Technology Block"
+  },
+  {
+    "id": "fac-475",
+    "name": "Ms PRASANNAKIRUBA G S",
+    "designation": "Faculty Member",
+    "department": "Computer Technology",
+    "email": "prasannakiruba@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Computer Technology Block"
+  },
+  {
+    "id": "fac-476",
+    "name": "Ms SRI VINITHA V",
+    "designation": "Faculty Member",
+    "department": "Information Technology",
+    "email": "srivinitha@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Information Technology Block"
+  },
+  {
+    "id": "fac-477",
+    "name": "Ms SUBHARATHNA N",
+    "designation": "Faculty Member",
+    "department": "Electronics and Communication Engineering",
+    "email": "subharathnan@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-478",
+    "name": "Mrs NIVEDHA S",
+    "designation": "Faculty Member",
+    "department": "Information Technology",
+    "email": "nivedha@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Information Technology Block"
+  },
+  {
+    "id": "fac-479",
+    "name": "Dr ARUN JAYAKAR S",
+    "designation": "Faculty Member",
+    "department": "Electrical and Instrumentation Engineering",
+    "email": "arunjayakars@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Electrical and Instrumentation Engineering Block"
+  },
+  {
+    "id": "fac-480",
+    "name": "Ms SUGANYA DEVI C R",
+    "designation": "Faculty Member",
+    "department": "Electronics and Communication Engineering",
+    "email": "suganyadevi@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-481",
+    "name": "Dr LAKSHMANAPRAKASH S",
+    "designation": "Faculty Member",
+    "department": "Information Technology",
+    "email": "lakshmanaprakashs@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Information Technology Block"
+  },
+  {
+    "id": "fac-482",
+    "name": "Dr PRAVIN M C",
+    "designation": "Faculty Member",
+    "department": "Mechanical Engineering",
+    "email": "pravin@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Mechanical Engineering Block"
+  },
+  {
+    "id": "fac-483",
+    "name": "Mr SELVAMUTHUKUMARAN D",
+    "designation": "Faculty Member",
+    "department": "Mechanical Engineering",
+    "email": "selvamuthukumaran@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Mechanical Engineering Block"
+  },
+  {
+    "id": "fac-484",
+    "name": "Dr SANDHYARANI R",
+    "designation": "Faculty Member",
+    "department": "Biotechnology",
+    "email": "sandhyaranir@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Biotechnology Block"
+  },
+  {
+    "id": "fac-485",
+    "name": "Dr SUBBULAKSHMI M",
+    "designation": "Faculty Member",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "subbulakshmi@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-486",
+    "name": "Dr SUGUNA R",
+    "designation": "Faculty Member",
+    "department": "Computer Science and Business Systems",
+    "email": "sugunar@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Computer Science and Business Systems Block"
+  },
+  {
+    "id": "fac-487",
+    "name": "Dr UVARAJA V C",
+    "designation": "Faculty Member",
+    "department": "Agriculture Engineering",
+    "email": "uvarajavc@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Agriculture Engineering Block"
+  },
+  {
+    "id": "fac-488",
+    "name": "Mr ARUN CHENDHURAN R",
+    "designation": "Faculty Member",
+    "department": "Electrical and Electronics Engineering",
+    "email": "arunchendhuran@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Electrical and Electronics Engineering Block"
+  },
+  {
+    "id": "fac-489",
+    "name": "Mr BIJU J",
+    "designation": "Faculty Member",
+    "department": "Information Science and Engineering",
+    "email": "bijuj@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-490",
+    "name": "Mr GOPAL R",
+    "designation": "Faculty Member",
+    "department": "Information Science and Engineering",
+    "email": "gopalr@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-491",
+    "name": "Mrs KARTHIGA M",
+    "designation": "Faculty Member",
+    "department": "Electronics and Communication Engineering",
+    "email": "karthiga@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-492",
+    "name": "Mrs ABIRAMI A",
+    "designation": "Faculty Member",
+    "department": "Information Technology",
+    "email": "abiramia@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Information Technology Block"
+  },
+  {
+    "id": "fac-493",
+    "name": "Mrs JOTHIMANI S",
+    "designation": "Faculty Member",
+    "department": "Information Technology",
+    "email": "jothimanis@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Information Technology Block"
+  },
+  {
+    "id": "fac-494",
+    "name": "Mrs KALAIVANI E",
+    "designation": "Faculty Member",
+    "department": "Computer Science and Engineering",
+    "email": "kalaivanie@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-495",
+    "name": "Mrs MEKALA R",
+    "designation": "Faculty Member",
+    "department": "Information Science and Engineering",
+    "email": "mekalar@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Information Science and Engineering Block"
+  },
+  {
+    "id": "fac-496",
+    "name": "Mrs NITHYA R",
+    "designation": "Faculty Member",
+    "department": "Computer Science and Engineering",
+    "email": "nithyars@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-497",
+    "name": "Ms ABINAYA R",
+    "designation": "Faculty Member",
+    "department": "Aeronautical Engineering",
+    "email": "abinaya@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Aeronautical Engineering Block"
+  },
+  {
+    "id": "fac-498",
+    "name": "Ms JANAGI R",
+    "designation": "Faculty Member",
+    "department": "Computer Science and Engineering",
+    "email": "janagir@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-499",
+    "name": "Ms KARTHIKA S",
+    "designation": "Faculty Member",
+    "department": "Artificial Intelligence and Machine Learning",
+    "email": "karthikas@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Artificial Intelligence and Machine Learning Block"
+  },
+  {
+    "id": "fac-500",
+    "name": "Ms NITHIYA PRIYA B T",
+    "designation": "Faculty Member",
+    "department": "Food Technology",
+    "email": "nithiyapriyabt@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Food Technology Block"
+  },
+  {
+    "id": "fac-501",
+    "name": "Ms PUJAA SAKTHY M R K",
+    "designation": "Faculty Member",
+    "department": "Food Technology",
+    "email": "pujaasakthymrk@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Food Technology Block"
+  },
+  {
+    "id": "fac-502",
+    "name": "Ms SAAHINA S",
+    "designation": "Faculty Member",
+    "department": "Biomedical Engineering",
+    "email": "saahina@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Biomedical Engineering Block"
+  },
+  {
+    "id": "fac-503",
+    "name": "Ms SOWMMIYA S",
+    "designation": "Faculty Member",
+    "department": "Food Technology",
+    "email": "sowmmiya@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Food Technology Block"
+  },
+  {
+    "id": "fac-504",
+    "name": "Ms SUDHA T",
+    "designation": "Faculty Member",
+    "department": "Computer Science and Business Systems",
+    "email": "sudhat@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Computer Science and Business Systems Block"
+  },
+  {
+    "id": "fac-505",
+    "name": "Ms VAISHNAVI M",
+    "designation": "Faculty Member",
+    "department": "Computer Science and Engineering",
+    "email": "vaishnavim@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-506",
+    "name": "Dr AJIN R NAIR",
+    "designation": "Faculty Member",
+    "department": "Electronics and Communication Engineering",
+    "email": "ajinrnair@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-507",
+    "name": "Dr GANESH BABU C",
+    "designation": "Faculty Member",
+    "department": "Electrical and Instrumentation Engineering",
+    "email": "ganeshbabuc@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Electrical and Instrumentation Engineering Block"
+  },
+  {
+    "id": "fac-508",
+    "name": "Dr KARTHIGA SHENBAGAM N",
+    "designation": "Faculty Member",
+    "department": "Civil Engineering",
+    "email": "karthigashenbagamn@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Civil Engineering Block"
+  },
+  {
+    "id": "fac-509",
+    "name": "Dr KODIESWARI A",
+    "designation": "Faculty Member",
+    "department": "Artificial Intelligence and Machine Learning",
+    "email": "kodieswaria@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Artificial Intelligence and Machine Learning Block"
+  },
+  {
+    "id": "fac-510",
+    "name": "Dr SATHIS KUMAR K",
+    "designation": "Faculty Member",
+    "department": "Information Technology",
+    "email": "sathiskumark@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Information Technology Block"
+  },
+  {
+    "id": "fac-511",
+    "name": "Mr BHUVANESH N",
+    "designation": "Faculty Member",
+    "department": "Mechanical Engineering",
+    "email": "bhuvanesh@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Mechanical Engineering Block"
+  },
+  {
+    "id": "fac-512",
+    "name": "Dr VASUDEVAN M",
+    "designation": "Faculty Member",
+    "department": "Agriculture Engineering",
+    "email": "vasudevan@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Agriculture Engineering Block"
+  },
+  {
+    "id": "fac-513",
+    "name": "Mr RAGHUL S",
+    "designation": "Faculty Member",
+    "department": "Agriculture Engineering",
+    "email": "raghul@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Agriculture Engineering Block"
+  },
+  {
+    "id": "fac-514",
+    "name": "Mr RAGUNATH D",
+    "designation": "Faculty Member",
+    "department": "Computer Science and Engineering",
+    "email": "ragunath@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-515",
+    "name": "Mr RAJA SEKAR S",
+    "designation": "Faculty Member",
+    "department": "Electronics and Communication Engineering",
+    "email": "rajasekar@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  },
+  {
+    "id": "fac-516",
+    "name": "Mr RAMACHANDRA RAJU K",
+    "designation": "Faculty Member",
+    "department": "Mechanical Engineering",
+    "email": "ramachandraraju@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Mechanical Engineering Block"
+  },
+  {
+    "id": "fac-517",
+    "name": "Mr SATHEESHKUMAR S",
+    "designation": "Faculty Member",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "satheeshkumars@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-518",
+    "name": "Mr STEEPHAN AMALRAJ J",
+    "designation": "Faculty Member",
+    "department": "Computer Science and Engineering",
+    "email": "steephanamalrajj@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-519",
+    "name": "Mr SUDHIR KUMAR V",
+    "designation": "Faculty Member",
+    "department": "Automobile Engineering",
+    "email": "sudhirkumar@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Automobile Engineering Block"
+  },
+  {
+    "id": "fac-520",
+    "name": "Mr SUNDAR S",
+    "designation": "Faculty Member",
+    "department": "Electrical and Electronics Engineering",
+    "email": "sundars@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Electrical and Electronics Engineering Block"
+  },
+  {
+    "id": "fac-521",
+    "name": "Mr VINOTH KUMAR J",
+    "designation": "Faculty Member",
+    "department": "Mechanical Engineering",
+    "email": "vinothkumar@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Mechanical Engineering Block"
+  },
+  {
+    "id": "fac-522",
+    "name": "Mr EDAMAKANTI RAMANJI REDDY",
+    "designation": "Faculty Member",
+    "department": "Food Technology",
+    "email": "edamakantiramanjireddy@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Food Technology Block"
+  },
+  {
+    "id": "fac-523",
+    "name": "Ms SNEHA B J",
+    "designation": "Faculty Member",
+    "department": "Textile Technology",
+    "email": "snehabj@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Textile Technology Block"
+  },
+  {
+    "id": "fac-524",
+    "name": "Mrs SARANYA N",
+    "designation": "Faculty Member",
+    "department": "Computer Science and Business Systems",
+    "email": "saranyanj@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Computer Science and Business Systems Block"
+  },
+  {
+    "id": "fac-525",
+    "name": "Ms BENITA GRACIA THANGAM J",
+    "designation": "Faculty Member",
+    "department": "Artificial Intelligence and Data Science",
+    "email": "benitagraciathangam@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Artificial Intelligence and Data Science Block"
+  },
+  {
+    "id": "fac-526",
+    "name": "Ms DHIVYA DHARSHINI U",
+    "designation": "Faculty Member",
+    "department": "Biotechnology",
+    "email": "dhivyadharshiniu@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Biotechnology Block"
+  },
+  {
+    "id": "fac-527",
+    "name": "Ms NIVETHA R",
+    "designation": "Faculty Member",
+    "department": "Artificial Intelligence and Machine Learning",
+    "email": "nivetha@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Artificial Intelligence and Machine Learning Block"
+  },
+  {
+    "id": "fac-528",
+    "name": "Ms PARKAVI S",
+    "designation": "Faculty Member",
+    "department": "Computer Science and Engineering",
+    "email": "parkavi@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Computer Science and Engineering Block"
+  },
+  {
+    "id": "fac-529",
+    "name": "Ms POUSIA S",
+    "designation": "Faculty Member",
+    "department": "Electronics and Communication Engineering",
+    "email": "pousias@bitsathy.ac.in",
+    "mobile": "",
+    "intercom": "",
+    "location": "Electronics and Communication Engineering Block"
+  }
+]

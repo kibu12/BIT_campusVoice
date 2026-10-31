@@ -1,0 +1,929 @@
+BANNARI AMMAN INSTITUTE OF TECHNOLOGY (BIT) - OFFICIAL CAMPUS ROOMS & DEPARTMENTAL LOCATIONS
+=========================================================================================
+
+Building/Rib: SF Block (Located in Sunflower Block) [ID: sf-block]
+  Keywords/Departments: dept of it, dept of cse, dept of aiml, SF Block, school of computing, sunflower block
+  - Base Floor: IT 001, IT 002, IT 003, IT Seminar Hall
+    * IT 001 is located on the Base Floor of SF Block (Sunflower Block).
+    * IT 002 is located on the Base Floor of SF Block (Sunflower Block).
+    * IT 003 is located on the Base Floor of SF Block (Sunflower Block).
+    * IT Seminar Hall is located on the Base Floor of SF Block (Sunflower Block).
+  - Ground Floor: IT 101, IT 102, Department of Information Technology, Artificial Intelligence Lab (AI Lab)
+    * IT 101 is located on the Ground Floor of SF Block (Sunflower Block).
+    * IT 102 is located on the Ground Floor of SF Block (Sunflower Block).
+    * Department of Information Technology is located on the Ground Floor of SF Block (Sunflower Block).
+    * Artificial Intelligence Lab (AI Lab) is located on the Ground Floor of SF Block (Sunflower Block).
+  - First Floor: CS 201, CS 202 💞, CS 203, Department of Computer Science and Engineering, CSE Lab 1
+    * CS 201 is located on the First Floor of SF Block (Sunflower Block).
+    * CS 202 💞 is located on the First Floor of SF Block (Sunflower Block).
+    * CS 203 is located on the First Floor of SF Block (Sunflower Block).
+    * Department of Computer Science and Engineering is located on the First Floor of SF Block (Sunflower Block).
+    * CSE Lab 1 is located on the First Floor of SF Block (Sunflower Block).
+  - Second Floor: AIML 101, CS 302, CS 303, Auditorium
+    * AIML 101 is located on the Second Floor of SF Block (Sunflower Block).
+    * CS 302 is located on the Second Floor of SF Block (Sunflower Block).
+    * CS 303 is located on the Second Floor of SF Block (Sunflower Block).
+    * Auditorium is located on the Second Floor of SF Block (Sunflower Block).
+
+Building/Rib: SF Block Labs (Located in Sunflower Block) [ID: sf-block-labs]
+  - Base Floor: Civil Practical Labs
+    * Civil Practical Labs is located on the Base Floor of SF Block Labs (Sunflower Block).
+  - Ground Floor: Data Mining Lab, Cloud Computing Lab, DBMS Lab, Faculty Hall 5, Faculty Hall 7, Programming Lab, sunflower block
+    * Data Mining Lab is located on the Ground Floor of SF Block Labs (Sunflower Block).
+    * Cloud Computing Lab is located on the Ground Floor of SF Block Labs (Sunflower Block).
+    * DBMS Lab is located on the Ground Floor of SF Block Labs (Sunflower Block).
+    * Faculty Hall 5 is located on the Ground Floor of SF Block Labs (Sunflower Block).
+    * Faculty Hall 7 is located on the Ground Floor of SF Block Labs (Sunflower Block).
+    * Programming Lab is located on the Ground Floor of SF Block Labs (Sunflower Block).
+    * sunflower block is located on the Ground Floor of SF Block Labs (Sunflower Block).
+  - First Floor: CSE Lab 2, CSE Lab 3 (Networking Lab), Faculty Hall 5, CSE Lab 4 (Web Technology Lab), CSE Lab 5 (Open Source Lab)
+    * CSE Lab 2 is located on the First Floor of SF Block Labs (Sunflower Block).
+    * CSE Lab 3 (Networking Lab) is located on the First Floor of SF Block Labs (Sunflower Block).
+    * Faculty Hall 5 is located on the First Floor of SF Block Labs (Sunflower Block).
+    * CSE Lab 4 (Web Technology Lab) is located on the First Floor of SF Block Labs (Sunflower Block).
+    * CSE Lab 5 (Open Source Lab) is located on the First Floor of SF Block Labs (Sunflower Block).
+  - Second Floor: Department of Artificial Intelligence and Machine Learning, CSE Lab 6, CSE Lab 7 (Data Structure Lab 7), CSE Lab 8, CSE Lab 9, Faculty Hall 10
+    * Department of Artificial Intelligence and Machine Learning is located on the Second Floor of SF Block Labs (Sunflower Block).
+    * CSE Lab 6 is located on the Second Floor of SF Block Labs (Sunflower Block).
+    * CSE Lab 7 (Data Structure Lab 7) is located on the Second Floor of SF Block Labs (Sunflower Block).
+    * CSE Lab 8 is located on the Second Floor of SF Block Labs (Sunflower Block).
+    * CSE Lab 9 is located on the Second Floor of SF Block Labs (Sunflower Block).
+    * Faculty Hall 10 is located on the Second Floor of SF Block Labs (Sunflower Block).
+
+Building/Rib: Mech Block Entrance (Located in Mechanic Block) [ID: mechanic-front]
+  Keywords/Departments: school of mechanics, dept of mech, dept of aero, dept of agri
+  - Ground Floor: Department of Mechanical Engineering, Department office (Mech), Department Library (Mech), Smart class room, Reprography Center, Cyber Security Lab
+    * Department of Mechanical Engineering is located on the Ground Floor of Mech Block Entrance (Mechanic Block).
+    * Department office (Mech) is located on the Ground Floor of Mech Block Entrance (Mechanic Block).
+    * Department Library (Mech) is located on the Ground Floor of Mech Block Entrance (Mechanic Block).
+    * Smart class room is located on the Ground Floor of Mech Block Entrance (Mechanic Block).
+    * Reprography Center is located on the Ground Floor of Mech Block Entrance (Mechanic Block).
+    * Cyber Security Lab is located on the Ground Floor of Mech Block Entrance (Mechanic Block).
+  - First Floor: Department of Mechanics, Mathematics Experience Centre (ME 101), ME 102, ME 103, ME 104, ME 105, ME 106, ME 107, ME 108
+    * Department of Mechanics is located on the First Floor of Mech Block Entrance (Mechanic Block).
+    * Mathematics Experience Centre (ME 101) is located on the First Floor of Mech Block Entrance (Mechanic Block).
+    * ME 102 is located on the First Floor of Mech Block Entrance (Mechanic Block).
+    * ME 103 is located on the First Floor of Mech Block Entrance (Mechanic Block).
+    * ME 104 is located on the First Floor of Mech Block Entrance (Mechanic Block).
+    * ME 105 is located on the First Floor of Mech Block Entrance (Mechanic Block).
+    * ME 106 is located on the First Floor of Mech Block Entrance (Mechanic Block).
+    * ME 107 is located on the First Floor of Mech Block Entrance (Mechanic Block).
+    * ME 108 is located on the First Floor of Mech Block Entrance (Mechanic Block).
+  - Second Floor: Department of Aeronautical, ME 201, ME 202, ME 203, ME 204, ME 205, ME 206, Faculty Hall 1
+    * Department of Aeronautical is located on the Second Floor of Mech Block Entrance (Mechanic Block).
+    * ME 201 is located on the Second Floor of Mech Block Entrance (Mechanic Block).
+    * ME 202 is located on the Second Floor of Mech Block Entrance (Mechanic Block).
+    * ME 203 is located on the Second Floor of Mech Block Entrance (Mechanic Block).
+    * ME 204 is located on the Second Floor of Mech Block Entrance (Mechanic Block).
+    * ME 205 is located on the Second Floor of Mech Block Entrance (Mechanic Block).
+    * ME 206 is located on the Second Floor of Mech Block Entrance (Mechanic Block).
+    * Faculty Hall 1 is located on the Second Floor of Mech Block Entrance (Mechanic Block).
+  - Third Floor: Department of Agriculture, ME 301, ME 302, ME 303, ME 304, ME 305, ME 306, Faculty Hall  2
+    * Department of Agriculture is located on the Third Floor of Mech Block Entrance (Mechanic Block).
+    * ME 301 is located on the Third Floor of Mech Block Entrance (Mechanic Block).
+    * ME 302 is located on the Third Floor of Mech Block Entrance (Mechanic Block).
+    * ME 303 is located on the Third Floor of Mech Block Entrance (Mechanic Block).
+    * ME 304 is located on the Third Floor of Mech Block Entrance (Mechanic Block).
+    * ME 305 is located on the Third Floor of Mech Block Entrance (Mechanic Block).
+    * ME 306 is located on the Third Floor of Mech Block Entrance (Mechanic Block).
+    * Faculty Hall  2 is located on the Third Floor of Mech Block Entrance (Mechanic Block).
+
+Building/Rib: Mechanic Block (Located in Mechanic Block) [ID: mechanic-back]
+  Keywords/Departments: dept of mech
+  - Base Floor: Basic Workshop, Inventory Area
+    * Basic Workshop is located on the Base Floor of Mechanic Block (Mechanic Block).
+    * Inventory Area is located on the Base Floor of Mechanic Block (Mechanic Block).
+  - Ground floor: Special Machinery Shop, Strength of Materials Lab, Lathe Shop, Meteorology Lab, Aqua Sub BIT research center, Fluid Mechanics, Thermal Engineering lab, Non-Destructive Testing Lab
+    * Special Machinery Shop is located on the Ground floor of Mechanic Block (Mechanic Block).
+    * Strength of Materials Lab is located on the Ground floor of Mechanic Block (Mechanic Block).
+    * Lathe Shop is located on the Ground floor of Mechanic Block (Mechanic Block).
+    * Meteorology Lab is located on the Ground floor of Mechanic Block (Mechanic Block).
+    * Aqua Sub BIT research center is located on the Ground floor of Mechanic Block (Mechanic Block).
+    * Fluid Mechanics is located on the Ground floor of Mechanic Block (Mechanic Block).
+    * Thermal Engineering lab is located on the Ground floor of Mechanic Block (Mechanic Block).
+    * Non-Destructive Testing Lab is located on the Ground floor of Mechanic Block (Mechanic Block).
+  - First Floor: Sensor and Instrumentation lab, MEMS Laboratory, Mechatronics Lab, BIT - Harita Lab, Sew Eurodrive Lab, Kinematics & Dynamic Lab, Metallurgy Lab, Aircraft Structure Lab, Avionics Lab, Basic Workshop, Industrial and Mobile Robotics Lab, CAM Lab, FANUC centre for FOR CNC Machine, BIT - FESTO Centre, CAD Lab
+    * Sensor and Instrumentation lab is located on the First Floor of Mechanic Block (Mechanic Block).
+    * MEMS Laboratory is located on the First Floor of Mechanic Block (Mechanic Block).
+    * Mechatronics Lab is located on the First Floor of Mechanic Block (Mechanic Block).
+    * BIT - Harita Lab is located on the First Floor of Mechanic Block (Mechanic Block).
+    * Sew Eurodrive Lab is located on the First Floor of Mechanic Block (Mechanic Block).
+    * Kinematics & Dynamic Lab is located on the First Floor of Mechanic Block (Mechanic Block).
+    * Metallurgy Lab is located on the First Floor of Mechanic Block (Mechanic Block).
+    * Aircraft Structure Lab is located on the First Floor of Mechanic Block (Mechanic Block).
+    * Avionics Lab is located on the First Floor of Mechanic Block (Mechanic Block).
+    * Basic Workshop is located on the First Floor of Mechanic Block (Mechanic Block).
+    * Industrial and Mobile Robotics Lab is located on the First Floor of Mechanic Block (Mechanic Block).
+    * CAM Lab is located on the First Floor of Mechanic Block (Mechanic Block).
+    * FANUC centre for FOR CNC Machine is located on the First Floor of Mechanic Block (Mechanic Block).
+    * BIT - FESTO Centre is located on the First Floor of Mechanic Block (Mechanic Block).
+    * CAD Lab is located on the First Floor of Mechanic Block (Mechanic Block).
+  - Second Floor: Heat Transfer Lab, Industrial Safety Lab, Energy Management Lab, Automative Components Lab, Smart Agriculture Lab, Drawing Hall 1, Drawing Hall 2, Fundamentals of Mechanical Engg Lab, Statics Laboratory
+    * Heat Transfer Lab is located on the Second Floor of Mechanic Block (Mechanic Block).
+    * Industrial Safety Lab is located on the Second Floor of Mechanic Block (Mechanic Block).
+    * Energy Management Lab is located on the Second Floor of Mechanic Block (Mechanic Block).
+    * Automative Components Lab is located on the Second Floor of Mechanic Block (Mechanic Block).
+    * Smart Agriculture Lab is located on the Second Floor of Mechanic Block (Mechanic Block).
+    * Drawing Hall 1 is located on the Second Floor of Mechanic Block (Mechanic Block).
+    * Drawing Hall 2 is located on the Second Floor of Mechanic Block (Mechanic Block).
+    * Fundamentals of Mechanical Engg Lab is located on the Second Floor of Mechanic Block (Mechanic Block).
+    * Statics Laboratory is located on the Second Floor of Mechanic Block (Mechanic Block).
+
+Building/Rib: AS Block (Located in AS Block) [ID: as-main-left]
+  Keywords/Departments: Special Labs, Dept of ISE, AS Block
+  - Ground Floor: CS 109, New Product Development Lab (CS 110), Digital Marketing Lab (CS 111), Research Lab (CS 112), Test and Repair Centre, Industrial Design Studio, IT Operations
+    * CS 109 is located on the Ground Floor of AS Block (AS Block).
+    * New Product Development Lab (CS 110) is located on the Ground Floor of AS Block (AS Block).
+    * Digital Marketing Lab (CS 111) is located on the Ground Floor of AS Block (AS Block).
+    * Research Lab (CS 112) is located on the Ground Floor of AS Block (AS Block).
+    * Test and Repair Centre is located on the Ground Floor of AS Block (AS Block).
+    * Industrial Design Studio is located on the Ground Floor of AS Block (AS Block).
+    * IT Operations is located on the Ground Floor of AS Block (AS Block).
+  - First floor: Department of Information Science and Technology, ISE Lab 1, ISE Lab 2, Server Room, Faculty Hall 1, Robotics & Automation Lab, BT Lab
+    * Department of Information Science and Technology is located on the First floor of AS Block (AS Block).
+    * ISE Lab 1 is located on the First floor of AS Block (AS Block).
+    * ISE Lab 2 is located on the First floor of AS Block (AS Block).
+    * Server Room is located on the First floor of AS Block (AS Block).
+    * Faculty Hall 1 is located on the First floor of AS Block (AS Block).
+    * Robotics & Automation Lab is located on the First floor of AS Block (AS Block).
+    * BT Lab is located on the First floor of AS Block (AS Block).
+  - Second Floor: Discussion Room, Conference Room, Data Science Lab, Open Source Lab, AR/VR Lab, Design & Prototyping Lab, Hackathon Lab, Integrated AI Lab, Sensor Lab, Vision Engineering Lab, Embedded Systems Lab, UAV Lab, UUV Lab, Robotics Lab, Automation Lab
+    * Discussion Room is located on the Second Floor of AS Block (AS Block).
+    * Conference Room is located on the Second Floor of AS Block (AS Block).
+    * Data Science Lab is located on the Second Floor of AS Block (AS Block).
+    * Open Source Lab is located on the Second Floor of AS Block (AS Block).
+    * AR/VR Lab is located on the Second Floor of AS Block (AS Block).
+    * Design & Prototyping Lab is located on the Second Floor of AS Block (AS Block).
+    * Hackathon Lab is located on the Second Floor of AS Block (AS Block).
+    * Integrated AI Lab is located on the Second Floor of AS Block (AS Block).
+    * Sensor Lab is located on the Second Floor of AS Block (AS Block).
+    * Vision Engineering Lab is located on the Second Floor of AS Block (AS Block).
+    * Embedded Systems Lab is located on the Second Floor of AS Block (AS Block).
+    * UAV Lab is located on the Second Floor of AS Block (AS Block).
+    * UUV Lab is located on the Second Floor of AS Block (AS Block).
+    * Robotics Lab is located on the Second Floor of AS Block (AS Block).
+    * Automation Lab is located on the Second Floor of AS Block (AS Block).
+
+Building/Rib: Special Labs (Located in AS Block) [ID: as-main-right]
+  Keywords/Departments: Special Labs, Dept of CSBS, AS Block
+  - Base Floor: Manufacturing and Fabrication Lab, Hybrid Human Powered Vehicle, Agricultural Vehicle, On Road Off Road Vehicle, MF Lab, Sustainable Civil Engineering Materials Lab, Kart Vehicle, Electrical Vehicle
+    * Manufacturing and Fabrication Lab is located on the Base Floor of Special Labs (AS Block).
+    * Hybrid Human Powered Vehicle is located on the Base Floor of Special Labs (AS Block).
+    * Agricultural Vehicle is located on the Base Floor of Special Labs (AS Block).
+    * On Road Off Road Vehicle is located on the Base Floor of Special Labs (AS Block).
+    * MF Lab is located on the Base Floor of Special Labs (AS Block).
+    * Sustainable Civil Engineering Materials Lab is located on the Base Floor of Special Labs (AS Block).
+    * Kart Vehicle is located on the Base Floor of Special Labs (AS Block).
+    * Electrical Vehicle is located on the Base Floor of Special Labs (AS Block).
+  - Ground floor: Reprographic Centre, CB 101, Electronic System for Wildlife Conservation Lab, Virtual Instrumentation Lab, Block Chain Technology Lab, Product Innovation Lab, Intelligence Innovation Lab, Natural Language Processing (NLP) Lab, Power Conversion and System Integration Lab, Signal Processing for Health Care Lab, World Skill Training Centre
+    * Reprographic Centre is located on the Ground floor of Special Labs (AS Block).
+    * CB 101 is located on the Ground floor of Special Labs (AS Block).
+    * Electronic System for Wildlife Conservation Lab is located on the Ground floor of Special Labs (AS Block).
+    * Virtual Instrumentation Lab is located on the Ground floor of Special Labs (AS Block).
+    * Block Chain Technology Lab is located on the Ground floor of Special Labs (AS Block).
+    * Product Innovation Lab is located on the Ground floor of Special Labs (AS Block).
+    * Intelligence Innovation Lab is located on the Ground floor of Special Labs (AS Block).
+    * Natural Language Processing (NLP) Lab is located on the Ground floor of Special Labs (AS Block).
+    * Power Conversion and System Integration Lab is located on the Ground floor of Special Labs (AS Block).
+    * Signal Processing for Health Care Lab is located on the Ground floor of Special Labs (AS Block).
+    * World Skill Training Centre is located on the Ground floor of Special Labs (AS Block).
+  - First Floor: Department of Computer Science and Business System, CSBS Lab 1, CSBS Lab 2, CSBS Lab 3, Mathematics Experience Centre, Embedded Technology Lab, Energy and Thermal Product Development Lab
+    * Department of Computer Science and Business System is located on the First Floor of Special Labs (AS Block).
+    * CSBS Lab 1 is located on the First Floor of Special Labs (AS Block).
+    * CSBS Lab 2 is located on the First Floor of Special Labs (AS Block).
+    * CSBS Lab 3 is located on the First Floor of Special Labs (AS Block).
+    * Mathematics Experience Centre is located on the First Floor of Special Labs (AS Block).
+    * Embedded Technology Lab is located on the First Floor of Special Labs (AS Block).
+    * Energy and Thermal Product Development Lab is located on the First Floor of Special Labs (AS Block).
+  - Second Floor: Internet of Things (IoT) Lab, Cloud Computing Lab, Data Science Lab, Electrical Product Development Lab, Next Generation Networking Lab, Communication & Protocol Lab, Energy Storage & Conversion Lab, Micro Prototyping Lab, Robotics Division, Drone division, 3D printing Division, AI Lab, Mobile and Web App Dev Lab
+    * Internet of Things (IoT) Lab is located on the Second Floor of Special Labs (AS Block).
+    * Cloud Computing Lab is located on the Second Floor of Special Labs (AS Block).
+    * Data Science Lab is located on the Second Floor of Special Labs (AS Block).
+    * Electrical Product Development Lab is located on the Second Floor of Special Labs (AS Block).
+    * Next Generation Networking Lab is located on the Second Floor of Special Labs (AS Block).
+    * Communication & Protocol Lab is located on the Second Floor of Special Labs (AS Block).
+    * Energy Storage & Conversion Lab is located on the Second Floor of Special Labs (AS Block).
+    * Micro Prototyping Lab is located on the Second Floor of Special Labs (AS Block).
+    * Robotics Division is located on the Second Floor of Special Labs (AS Block).
+    * Drone division is located on the Second Floor of Special Labs (AS Block).
+    * 3D printing Division is located on the Second Floor of Special Labs (AS Block).
+    * AI Lab is located on the Second Floor of Special Labs (AS Block).
+    * Mobile and Web App Dev Lab is located on the Second Floor of Special Labs (AS Block).
+
+Building/Rib: AS rib 1 (Located in AS Block) [ID: as-rib-1]
+  Keywords/Departments: Dept of Biomedical
+  - Ground Floor: Department of Biomedical Engineering, Faculty Hall
+    * Department of Biomedical Engineering is located on the Ground Floor of AS rib 1 (AS Block).
+    * Faculty Hall is located on the Ground Floor of AS rib 1 (AS Block).
+  - First Floor: EW 113, EW 114, EW 115
+    * EW 113 is located on the First Floor of AS rib 1 (AS Block).
+    * EW 114 is located on the First Floor of AS rib 1 (AS Block).
+    * EW 115 is located on the First Floor of AS rib 1 (AS Block).
+  - Second Floor: EW 213, EW 214, EW 215
+    * EW 213 is located on the Second Floor of AS rib 1 (AS Block).
+    * EW 214 is located on the Second Floor of AS rib 1 (AS Block).
+    * EW 215 is located on the Second Floor of AS rib 1 (AS Block).
+
+Building/Rib: AS rib 3 (Located in AS Block) [ID: as-rib-3]
+  Keywords/Departments: Dept of Civil
+  - Ground Floor: Department of Civil Engineering, Faculty Hall, Conference Hall
+    * Department of Civil Engineering is located on the Ground Floor of AS rib 3 (AS Block).
+    * Faculty Hall is located on the Ground Floor of AS rib 3 (AS Block).
+    * Conference Hall is located on the Ground Floor of AS rib 3 (AS Block).
+  - First Floor: EW 116, EW 117, EW 118
+    * EW 116 is located on the First Floor of AS rib 3 (AS Block).
+    * EW 117 is located on the First Floor of AS rib 3 (AS Block).
+    * EW 118 is located on the First Floor of AS rib 3 (AS Block).
+  - Second Floor: EW 216, EW 217, EW 218
+    * EW 216 is located on the Second Floor of AS rib 3 (AS Block).
+    * EW 217 is located on the Second Floor of AS rib 3 (AS Block).
+    * EW 218 is located on the Second Floor of AS rib 3 (AS Block).
+
+Building/Rib: AS rib 5 (Located in AS Block) [ID: as-rib-5]
+  Keywords/Departments: Dept of ECE
+  - Ground Floor: Faculty Hall 2
+    * Faculty Hall 2 is located on the Ground Floor of AS rib 5 (AS Block).
+  - First Floor: EW 107, EW 108 ❤️‍🩹, EW 109
+    * EW 107 is located on the First Floor of AS rib 5 (AS Block).
+    * EW 108 ❤️‍🩹 is located on the First Floor of AS rib 5 (AS Block).
+    * EW 109 is located on the First Floor of AS rib 5 (AS Block).
+  - Second Floor: EW 207, EW 208, EW 209
+    * EW 207 is located on the Second Floor of AS rib 5 (AS Block).
+    * EW 208 is located on the Second Floor of AS rib 5 (AS Block).
+    * EW 209 is located on the Second Floor of AS rib 5 (AS Block).
+
+Building/Rib: AS rib 7 (Located in AS Block) [ID: as-rib-7]
+  Keywords/Departments: Dept of ECE
+  - Ground Floor: Department of Electrical and Communication Engineering, Faculty Hall 1, ECE Seminar Hall
+    * Department of Electrical and Communication Engineering is located on the Ground Floor of AS rib 7 (AS Block).
+    * Faculty Hall 1 is located on the Ground Floor of AS rib 7 (AS Block).
+    * ECE Seminar Hall is located on the Ground Floor of AS rib 7 (AS Block).
+  - First Floor: Faculty Hall 3, EW 111, EW 112
+    * Faculty Hall 3 is located on the First Floor of AS rib 7 (AS Block).
+    * EW 111 is located on the First Floor of AS rib 7 (AS Block).
+    * EW 112 is located on the First Floor of AS rib 7 (AS Block).
+  - Second Floor: EW 210, EW 211, EW 212
+    * EW 210 is located on the Second Floor of AS rib 7 (AS Block).
+    * EW 211 is located on the Second Floor of AS rib 7 (AS Block).
+    * EW 212 is located on the Second Floor of AS rib 7 (AS Block).
+
+Building/Rib: AS rib 9 (Located in AS Block) [ID: as-rib-9]
+  Keywords/Departments: Dept of food Tech, FD
+  - Ground Floor: Department of Food Technology, Faculty Hall
+    * Department of Food Technology is located on the Ground Floor of AS rib 9 (AS Block).
+    * Faculty Hall is located on the Ground Floor of AS rib 9 (AS Block).
+  - First Floor: EW 101, EW 102, EW 103
+    * EW 101 is located on the First Floor of AS rib 9 (AS Block).
+    * EW 102 is located on the First Floor of AS rib 9 (AS Block).
+    * EW 103 is located on the First Floor of AS rib 9 (AS Block).
+  - Second Floor: EW 201, EW 202, EW 203
+    * EW 201 is located on the Second Floor of AS rib 9 (AS Block).
+    * EW 202 is located on the Second Floor of AS rib 9 (AS Block).
+    * EW 203 is located on the Second Floor of AS rib 9 (AS Block).
+
+Building/Rib: AS rib 11 (Located in AS Block) [ID: as-rib-11]
+  Keywords/Departments: Dept of Textile Tech, TX
+  - Ground Floor: Department of Textile Technology, Faculty Hall, Textile Seminar Hall
+    * Department of Textile Technology is located on the Ground Floor of AS rib 11 (AS Block).
+    * Faculty Hall is located on the Ground Floor of AS rib 11 (AS Block).
+    * Textile Seminar Hall is located on the Ground Floor of AS rib 11 (AS Block).
+  - First Floor: EW 104, EW 105, EW 106
+    * EW 104 is located on the First Floor of AS rib 11 (AS Block).
+    * EW 105 is located on the First Floor of AS rib 11 (AS Block).
+    * EW 106 is located on the First Floor of AS rib 11 (AS Block).
+  - Second Floor: EW 204, EW 205, EW 206
+    * EW 204 is located on the Second Floor of AS rib 11 (AS Block).
+    * EW 205 is located on the Second Floor of AS rib 11 (AS Block).
+    * EW 206 is located on the Second Floor of AS rib 11 (AS Block).
+
+Building/Rib: Fashion Resource Centre (Located in AS Block) [ID: fashion-centre]
+  Keywords/Departments: Dept of Fashion Tech, FT
+  - Ground Floor: Department of Fashion Technology, Faculty Hall
+    * Department of Fashion Technology is located on the Ground Floor of Fashion Resource Centre (AS Block).
+    * Faculty Hall is located on the Ground Floor of Fashion Resource Centre (AS Block).
+  - First Floor: Class rooms, Garment Construction Lab 1, Garment Construction Lab 2
+    * Class rooms is located on the First Floor of Fashion Resource Centre (AS Block).
+    * Garment Construction Lab 1 is located on the First Floor of Fashion Resource Centre (AS Block).
+    * Garment Construction Lab 2 is located on the First Floor of Fashion Resource Centre (AS Block).
+
+Building/Rib: AS rib 2 (Located in AS Block) [ID: as-rib-2]
+  Keywords/Departments: Dept of Chemistry
+  - Ground Floor: Department of Chemistry, Faculty Hall, Chemistry Laboratory - 1
+    * Department of Chemistry is located on the Ground Floor of AS rib 2 (AS Block).
+    * Faculty Hall is located on the Ground Floor of AS rib 2 (AS Block).
+    * Chemistry Laboratory - 1 is located on the Ground Floor of AS rib 2 (AS Block).
+  - First Floor: Language Lab, ELCC Cell, Faculty Hall
+    * Language Lab is located on the First Floor of AS rib 2 (AS Block).
+    * ELCC Cell is located on the First Floor of AS rib 2 (AS Block).
+    * Faculty Hall is located on the First Floor of AS rib 2 (AS Block).
+  - Second Floor: Physics Laboratory - 1, Faculty Hall
+    * Physics Laboratory - 1 is located on the Second Floor of AS rib 2 (AS Block).
+    * Faculty Hall is located on the Second Floor of AS rib 2 (AS Block).
+
+Building/Rib: AS rib 4 (Located in AS Block) [ID: as-rib-4]
+  Keywords/Departments: Dept of of physics
+  - Ground Floor: Faculty Hall, Signal Processing Lab, PCB Design Lab, PCB Fabrication Lab
+    * Faculty Hall is located on the Ground Floor of AS rib 4 (AS Block).
+    * Signal Processing Lab is located on the Ground Floor of AS rib 4 (AS Block).
+    * PCB Design Lab is located on the Ground Floor of AS rib 4 (AS Block).
+    * PCB Fabrication Lab is located on the Ground Floor of AS rib 4 (AS Block).
+  - First Floor: Department of Physics, Physics Laboratory - 2, Faculty  Hall
+    * Department of Physics is located on the First Floor of AS rib 4 (AS Block).
+    * Physics Laboratory - 2 is located on the First Floor of AS rib 4 (AS Block).
+    * Faculty  Hall is located on the First Floor of AS rib 4 (AS Block).
+  - Second Floor: Chemistry Laboratory - 2, Faculty Hall
+    * Chemistry Laboratory - 2 is located on the Second Floor of AS rib 4 (AS Block).
+    * Faculty Hall is located on the Second Floor of AS rib 4 (AS Block).
+
+Building/Rib: AS rib 6 (Located in AS Block) [ID: as-rib-6]
+  Keywords/Departments: Dept of Civil, Dept of biomedical
+  - Ground Floor: Faculty Hall, Soil Mechanic Lab
+    * Faculty Hall is located on the Ground Floor of AS rib 6 (AS Block).
+    * Soil Mechanic Lab is located on the Ground Floor of AS rib 6 (AS Block).
+  - First Floor: CADD & Survey Lab, Survey & Environmental Lab
+    * CADD & Survey Lab is located on the First Floor of AS rib 6 (AS Block).
+    * Survey & Environmental Lab is located on the First Floor of AS rib 6 (AS Block).
+  - Second Floor: Biochemistry Lab, Physiology Lab
+    * Biochemistry Lab is located on the Second Floor of AS rib 6 (AS Block).
+    * Physiology Lab is located on the Second Floor of AS rib 6 (AS Block).
+
+Building/Rib: AS rib 8 (Located in AS Block) [ID: as-rib-8]
+  Keywords/Departments: Dept of ECE
+  - Ground Floor: Analog electronic & IC Lab, Advanced Communication System Lab
+    * Analog electronic & IC Lab is located on the Ground Floor of AS rib 8 (AS Block).
+    * Advanced Communication System Lab is located on the Ground Floor of AS rib 8 (AS Block).
+  - First Floor: Network Lab, PG VLSI Lab, Product Development Lab
+    * Network Lab is located on the First Floor of AS rib 8 (AS Block).
+    * PG VLSI Lab is located on the First Floor of AS rib 8 (AS Block).
+    * Product Development Lab is located on the First Floor of AS rib 8 (AS Block).
+  - Second Floor: Analog & Digital Lab, Microwave & Optical Lab
+    * Analog & Digital Lab is located on the Second Floor of AS rib 8 (AS Block).
+    * Microwave & Optical Lab is located on the Second Floor of AS rib 8 (AS Block).
+
+Building/Rib: AS rib 10 (Located in AS Block) [ID: as-rib-10]
+  - Ground Floor: Chemical Processing Lab
+    * Chemical Processing Lab is located on the Ground Floor of AS rib 10 (AS Block).
+  - First Floor: Apparel Testing Lab, Textile Testing Lab, Faculty Hall
+    * Apparel Testing Lab is located on the First Floor of AS rib 10 (AS Block).
+    * Textile Testing Lab is located on the First Floor of AS rib 10 (AS Block).
+    * Faculty Hall is located on the First Floor of AS rib 10 (AS Block).
+  - Second Floor: VLSI Design Lab, Digital Electronic Lab, Microprocessor & Microcontroller Lab
+    * VLSI Design Lab is located on the Second Floor of AS rib 10 (AS Block).
+    * Digital Electronic Lab is located on the Second Floor of AS rib 10 (AS Block).
+    * Microprocessor & Microcontroller Lab is located on the Second Floor of AS rib 10 (AS Block).
+
+Building/Rib: AS rib 12 (Located in AS Block) [ID: as-rib-12]
+  - Ground Floor: Weaving and Knitting Lab
+    * Weaving and Knitting Lab is located on the Ground Floor of AS rib 12 (AS Block).
+  - First Floor: Food Technology Lab
+    * Food Technology Lab is located on the First Floor of AS rib 12 (AS Block).
+  - Second Floor: Food Analysis and Instrumentation Facility, Food Technology Lab - 2
+    * Food Analysis and Instrumentation Facility is located on the Second Floor of AS rib 12 (AS Block).
+    * Food Technology Lab - 2 is located on the Second Floor of AS rib 12 (AS Block).
+
+Building/Rib: Chiller Plant (Located in Chiller Plant) [ID: chiller-plant]
+  - Ground: Chiller Plant
+    * Chiller Plant is located on the Ground of Chiller Plant (Chiller Plant).
+
+Building/Rib: Spinning Lab (Located in AS Block) [ID: spinning-lab]
+  - Ground Floor: Spinning Lab
+    * Spinning Lab is located on the Ground Floor of Spinning Lab (AS Block).
+  - First Floor: Spinning Lab
+    * Spinning Lab is located on the First Floor of Spinning Lab (AS Block).
+
+Building/Rib: Maintenance & Stationary Store (Located in Maintenance & Stationary Store) [ID: main-store]
+  - Ground: Maintenance & Stationary Store
+    * Maintenance & Stationary Store is located on the Ground of Maintenance & Stationary Store (Maintenance & Stationary Store).
+
+Building/Rib: Library (Located in Library) [ID: library]
+  - Ground: Library
+    * Library is located on the Ground of Library (Library).
+
+Building/Rib: Main Auditorium (Located in Main Auditorium) [ID: main-auditorium]
+  - Ground: Main Auditorium
+    * Main Auditorium is located on the Ground of Main Auditorium (Main Auditorium).
+
+Building/Rib: Placement and Training Cell (Located in IB Block) [ID: placement-and-training]
+  Keywords/Departments: 
+  - Ground Floor: Department of Training and Placement
+    * Department of Training and Placement is located on the Ground Floor of Placement and Training Cell (IB Block).
+  - First Floor: Vedhanayagam Auditorium
+    * Vedhanayagam Auditorium is located on the First Floor of Placement and Training Cell (IB Block).
+
+Building/Rib: Internet Centre (Located in IB Block) [ID: internet-centre]
+  Keywords/Departments: COE, Chrome OS
+  - Ground Floor: Internet Centre
+    * Internet Centre is located on the Ground Floor of Internet Centre (IB Block).
+  - First Floor: Controller of Examination (COE)
+    * Controller of Examination (COE) is located on the First Floor of Internet Centre (IB Block).
+
+Building/Rib: BIT Community Radio Centre (Located in BIT Community Radio Centre) [ID: radio]
+  - Ground: BIT Community Radio Centre
+    * BIT Community Radio Centre is located on the Ground of BIT Community Radio Centre (BIT Community Radio Centre).
+
+Building/Rib: IB Block (Located in IB Block) [ID: ib-block-1]
+  Keywords/Departments: Dept of maths, Dept of Bio-Tech
+  - Ground Floor: Department of Mathematics, IB 101 (left as it is in remainder of old names), WW 002, WW 003, WW 004, Maths Faculty Hall - 1, Maths Faculty Hall - 2, Biotech Seminar Hall
+    * Department of Mathematics is located on the Ground Floor of IB Block (IB Block).
+    * IB 101 (left as it is in remainder of old names) is located on the Ground Floor of IB Block (IB Block).
+    * WW 002 is located on the Ground Floor of IB Block (IB Block).
+    * WW 003 is located on the Ground Floor of IB Block (IB Block).
+    * WW 004 is located on the Ground Floor of IB Block (IB Block).
+    * Maths Faculty Hall - 1 is located on the Ground Floor of IB Block (IB Block).
+    * Maths Faculty Hall - 2 is located on the Ground Floor of IB Block (IB Block).
+    * Biotech Seminar Hall is located on the Ground Floor of IB Block (IB Block).
+  - First Floor: Genetic Engineering Lab, Molecular Biology Lab, Bio-polymer Lab, Bio Material Synthesis and Analysis Lab, Bio-prospecting Lab, Department of Bio-Technology, Plant Issue Culture Lab, Faculty Hall
+    * Genetic Engineering Lab is located on the First Floor of IB Block (IB Block).
+    * Molecular Biology Lab is located on the First Floor of IB Block (IB Block).
+    * Bio-polymer Lab is located on the First Floor of IB Block (IB Block).
+    * Bio Material Synthesis and Analysis Lab is located on the First Floor of IB Block (IB Block).
+    * Bio-prospecting Lab is located on the First Floor of IB Block (IB Block).
+    * Department of Bio-Technology is located on the First Floor of IB Block (IB Block).
+    * Plant Issue Culture Lab is located on the First Floor of IB Block (IB Block).
+    * Faculty Hall is located on the First Floor of IB Block (IB Block).
+  - Second Floor: WW 216, WW 217, WW 218, WW 219, WW 220, WW 221, Maths Faculty Hall - 5
+    * WW 216 is located on the Second Floor of IB Block (IB Block).
+    * WW 217 is located on the Second Floor of IB Block (IB Block).
+    * WW 218 is located on the Second Floor of IB Block (IB Block).
+    * WW 219 is located on the Second Floor of IB Block (IB Block).
+    * WW 220 is located on the Second Floor of IB Block (IB Block).
+    * WW 221 is located on the Second Floor of IB Block (IB Block).
+    * Maths Faculty Hall - 5 is located on the Second Floor of IB Block (IB Block).
+
+Building/Rib: IB Block (Located in IB Block) [ID: ib-block-2]
+  Keywords/Departments: Dept of Bio-Tech
+  - Ground Floor: WW 005, WW 006, WW 007, WW 008, WW 010, WW 011, WW 012, Bio-process and Bio-product Lab, BIT Integrated Plant Research Facility, Bio Energy Research Lab
+    * WW 005 is located on the Ground Floor of IB Block (IB Block).
+    * WW 006 is located on the Ground Floor of IB Block (IB Block).
+    * WW 007 is located on the Ground Floor of IB Block (IB Block).
+    * WW 008 is located on the Ground Floor of IB Block (IB Block).
+    * WW 010 is located on the Ground Floor of IB Block (IB Block).
+    * WW 011 is located on the Ground Floor of IB Block (IB Block).
+    * WW 012 is located on the Ground Floor of IB Block (IB Block).
+    * Bio-process and Bio-product Lab is located on the Ground Floor of IB Block (IB Block).
+    * BIT Integrated Plant Research Facility is located on the Ground Floor of IB Block (IB Block).
+    * Bio Energy Research Lab is located on the Ground Floor of IB Block (IB Block).
+  - First Floor: Fungal Bio-diversity and Bio-resources Research Lab, Lecture Hall IB 118, Nano Biotechnology Lab, Molecular Diagnostic and Bacterial Pathogenemis Lab, Downstream Processing Lab, Cell Biology Lab, Microbiology Lab, Chemical Engineering Lab, Bio Process Lab, Bio Separation Lab, Fume Head Room, Bio-Organic Chemistry Lab, Instrumental method of analysis Lab, Immunology Lab
+    * Fungal Bio-diversity and Bio-resources Research Lab is located on the First Floor of IB Block (IB Block).
+    * Lecture Hall IB 118 is located on the First Floor of IB Block (IB Block).
+    * Nano Biotechnology Lab is located on the First Floor of IB Block (IB Block).
+    * Molecular Diagnostic and Bacterial Pathogenemis Lab is located on the First Floor of IB Block (IB Block).
+    * Downstream Processing Lab is located on the First Floor of IB Block (IB Block).
+    * Cell Biology Lab is located on the First Floor of IB Block (IB Block).
+    * Microbiology Lab is located on the First Floor of IB Block (IB Block).
+    * Chemical Engineering Lab is located on the First Floor of IB Block (IB Block).
+    * Bio Process Lab is located on the First Floor of IB Block (IB Block).
+    * Bio Separation Lab is located on the First Floor of IB Block (IB Block).
+    * Fume Head Room is located on the First Floor of IB Block (IB Block).
+    * Bio-Organic Chemistry Lab is located on the First Floor of IB Block (IB Block).
+    * Instrumental method of analysis Lab is located on the First Floor of IB Block (IB Block).
+    * Immunology Lab is located on the First Floor of IB Block (IB Block).
+  - Second Floor: WW 222, WW 223, WW 224, WW 225, WW 226, WW 227, Maths Faculty Hall - 6
+    * WW 222 is located on the Second Floor of IB Block (IB Block).
+    * WW 223 is located on the Second Floor of IB Block (IB Block).
+    * WW 224 is located on the Second Floor of IB Block (IB Block).
+    * WW 225 is located on the Second Floor of IB Block (IB Block).
+    * WW 226 is located on the Second Floor of IB Block (IB Block).
+    * WW 227 is located on the Second Floor of IB Block (IB Block).
+    * Maths Faculty Hall - 6 is located on the Second Floor of IB Block (IB Block).
+
+Building/Rib: IB rib 1 (Located in IB Block) [ID: ib-rib-1]
+  Keywords/Departments: Dept of EIE
+  - Ground Floor: Department of Electronics and Instrumentation Engineering, Faculty Hall, Yoga Centre
+    * Department of Electronics and Instrumentation Engineering is located on the Ground Floor of IB rib 1 (IB Block).
+    * Faculty Hall is located on the Ground Floor of IB rib 1 (IB Block).
+    * Yoga Centre is located on the Ground Floor of IB rib 1 (IB Block).
+  - First Floor: WW 113, WW 114, WW 115
+    * WW 113 is located on the First Floor of IB rib 1 (IB Block).
+    * WW 114 is located on the First Floor of IB rib 1 (IB Block).
+    * WW 115 is located on the First Floor of IB rib 1 (IB Block).
+  - Second Floor: WW 212, WW 211
+    * WW 212 is located on the Second Floor of IB rib 1 (IB Block).
+    * WW 211 is located on the Second Floor of IB rib 1 (IB Block).
+
+Building/Rib: IB rib 3 (Located in IB Block) [ID: ib-rib-3]
+  Keywords/Departments: Dept of AIDS
+  - Ground Floor: Department of Artificial Intelligence and Data Science, CT & AIDS Library, MNC
+    * Department of Artificial Intelligence and Data Science is located on the Ground Floor of IB rib 3 (IB Block).
+    * CT & AIDS Library is located on the Ground Floor of IB rib 3 (IB Block).
+    * MNC is located on the Ground Floor of IB rib 3 (IB Block).
+  - First Floor: WW 117, WW 118, CT Faculty Hall 4
+    * WW 117 is located on the First Floor of IB rib 3 (IB Block).
+    * WW 118 is located on the First Floor of IB rib 3 (IB Block).
+    * CT Faculty Hall 4 is located on the First Floor of IB rib 3 (IB Block).
+  - Second Floor: WW 213, WW 214, WW 215
+    * WW 213 is located on the Second Floor of IB rib 3 (IB Block).
+    * WW 214 is located on the Second Floor of IB rib 3 (IB Block).
+    * WW 215 is located on the Second Floor of IB rib 3 (IB Block).
+
+Building/Rib: IB rib 5 (Located in IB Block) [ID: ib-rib-5]
+  Keywords/Departments: Dept of EEE
+  - Ground Floor: Department of Electrical and Electronics Engineering, Faculty Hall, EEE Seminar Hall
+    * Department of Electrical and Electronics Engineering is located on the Ground Floor of IB rib 5 (IB Block).
+    * Faculty Hall is located on the Ground Floor of IB rib 5 (IB Block).
+    * EEE Seminar Hall is located on the Ground Floor of IB rib 5 (IB Block).
+  - First Floor: WW 107, WW 108, WW 109
+    * WW 107 is located on the First Floor of IB rib 5 (IB Block).
+    * WW 108 is located on the First Floor of IB rib 5 (IB Block).
+    * WW 109 is located on the First Floor of IB rib 5 (IB Block).
+  - Second Floor: WW 207, WW 206
+    * WW 207 is located on the Second Floor of IB rib 5 (IB Block).
+    * WW 206 is located on the Second Floor of IB rib 5 (IB Block).
+
+Building/Rib: IB rib 7 (Located in IB Block) [ID: ib-rib-7]
+  Keywords/Departments: Dept of EEE
+  - Ground Floor: Faculty Hall
+    * Faculty Hall is located on the Ground Floor of IB rib 7 (IB Block).
+  - First Floor: WW 110, WW 111, WW 112
+    * WW 110 is located on the First Floor of IB rib 7 (IB Block).
+    * WW 111 is located on the First Floor of IB rib 7 (IB Block).
+    * WW 112 is located on the First Floor of IB rib 7 (IB Block).
+  - Second Floor: WW 208, WW 209, WW 210
+    * WW 208 is located on the Second Floor of IB rib 7 (IB Block).
+    * WW 209 is located on the Second Floor of IB rib 7 (IB Block).
+    * WW 210 is located on the Second Floor of IB rib 7 (IB Block).
+
+Building/Rib: IB rib 9 (Located in IB Block) [ID: ib-rib-9]
+  - Ground Floor: Xerox printout, Seminar Hall Mech
+    * Xerox printout is located on the Ground Floor of IB rib 9 (IB Block).
+    * Seminar Hall Mech is located on the Ground Floor of IB rib 9 (IB Block).
+  - First Floor: WW 101, WW 102, WW 103
+    * WW 101 is located on the First Floor of IB rib 9 (IB Block).
+    * WW 102 is located on the First Floor of IB rib 9 (IB Block).
+    * WW 103 is located on the First Floor of IB rib 9 (IB Block).
+  - Second Floor: WW 201, WW 202
+    * WW 201 is located on the Second Floor of IB rib 9 (IB Block).
+    * WW 202 is located on the Second Floor of IB rib 9 (IB Block).
+
+Building/Rib: IB rib 11 (Located in IB Block) [ID: ib-rib-11]
+  - Ground Floor: Department of Humanities, Chairman Cabin
+    * Department of Humanities is located on the Ground Floor of IB rib 11 (IB Block).
+    * Chairman Cabin is located on the Ground Floor of IB rib 11 (IB Block).
+  - First Floor: WW 104 💝, WW 105, WW 106
+    * WW 104 💝 is located on the First Floor of IB rib 11 (IB Block).
+    * WW 105 is located on the First Floor of IB rib 11 (IB Block).
+    * WW 106 is located on the First Floor of IB rib 11 (IB Block).
+  - Second Floor: WW 203, WW 204, WW 205
+    * WW 203 is located on the Second Floor of IB rib 11 (IB Block).
+    * WW 204 is located on the Second Floor of IB rib 11 (IB Block).
+    * WW 205 is located on the Second Floor of IB rib 11 (IB Block).
+
+Building/Rib: IB rib 2 (Located in IB Block) [ID: ib-rib-2]
+  - Ground Floor: Technology Business Incubator - BIT TBI, ß,α cave, Repository
+    * Technology Business Incubator - BIT TBI is located on the Ground Floor of IB rib 2 (IB Block).
+    * ß,α cave is located on the Ground Floor of IB rib 2 (IB Block).
+    * Repository is located on the Ground Floor of IB rib 2 (IB Block).
+  - First Floor: Idea Pad, Mission Control, Pageant Theatre, Proto Lounge
+    * Idea Pad is located on the First Floor of IB rib 2 (IB Block).
+    * Mission Control is located on the First Floor of IB rib 2 (IB Block).
+    * Pageant Theatre is located on the First Floor of IB rib 2 (IB Block).
+    * Proto Lounge is located on the First Floor of IB rib 2 (IB Block).
+  - Second Floor: Fab Lab, Venture Space, Mentor Studio, Launch Pad
+    * Fab Lab is located on the Second Floor of IB rib 2 (IB Block).
+    * Venture Space is located on the Second Floor of IB rib 2 (IB Block).
+    * Mentor Studio is located on the Second Floor of IB rib 2 (IB Block).
+    * Launch Pad is located on the Second Floor of IB rib 2 (IB Block).
+
+Building/Rib: IB rib 4 (Located in IB Block) [ID: ib-rib-4]
+  Keywords/Departments: Dept of CT, Dept of AIDS
+  - Ground Floor: Centre of Excellence in Industrial Automation, Internet of Things Lab, ZSN Computech, E-yantra Robotics Lab
+    * Centre of Excellence in Industrial Automation is located on the Ground Floor of IB rib 4 (IB Block).
+    * Internet of Things Lab is located on the Ground Floor of IB rib 4 (IB Block).
+    * ZSN Computech is located on the Ground Floor of IB rib 4 (IB Block).
+    * E-yantra Robotics Lab is located on the Ground Floor of IB rib 4 (IB Block).
+  - First Floor: Department of Computer Technology, CT Labs
+    * Department of Computer Technology is located on the First Floor of IB rib 4 (IB Block).
+    * CT Labs is located on the First Floor of IB rib 4 (IB Block).
+  - Second Floor: Department of Artificial Intelligence and Data Science, AIDS Labs
+    * Department of Artificial Intelligence and Data Science is located on the Second Floor of IB rib 4 (IB Block).
+    * AIDS Labs is located on the Second Floor of IB rib 4 (IB Block).
+
+Building/Rib: IB rib 6 (Located in IB Block) [ID: ib-rib-6]
+  Keywords/Departments: Dept of EIE
+  - Ground Floor: EIE Computer Centre, Process Control Lab
+    * EIE Computer Centre is located on the Ground Floor of IB rib 6 (IB Block).
+    * Process Control Lab is located on the Ground Floor of IB rib 6 (IB Block).
+  - First Floor: Sensor and Transducer Lab, Industrial Instrumentation Lab, Electronics Lab
+    * Sensor and Transducer Lab is located on the First Floor of IB rib 6 (IB Block).
+    * Industrial Instrumentation Lab is located on the First Floor of IB rib 6 (IB Block).
+    * Electronics Lab is located on the First Floor of IB rib 6 (IB Block).
+  - Second Floor: Conference Hall - EIE, Smart Class Room - EIE
+    * Conference Hall - EIE is located on the Second Floor of IB rib 6 (IB Block).
+    * Smart Class Room - EIE is located on the Second Floor of IB rib 6 (IB Block).
+
+Building/Rib: IB rib 8 (Located in IB Block) [ID: ib-rib-8]
+  - Ground Floor: BIT - Gurugualam, Electronics Lab, Electronics Machines Lab
+    * BIT - Gurugualam is located on the Ground Floor of IB rib 8 (IB Block).
+    * Electronics Lab is located on the Ground Floor of IB rib 8 (IB Block).
+    * Electronics Machines Lab is located on the Ground Floor of IB rib 8 (IB Block).
+  - First Floor: Faculty Hall
+    * Faculty Hall is located on the First Floor of IB rib 8 (IB Block).
+  - Second Floor: Power Electronics and Drives Lab
+    * Power Electronics and Drives Lab is located on the Second Floor of IB rib 8 (IB Block).
+
+Building/Rib: IB rib 10 (Located in IB Block) [ID: ib-rib-10]
+  Keywords/Departments: Dept of EEE
+  - Ground Floor: BIT Gurugualam
+    * BIT Gurugualam is located on the Ground Floor of IB rib 10 (IB Block).
+  - First Floor: Faculty Hall, EEE Computer Centre
+    * Faculty Hall is located on the First Floor of IB rib 10 (IB Block).
+    * EEE Computer Centre is located on the First Floor of IB rib 10 (IB Block).
+  - Second Floor: Store Room, EEE Tutorial Hall
+    * Store Room is located on the Second Floor of IB rib 10 (IB Block).
+    * EEE Tutorial Hall is located on the Second Floor of IB rib 10 (IB Block).
+
+Building/Rib: IB rib 12 (Located in IB Block) [ID: ib-rib-12]
+  - Ground Floor: BIT Gurugualam, Wielding and pm lab
+    * BIT Gurugualam is located on the Ground Floor of IB rib 12 (IB Block).
+    * Wielding and pm lab is located on the Ground Floor of IB rib 12 (IB Block).
+  - First Floor: Home Appliances Lab, Salzar BIT Innovation Centre, Basic EEE Lab
+    * Home Appliances Lab is located on the First Floor of IB rib 12 (IB Block).
+    * Salzar BIT Innovation Centre is located on the First Floor of IB rib 12 (IB Block).
+    * Basic EEE Lab is located on the First Floor of IB rib 12 (IB Block).
+  - Second Floor: PLC Lab, A&D Lab, Thermal Drawing Hall
+    * PLC Lab is located on the Second Floor of IB rib 12 (IB Block).
+    * A&D Lab is located on the Second Floor of IB rib 12 (IB Block).
+    * Thermal Drawing Hall is located on the Second Floor of IB rib 12 (IB Block).
+
+Building/Rib: Cafeteria (Located in Cafeteria) [ID: cafeteria]
+  - Ground: Cafeteria
+    * Cafeteria is located on the Ground of Cafeteria (Cafeteria).
+
+Building/Rib: Boys Mess (Located in Boys Mess) [ID: boys-mess]
+  - Ground: Boys Mess
+    * Boys Mess is located on the Ground of Boys Mess (Boys Mess).
+
+Building/Rib: Sapphire Hostel (Located in Sapphire Hostel) [ID: sapphire]
+  - Ground: Sapphire Hostel
+    * Sapphire Hostel is located on the Ground of Sapphire Hostel (Sapphire Hostel).
+
+Building/Rib: Ruby Hostel (Located in Ruby Hostel) [ID: ruby]
+  - Ground: Ruby Hostel
+    * Ruby Hostel is located on the Ground of Ruby Hostel (Ruby Hostel).
+
+Building/Rib: Pearl Hostel (Located in Pearl Hostel) [ID: pearl]
+  - Ground: Pearl Hostel
+    * Pearl Hostel is located on the Ground of Pearl Hostel (Pearl Hostel).
+
+Building/Rib: Diamond Hostel (Located in Diamond Hostel) [ID: diamond]
+  - Ground: Diamond Hostel
+    * Diamond Hostel is located on the Ground of Diamond Hostel (Diamond Hostel).
+
+Building/Rib: Emerald Hostel (Located in Emerald Hostel) [ID: emerald]
+  - Ground: Emerald Hostel
+    * Emerald Hostel is located on the Ground of Emerald Hostel (Emerald Hostel).
+
+Building/Rib: Coral Hostel (NRI Hostel) (Located in Coral Hostel (NRI Hostel)) [ID: coral]
+  - Ground: Coral Hostel (NRI Hostel)
+    * Coral Hostel (NRI Hostel) is located on the Ground of Coral Hostel (NRI Hostel) (Coral Hostel (NRI Hostel)).
+
+Building/Rib: Outdoor Gym (Located in Outdoor Gym) [ID: outdoor-gym]
+  - Ground: Outdoor Gym
+    * Outdoor Gym is located on the Ground of Outdoor Gym (Outdoor Gym).
+
+Building/Rib: Gym (Located in Hostel Gate) [ID: indoor-gym]
+  Keywords/Departments: 
+  - Ground Floor: Hostel Manager Cabin
+    * Hostel Manager Cabin is located on the Ground Floor of Gym (Hostel Gate).
+  - First Floor: Boys Gym
+    * Boys Gym is located on the First Floor of Gym (Hostel Gate).
+  - Second Floor: Yoga Centre
+    * Yoga Centre is located on the Second Floor of Gym (Hostel Gate).
+
+Building/Rib: Laundry (Boys) (Located in Laundry (Boys)) [ID: boys-laundry]
+  - Ground: Laundry (Boys)
+    * Laundry (Boys) is located on the Ground of Laundry (Boys) (Laundry (Boys)).
+
+Building/Rib: Power House (Located in Power House) [ID: power-house]
+  - Ground: Power House
+    * Power House is located on the Ground of Power House (Power House).
+
+Building/Rib: Tennis Court 1 (Located in Tennis Court 1) [ID: tennis-court-1]
+  - Ground: Tennis Court 1
+    * Tennis Court 1 is located on the Ground of Tennis Court 1 (Tennis Court 1).
+
+Building/Rib: Tennis Court 2 (Located in Tennis Court 2) [ID: tennis-court-2]
+  - Ground: Tennis Court 2
+    * Tennis Court 2 is located on the Ground of Tennis Court 2 (Tennis Court 2).
+
+Building/Rib: Basket Ball Court (Located in Basket Ball Court) [ID: basket-ball-court]
+  - Ground: Basket Ball Court
+    * Basket Ball Court is located on the Ground of Basket Ball Court (Basket Ball Court).
+
+Building/Rib: Volley Ball Court (Located in Volley Ball Court) [ID: volley-ball-court]
+  - Ground: Volley Ball Court
+    * Volley Ball Court is located on the Ground of Volley Ball Court (Volley Ball Court).
+
+Building/Rib: Empty Playground (Located in Empty Playground) [ID: playground-1]
+  - Ground: Empty Playground
+    * Empty Playground is located on the Ground of Empty Playground (Empty Playground).
+
+Building/Rib: Agri Playground (Located in Agri Playground) [ID: agri-playground]
+  - Ground: Agri Playground
+    * Agri Playground is located on the Ground of Agri Playground (Agri Playground).
+
+Building/Rib: Day Scholar Mess (Located in Day Scholar Mess) [ID: dayscholar-mess-1]
+  - Ground: Day Scholar Mess
+    * Day Scholar Mess is located on the Ground of Day Scholar Mess (Day Scholar Mess).
+
+Building/Rib: Day Scholar Mess (Located in Day Scholar Mess) [ID: dayscholar-mess-2]
+  - Ground: Day Scholar Mess
+    * Day Scholar Mess is located on the Ground of Day Scholar Mess (Day Scholar Mess).
+
+Building/Rib: PET Room (Located in PET Room) [ID: pet-room]
+  - Ground: PET Room
+    * PET Room is located on the Ground of PET Room (PET Room).
+
+Building/Rib: Recreation Hall (Located in Cafeteria) [ID: recreation-hall]
+  Keywords/Departments: shop, store, gift, mobile
+  - Ground Floor: Conventional Store, Gift Shop, Mobile Shop
+    * Conventional Store is located on the Ground Floor of Recreation Hall (Cafeteria).
+    * Gift Shop is located on the Ground Floor of Recreation Hall (Cafeteria).
+    * Mobile Shop is located on the Ground Floor of Recreation Hall (Cafeteria).
+  - First Floor: Recreation Hall
+    * Recreation Hall is located on the First Floor of Recreation Hall (Cafeteria).
+
+Building/Rib: Basketball Court (Located in Basketball Court) [ID: girls-basketball-court]
+  - Ground: Basketball Court
+    * Basketball Court is located on the Ground of Basketball Court (Basketball Court).
+
+Building/Rib: Mess (Located in Girls Mess) [ID: girls-mess]
+  - Ground Floor: Mess
+    * Mess is located on the Ground Floor of Mess (Girls Mess).
+  - First Floor: Dance Hall, Girls Gym, Mess
+    * Dance Hall is located on the First Floor of Mess (Girls Mess).
+    * Girls Gym is located on the First Floor of Mess (Girls Mess).
+    * Mess is located on the First Floor of Mess (Girls Mess).
+
+Building/Rib: Cauvery Hostel (Located in Cauvery Hostel) [ID: kaveri]
+  - Ground: Cauvery Hostel
+    * Cauvery Hostel is located on the Ground of Cauvery Hostel (Cauvery Hostel).
+
+Building/Rib: Narmadha Hostel (Located in Narmadha Hostel) [ID: narmadha]
+  - Ground: Narmadha Hostel
+    * Narmadha Hostel is located on the Ground of Narmadha Hostel (Narmadha Hostel).
+
+Building/Rib: Ganga Hostel (Located in Ganga Hostel) [ID: ganga]
+  - Ground: Ganga Hostel
+    * Ganga Hostel is located on the Ground of Ganga Hostel (Ganga Hostel).
+
+Building/Rib: Yamuna Hostel (Located in Yamuna Hostel) [ID: yamuna]
+  - Ground: Yamuna Hostel
+    * Yamuna Hostel is located on the Ground of Yamuna Hostel (Yamuna Hostel).
+
+Building/Rib: North Bhavani (Located in North Bhavani) [ID: north-bhavani]
+  - Ground: North Bhavani
+    * North Bhavani is located on the Ground of North Bhavani (North Bhavani).
+
+Building/Rib: Old Bhavani (Located in Old Bhavani) [ID: middle-bhavani]
+  - Ground: Old Bhavani
+    * Old Bhavani is located on the Ground of Old Bhavani (Old Bhavani).
+
+Building/Rib: South Bhavani (Located in South Bhavani) [ID: south-bhavani]
+  - Ground: South Bhavani
+    * South Bhavani is located on the Ground of South Bhavani (South Bhavani).
+
+Building/Rib: Medical Centre (Located in Medical Centre) [ID: medical-centre]
+  - Ground: Medical Centre
+    * Medical Centre is located on the Ground of Medical Centre (Medical Centre).
+
+Building/Rib: West Gate (Located in West Gate) [ID: west-gate]
+  - Ground: West Gate
+    * West Gate is located on the Ground of West Gate (West Gate).
+
+Building/Rib: Cricket Ground (Located in Cricket Ground) [ID: cricket-ground]
+  - Ground: Cricket Ground
+    * Cricket Ground is located on the Ground of Cricket Ground (Cricket Ground).
+
+Building/Rib: Football Ground (Located in Football Ground) [ID: football-ground]
+  - Ground: Football Ground
+    * Football Ground is located on the Ground of Football Ground (Football Ground).
+
+Building/Rib: Empty Playgorund (Located in Empty Playgorund) [ID: playground-2]
+  - Ground: Empty Playgorund
+    * Empty Playgorund is located on the Ground of Empty Playgorund (Empty Playgorund).
+
+Building/Rib: Empty Playground (Located in Empty Playground) [ID: playground-3]
+  - Ground: Empty Playground
+    * Empty Playground is located on the Ground of Empty Playground (Empty Playground).
+
+Building/Rib: West Parking Lot (Located in West Parking Lot) [ID: west-parking]
+  - Ground: West Parking Lot
+    * West Parking Lot is located on the Ground of West Parking Lot (West Parking Lot).
+
+Building/Rib: Staff Quarters (Located in Staff Quarters) [ID: staff-quarters]
+  - Ground: Staff Quarters
+    * Staff Quarters is located on the Ground of Staff Quarters (Staff Quarters).
+
+Building/Rib: Smart Agri Fields (Located in Smart Agri Fields) [ID: smart-agri-fields]
+  - Ground: Smart Agri Fields
+    * Smart Agri Fields is located on the Ground of Smart Agri Fields (Smart Agri Fields).
+
+Building/Rib: Main Gate (Located in Main Gate) [ID: main-gate]
+  - Ground: Main Gate
+    * Main Gate is located on the Ground of Main Gate (Main Gate).
+
+Building/Rib: Main Parking Area (Located in Main Parking Area) [ID: main-parking]
+  - Ground: Main Parking Area
+    * Main Parking Area is located on the Ground of Main Parking Area (Main Parking Area).
+
+Building/Rib: Principal Office (Located in Principal Office) [ID: principal-office]
+  - Ground: Principal Office
+    * Principal Office is located on the Ground of Principal Office (Principal Office).
+
+Building/Rib: Lake (Located in Lake) [ID: lake]
+  - Ground: Lake
+    * Lake is located on the Ground of Lake (Lake).
+
+Building/Rib: Research Park (Located in Research Park) [ID: research-park]
+  - Ground: Research Park
+    * Research Park is located on the Ground of Research Park (Research Park).
+
+Building/Rib: BIT Guest House (Located in BIT Guest House) [ID: guest-house]
+  - Ground: BIT Guest House
+    * BIT Guest House is located on the Ground of BIT Guest House (BIT Guest House).
+
+Building/Rib: Day Scholar Buses (Located in Day Scholar Buses) [ID: bus]
+  - Ground: Day Scholar Buses
+    * Day Scholar Buses is located on the Ground of Day Scholar Buses (Day Scholar Buses).
+
+Building/Rib: Herbal Garden (Located in Herbal Garden) [ID: herbal-garden]
+  - Ground: Herbal Garden
+    * Herbal Garden is located on the Ground of Herbal Garden (Herbal Garden).
+
+Building/Rib: ATM (Located in ATM) [ID: atm-1]
+  - Ground: ATM
+    * ATM is located on the Ground of ATM (ATM).
+
+Building/Rib: West Gate (Staffs) (Located in West Gate (Staffs)) [ID: west-gate-staffs]
+  - Ground: West Gate (Staffs)
+    * West Gate (Staffs) is located on the Ground of West Gate (Staffs) (West Gate (Staffs)).
+
+Building/Rib: Principal Cabin (Located in Principal Cabin) [ID: principal-room]
+  - Ground: Principal Cabin
+    * Principal Cabin is located on the Ground of Principal Cabin (Principal Cabin).
+
+Building/Rib: Dean Cabin (Located in Dean Cabin) [ID: dean-room]
+  - Ground: Dean Cabin
+    * Dean Cabin is located on the Ground of Dean Cabin (Dean Cabin).
+
+Building/Rib: Visitor hall (Boys) (Located in Boys Hostel Gate) [ID: boys-visitor-hall]
+  Keywords/Departments: 
+  - Ground Floor: Boys Visitor Hall
+    * Boys Visitor Hall is located on the Ground Floor of Visitor hall (Boys) (Boys Hostel Gate).
+
+Building/Rib: Boys Hostels (Located in Boys Hostels) [ID: boys-hostels]
+  - Ground: Boys Hostels
+    * Boys Hostels is located on the Ground of Boys Hostels (Boys Hostels).
+
+Building/Rib: Canteens (boys) (Located in Canteens (boys)) [ID: boys-canteen]
+  - Ground: Canteens (boys)
+    * Canteens (boys) is located on the Ground of Canteens (boys) (Canteens (boys)).
+
+Building/Rib: Girls Hostels (Located in Girls Hostels) [ID: girls-hostels]
+  - Ground: Girls Hostels
+    * Girls Hostels is located on the Ground of Girls Hostels (Girls Hostels).
+
+Building/Rib: Visitors Hut (Girls) (Located in Visitors Hut (Girls)) [ID: girls-visitor-hut]
+  - Ground: Visitors Hut (Girls)
+    * Visitors Hut (Girls) is located on the Ground of Visitors Hut (Girls) (Visitors Hut (Girls)).
+
+Building/Rib: Parlour (Boys) (Located in Parlour (Boys)) [ID: parlour-boys]
+  - Ground: Parlour (Boys)
+    * Parlour (Boys) is located on the Ground of Parlour (Boys) (Parlour (Boys)).
+
+Building/Rib: Canteen (Girls) (Located in Canteen (Girls)) [ID: canteen-girls]
+  - Ground: Canteen (Girls)
+    * Canteen (Girls) is located on the Ground of Canteen (Girls) (Canteen (Girls)).
+
+Building/Rib: Laundry (Girls) (Located in Laundry (Girls)) [ID: laundry-girls]
+  - Ground: Laundry (Girls)
+    * Laundry (Girls) is located on the Ground of Laundry (Girls) (Laundry (Girls)).
+
+Building/Rib: Parlour (Girls) (Located in Parlour (Girls)) [ID: parlour-girls]
+  - Ground: Parlour (Girls)
+    * Parlour (Girls) is located on the Ground of Parlour (Girls) (Parlour (Girls)).
+
+Building/Rib: Outdoor Gym (Located in Outdoor Gym) [ID: outdoor-gym-2]
+  - Ground: Outdoor Gym
+    * Outdoor Gym is located on the Ground of Outdoor Gym (Outdoor Gym).
+
+Building/Rib: Outdoor Gym (Located in Outdoor Gym) [ID: outdoor-gym-3]
+  - Ground: Outdoor Gym
+    * Outdoor Gym is located on the Ground of Outdoor Gym (Outdoor Gym).
+
+Building/Rib: Throw Ball Court (Located in Throw Ball Court) [ID: throwball-court-girls]
+  - Ground: Throw Ball Court
+    * Throw Ball Court is located on the Ground of Throw Ball Court (Throw Ball Court).
+
+Building/Rib: Volley Ball Court (Located in Volley Ball Court) [ID: volleyball-court-girls]
+  - Ground: Volley Ball Court
+    * Volley Ball Court is located on the Ground of Volley Ball Court (Volley Ball Court).
+
+Building/Rib: Girls Gym (Located in Girls Gym) [ID: girls-gym]
+  - Ground: Girls Gym
+    * Girls Gym is located on the Ground of Girls Gym (Girls Gym).
+
+Building/Rib: Dance Hall (Located in Dance Hall) [ID: dance-hall]
+  - Ground: Dance Hall
+    * Dance Hall is located on the Ground of Dance Hall (Dance Hall).

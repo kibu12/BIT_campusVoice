@@ -1,0 +1,195 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+}
+
+/* ==========================================================================
+   Base Body & University Light Canvas System
+   ========================================================================== */
+html, body {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  width: 100%;
+  overflow-x: hidden;
+  background-color: #F8FAFC;
+  color: #0F172A;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  letter-spacing: normal;
+}
+
+/* Subtle ambient background illumination */
+html.light body {
+  background-color: #F8FAFC;
+  color: #0F172A;
+  background-image: 
+    radial-gradient(at 0% 0%, rgba(37, 99, 235, 0.03) 0px, transparent 40%),
+    radial-gradient(at 100% 0%, rgba(20, 184, 166, 0.025) 0px, transparent 35%),
+    radial-gradient(at 50% 100%, rgba(37, 99, 235, 0.02) 0px, transparent 45%);
+  background-attachment: fixed;
+}
+
+/* Balanced Dark Mode fallback */
+html.dark body {
+  background-color: #09090B;
+  color: #F4F4F5;
+  background-image: 
+    radial-gradient(at 0% 0%, rgba(37, 99, 235, 0.06) 0px, transparent 50%),
+    radial-gradient(at 100% 100%, rgba(15, 23, 42, 0.3) 0px, transparent 50%);
+  background-attachment: fixed;
+}
+
+/* ==========================================================================
+   Design System Surfaces, Cards & Panels
+   ========================================================================== */
+.clean-card {
+  background-color: #FFFFFF;
+  border: 1px solid #E2E8F0;
+  border-radius: 1rem;
+  box-shadow: 0 1px 3px 0 rgba(15, 23, 42, 0.03), 0 1px 2px -1px rgba(15, 23, 42, 0.02);
+  transition: border-color 0.15s ease, box-shadow 0.15s ease, transform 0.15s ease;
+}
+
+.clean-card:hover {
+  border-color: #CBD5E1;
+  box-shadow: 0 4px 12px -2px rgba(15, 23, 42, 0.06), 0 2px 4px -2px rgba(15, 23, 42, 0.03);
+}
+
+html.dark .clean-card {
+  background-color: #121215;
+  border-color: #27272A;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+html.dark .clean-card:hover {
+  border-color: #3F3F46;
+  box-shadow: 0 4px 16px -2px rgba(0, 0, 0, 0.5);
+}
+
+.glass-header {
+  background: rgba(255, 255, 255, 0.92);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid #E2E8F0;
+}
+
+html.dark .glass-header {
+  background: rgba(9, 9, 11, 0.92);
+  border-bottom: 1px solid #27272A;
+}
+
+/* ==========================================================================
+   Button System
+   ========================================================================== */
+.btn-primary {
+  background-color: #2563EB;
+  color: #FFFFFF;
+  font-weight: 600;
+  border-radius: 0.75rem;
+  border: 1px solid transparent;
+  transition: all 0.15s ease;
+  cursor: pointer;
+  box-shadow: 0 1px 2px 0 rgba(37, 99, 235, 0.2);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn-primary:hover {
+  background-color: #1D4ED8;
+  box-shadow: 0 2px 6px 0 rgba(37, 99, 235, 0.3);
+}
+
+.btn-primary:active {
+  transform: scale(0.985);
+}
+
+.btn-secondary {
+  background-color: #FFFFFF;
+  color: #334155;
+  border: 1px solid #E2E8F0;
+  font-weight: 600;
+  border-radius: 0.75rem;
+  transition: all 0.15s ease;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn-secondary:hover {
+  background-color: #F8FAFC;
+  border-color: #CBD5E1;
+  color: #0F172A;
+}
+
+.btn-secondary:active {
+  transform: scale(0.985);
+}
+
+html.dark .btn-secondary {
+  background-color: #18181B;
+  color: #E4E4E7;
+  border-color: #27272A;
+}
+
+html.dark .btn-secondary:hover {
+  background-color: #27272A;
+  color: #FFFFFF;
+  border-color: #3F3F46;
+}
+
+/* ==========================================================================
+   Audio Waves & Voice Visualizer Keyframes
+   ========================================================================== */
+@keyframes voiceWaveBar {
+  0%, 100% { height: 6px; }
+  50% { height: 22px; }
+}
+
+.animate-wave-1 { animation: voiceWaveBar 0.9s ease-in-out infinite 0.1s; }
+.animate-wave-2 { animation: voiceWaveBar 0.7s ease-in-out infinite 0.25s; }
+.animate-wave-3 { animation: voiceWaveBar 1.1s ease-in-out infinite 0.4s; }
+.animate-wave-4 { animation: voiceWaveBar 0.8s ease-in-out infinite 0.15s; }
+.animate-wave-5 { animation: voiceWaveBar 0.95s ease-in-out infinite 0.3s; }
+
+/* ==========================================================================
+   Scrollbar & Utilities
+   ========================================================================== */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: #CBD5E1;
+  border-radius: 9999px;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #94A3B8;
+}
+
+html.dark .custom-scrollbar::-webkit-scrollbar-thumb {
+  background: #3F3F46;
+}
+html.dark .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #52525B;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+
